@@ -1,2 +1,2 @@
 # OmNomNomagon.github.io
-project website rendered
+Rendered Static website
