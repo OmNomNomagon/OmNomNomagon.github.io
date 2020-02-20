@@ -6,7 +6,11 @@
     <description>Recent content in electro on :   Code  :   Cad   :   Carve  :  Create :</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <copyright>Copyright: Mark Riganti `{year}`</copyright>
+=======
+    <copyright>`&amp;copy;` Mark Riganti `{year}`</copyright>
+>>>>>>> master
     <lastBuildDate>Wed, 19 Feb 2020 00:59:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://riganti.com.au/tags/electro/index.xml" rel="self" type="application/rss+xml" />
