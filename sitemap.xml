@@ -3,31 +3,386 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/p3-switch-dock/</loc>
-    <lastmod>2019-10-29T23:50:11+11:00</lastmod>
+    <loc>https://riganti.com.au/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-10-29T23:50:11+11:00</lastmod>
+    <loc>https://riganti.com.au/courses/example.1/example3/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-10-29T23:50:11+11:00</lastmod>
+    <loc>https://riganti.com.au/courses/example.2/example3/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/p1-mk3x/</loc>
-    <lastmod>2019-10-29T23:16:29+11:00</lastmod>
+    <loc>https://riganti.com.au/courses/example.1/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://riganti.com.au/courses/example.2/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://riganti.com.au/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/courses/example.2/example4/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/courses/example.1/example4/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/talk/coding/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/talk/qualitative/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/talk/synthesizing/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/tags/3d/</loc>
+    <lastmod>2020-02-19T00:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/tags/electro/</loc>
+    <lastmod>2020-02-19T00:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/</loc>
+    <lastmod>2020-02-19T00:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/mk3x/</loc>
+    <lastmod>2020-02-19T00:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/tags/</loc>
+    <lastmod>2020-02-19T00:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/tv/</loc>
+    <lastmod>2020-02-19T00:58:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/tags/wood/</loc>
+    <lastmod>2020-02-19T00:58:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/poly/</loc>
+    <lastmod>2020-02-19T00:57:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/coffee/</loc>
+    <lastmod>2020-02-19T00:56:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/lamp/</loc>
+    <lastmod>2020-02-19T00:55:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/switch/</loc>
+    <lastmod>2020-02-19T00:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/dining/</loc>
+    <lastmod>2020-02-19T00:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/mk52/</loc>
+    <lastmod>2020-02-19T00:53:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/chopping/</loc>
+    <lastmod>2020-02-19T00:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/desk/</loc>
+    <lastmod>2020-02-19T00:51:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/spice/</loc>
+    <lastmod>2020-02-19T00:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/hemera/</loc>
+    <lastmod>2020-02-19T00:49:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/lack/</loc>
+    <lastmod>2020-02-19T00:48:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/tags/audio/</loc>
+    <lastmod>2020-02-19T00:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/alpha/</loc>
+    <lastmod>2020-02-19T00:47:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/miniplanter/</loc>
+    <lastmod>2020-02-19T00:46:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/chair/</loc>
+    <lastmod>2020-02-19T00:46:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/sonoff/</loc>
+    <lastmod>2020-02-19T00:45:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/denon/</loc>
+    <lastmod>2020-02-19T00:44:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/planter/</loc>
+    <lastmod>2020-02-19T00:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/cherry/</loc>
+    <lastmod>2020-02-19T00:42:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/lego/</loc>
+    <lastmod>2020-02-19T00:41:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/sidet/</loc>
+    <lastmod>2020-02-19T00:40:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/cable/</loc>
+    <lastmod>2020-02-19T00:39:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/speaker/</loc>
+    <lastmod>2020-02-19T00:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/kb1/</loc>
+    <lastmod>2020-02-19T00:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/he500/</loc>
+    <lastmod>2020-02-19T00:36:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/es10/</loc>
+    <lastmod>2020-02-19T00:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/kb2/</loc>
+    <lastmod>2020-02-19T00:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/hook/</loc>
+    <lastmod>2020-02-19T00:34:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/moon/</loc>
+    <lastmod>2020-02-19T00:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/titan/</loc>
+    <lastmod>2020-02-19T00:32:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/vacuum/</loc>
+    <lastmod>2020-02-19T00:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/alcostand/</loc>
+    <lastmod>2020-02-19T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/earbud/</loc>
+    <lastmod>2020-02-19T00:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/controller/</loc>
+    <lastmod>2020-02-19T00:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/wanhao/</loc>
+    <lastmod>2020-02-19T00:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/authors/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/tags/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/post/jupyter/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/post/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/post/snail/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/tags/academia/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/publication_types/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/courses/</loc>
   </url>
   
 </urlset>

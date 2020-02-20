@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on - Code  -   Carve  -   Cad  -  Create -</title>
+    <link>https://riganti.com.au/project/</link>
+    <description>Recent content in Projects on - Code  -   Carve  -   Cad  -  Create -</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Mark Riganti</copyright>
+    <lastBuildDate>Wed, 19 Feb 2020 00:59:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://riganti.com.au/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ReDuplicator MK3x - Wanhao i3 overhaul</title>
+      <link>https://riganti.com.au/project/mk3x/</link>
+      <pubDate>Wed, 19 Feb 2020 00:59:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/mk3x/</guid>
+      <description>&lt;p&gt;This project is a complete overhaul of the original Wanhao i3 with a few main objectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keep the core components of the printer while upgrading its structure.&lt;/li&gt;
+&lt;li&gt;Create maximum rigidity through a sturdy 3030 Aluminium extrusion frame.&lt;/li&gt;
+&lt;li&gt;Allow for future proofing and commonality of parts by basing all printed parts on the current Original Prusa MK3 files.&lt;/li&gt;
+&lt;li&gt;Reduce the weight of the X and Y carriages where possible to improve print speed and quality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/main.jpg&#34; alt=&#34;noooice&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Wanhao i3 is a fabulous printer, but new generations of printers have begun pushing the boundaries. It has become apparent that in comparison, the Wanhao has a few deficiencies. Deficiencies which we will address in this project. The key improvements of this upgrade include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Much better rigidity through 3030 extrusions and metal brackets. Even with my or Azza’s excellent z braces the printer was still susceptible to slight wobble, especially under twisting forces (pull left tower and push right tower). When moving the printer it would require constant releveling due these small movements. Now i can barely get any movement using my full strength.&lt;/li&gt;
+&lt;li&gt;Comfortably increase Z height to ~200mm&lt;/li&gt;
+&lt;li&gt;Reduce noise. By not screwing the motors directly onto the metal frame, motor vibrations and noise is reduced significantly.&lt;/li&gt;
+&lt;li&gt;Move towards more standard Prusa files for future upgradability, but with added strength improvements.&lt;/li&gt;
+&lt;li&gt;Modular hotend, This design allows for the hotend to be replaced easily replaced without disassembling the printer. I have created a Titan Aero mount as an alternative to the original MK10 with a E3DV6 mount incoming.&lt;/li&gt;
+&lt;li&gt;Sturdier 4 bearing Prusa style X-gantry. Not sure if it was specific to my printer or a common Wanhao problem, but my X gantry always had a lot of wobble which may have been a source of printing artifacts.&lt;/li&gt;
+&lt;li&gt;Noticeably better print quality due to a combination of everything above. I am able to print faster with better quality.&lt;/li&gt;
+&lt;li&gt;All Wanhao i3 variants and rebrands are compatible, however the plus will require additional work to create an enclosure for the electronics. This project can also be built from scratch, or salvaged from other printers as long as measurements are altered accordingly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK3x/blob/master/Pics/1%20Glamor%20Shots/PrintDemo.webp?raw=true&#34; alt=&#34;Oh hai&#34;&gt;
+Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/side.jpg&#34; alt=&#34;Oh hai&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Sample of improved print quality. 0.24mm layer height @ 70mm/s (titan aero).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/boaty1.JPG&#34; alt=&#34;boatyMcboat&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This project will be maintained both at &lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx&#34;&gt;github&lt;/a&gt; and at &lt;a href=&#34;https://www.thingiverse.com/thing:2686588&#34;&gt;thingiverse&lt;/a&gt;. The files were created using a combination of Fusion360 and tinkercad. They can be viewed and edited via &lt;a href=&#34;https://www.tinkercad.com/things/azPlfmHU5MQ#/&#34;&gt;this Tinkercad link.&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;table-of-contents&#34;&gt;Table Of Contents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/1.--Bill-Of-Materials&#34;&gt;1. Bill Of Materials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/2.-Printing-Parts-&amp;amp;-Pre-Assembly&#34;&gt;2. Printing Parts &amp;amp; Pre Assembly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/3.-Base&#34;&gt;3. Base&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/4.-Begin-The-ZTower&#34;&gt;4. Begin The ZTower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/5.1-Hotend-MK10-Original&#34;&gt;5.1 Hotend MK10 Original&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/5.2-Hotend-Titan-Aero-Upgrade&#34;&gt;5.2 Hotend Titan Aero Upgrade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK3x/wiki/5.3-Hotend-Hemera-upgrade&#34;&gt;5.3 Hotend E3D Hemera Upgrade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/6.-XAxis-Gantry&#34;&gt;6. XAxis Gantry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/7.-Complete--the-ZTower&#34;&gt;7. Complete the ZTower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/8.--YAxis&#34;&gt;8. YAxis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/9.-Cabling&#34;&gt;9. Cabling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/9.1.-Recommendations-&amp;amp;-Future-Dev&#34;&gt;9.1. Recommendations &amp;amp; Future Dev&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;thanks-and-acknowledgements&#34;&gt;Thanks and Acknowledgements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/prusa3d/Original-Prusa-i3&#34;&gt;Prusa Research MK2s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/thing:1692666&#34;&gt;Datvr&amp;rsquo;s Prusa MK2S-x&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/thing:1246425&#34;&gt;Thorped&amp;rsquo;s excellent Wanhao Fan Duct &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/thing:1635585&#34;&gt;Cyul&amp;rsquo;s spool holder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;changelog&#34;&gt;Changelog&lt;/h2&gt;
+&lt;p&gt;1.0 - Initial Release&lt;/p&gt;
+&lt;p&gt;1.01 - Updated idler files with multiple z endstop mount points for upcoming Titan Aero upgrade. Sturdier cable cover box. Added 1Meter GT2 belt to BOM as the stock belt may not be long enough (can anyone confirm?)&lt;/p&gt;
+&lt;p&gt;1.02 - Updated the &lt;strong&gt;Part Fan Bracket&lt;/strong&gt; to &lt;strong&gt;Part Fan Bracket V1.1&lt;/strong&gt; The original doesn&amp;rsquo;t align with the carriage plates properly. Please print the revised one.&lt;/p&gt;
+&lt;p&gt;1.03 - Uploaded a new Y Carriage Belt Holder. This one is based on the current MK3 design and is much easier to fix and tension.&lt;/p&gt;
+&lt;p&gt;1.04 - &lt;strong&gt;X Gantry Idler 9MM V2&lt;/strong&gt; was missing the heat-sert insert holes to mount the cable box. Updated and fixed with &lt;strong&gt;X Gantry Idler 9MM V3&lt;/strong&gt;. If you have already printed V2, you can keep the part and manually drill 2x 4mm holes spaced 9mm wide and 6mm deep.&lt;/p&gt;
+&lt;p&gt;1.1 - 11/03/2018 Major Prusa MK3 Update. This updates an update of many of the original MK2s based parts to MK3 Based parts. This includes;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MK3 Based Part Cooling shroud and mount. It performs much better than the original Thorped based one. flawless @60 degree overhang with some sagging @70 degree overhang. The original would show artefacts &lt;a href=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/overhang.jpg&#34;&gt;@60 degrees.&lt;/a&gt;. Almost comparable to the &lt;a href=&#34;https://www.reddit.com/r/3Dprinting/comments/7kexdv/a_nearly_comprehensive_study_of_cooling_fans_and/&#34;&gt;Dii Cooler.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Much improved X Carriage. This uses the new &lt;a href=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/4%20Hotend/CarriageNew.jpg&#34;&gt;MK3 belt mounting method&lt;/a&gt; which is much easier to install under tension. The whole extruder assembly can now also easily slide on and off the rods to greatly simplify installation and maintenance. 16mm M3 screws are used to secure the bearings. I&amp;rsquo;ve also made and tested changes which allow the extruder assembly to be built without heat-serts and can be substituted with M3 nylocks. NOTE: due to these changes the Rear carriage plate is NOT compatible with the existing Front extruder plate as the hole spacing has been changed. The New Front extruder plate must be used.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Front Extruder Plate. Better spacing around the hotend to improve the filament path. Updating Hole Spacing to be compatible with the new Rear Carriage Plate. Strengthened BLTouch mount. Increase spacing around heater block to reduce residual heat. Not compatible with old extruder plate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;X Axis Motor Mount. Incorporates the new MK3 design. Better Spacing to ensure a straighter belt path. Includes new MK3 tensioner to easily tension X belt. Requires M3nS Nut and 20mm M3 screw. (Enough tension can be applied by without the M3nS) Installation is similar to the Prusa instructions &lt;a href=&#34;http://manual.prusa3d.com/Guide/4.+Z-axis+assembly/509?lang=en&#34;&gt;here, steps 11-18.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;As this project  contains dozens of files already, Older retired files are retired to the &lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/tree/master/STLs%20Reduplicator%20Core%20Parts/Retired%20Versions&#34;&gt;Retired Versions directory in github&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.1.1 - Endstop Part For sensorless homing with TMC2130 Drivers.&lt;/p&gt;
+&lt;p&gt;1.2 - 05/11/2018 - Multiple improvements based on Prusa MK3 R3 release. This includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Prusa MK3 R3 based part cooling shroud. This gives a noticeable improvement over the original shroud. Also improved the clearance between the shroud and the nozzle.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Improved X Carriage rear plate. This was strengthend to better handle bumps and knocks. Rigidity is also improved. It is still a common part between the MK10 and titan aero extruders.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strengthened Z Rod Securer parts. Some people had issues with these snapping in PLA but should no longer be an issue.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.3 - 17/02/2020 - E3D Hemera mount. Updated fan duct to the most recent R4 release. Added an angle for increased rear fan duct clearance. This will filter down to the other hotend designs shortly. Initial update of parts across to fusion 360. A number of parts have been converted and this will continue over time.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraMain.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Improved cable mounting system by clipping onto the X axis motor&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/CableMotor.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1.3.1 - 19/02/2020 - MK52 Removeable heatbed Mod - resized rods and extrusions to accommodate the prusa MK3 heatbed.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Main.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Redgum Entertainment Unit</title>
+      <link>https://riganti.com.au/project/tv/</link>
+      <pubDate>Wed, 19 Feb 2020 00:58:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/tv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Poly Planter</title>
+      <link>https://riganti.com.au/project/poly/</link>
+      <pubDate>Wed, 19 Feb 2020 00:57:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/poly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Coffee Table</title>
+      <link>https://riganti.com.au/project/coffee/</link>
+      <pubDate>Wed, 19 Feb 2020 00:56:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/coffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Converging LED Floor Lamp</title>
+      <link>https://riganti.com.au/project/lamp/</link>
+      <pubDate>Wed, 19 Feb 2020 00:55:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/lamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switch Dock Game Holder</title>
+      <link>https://riganti.com.au/project/switch/</link>
+      <pubDate>Wed, 19 Feb 2020 00:54:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/switch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dining Table</title>
+      <link>https://riganti.com.au/project/dining/</link>
+      <pubDate>Wed, 19 Feb 2020 00:53:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/dining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MK52 Heatbed Expansion</title>
+      <link>https://riganti.com.au/project/mk52/</link>
+      <pubDate>Wed, 19 Feb 2020 00:53:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/mk52/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ironbark Chopping Board</title>
+      <link>https://riganti.com.au/project/chopping/</link>
+      <pubDate>Wed, 19 Feb 2020 00:52:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/chopping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Desk</title>
+      <link>https://riganti.com.au/project/desk/</link>
+      <pubDate>Wed, 19 Feb 2020 00:51:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/desk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oak Test Tube Spice Rack</title>
+      <link>https://riganti.com.au/project/spice/</link>
+      <pubDate>Wed, 19 Feb 2020 00:50:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/spice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hemera Hotend Upgrade</title>
+      <link>https://riganti.com.au/project/hemera/</link>
+      <pubDate>Wed, 19 Feb 2020 00:49:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/hemera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanaho Lack Triple Stack</title>
+      <link>https://riganti.com.au/project/lack/</link>
+      <pubDate>Wed, 19 Feb 2020 00:48:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/lack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Alpha 3.5mm Headphones</title>
+      <link>https://riganti.com.au/project/alpha/</link>
+      <pubDate>Wed, 19 Feb 2020 00:47:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/alpha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acacia Mini Planters</title>
+      <link>https://riganti.com.au/project/miniplanter/</link>
+      <pubDate>Wed, 19 Feb 2020 00:46:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/miniplanter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ironbark outdoor Chairs</title>
+      <link>https://riganti.com.au/project/chair/</link>
+      <pubDate>Wed, 19 Feb 2020 00:46:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/chair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonoff Dual USB</title>
+      <link>https://riganti.com.au/project/sonoff/</link>
+      <pubDate>Wed, 19 Feb 2020 00:45:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/sonoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denon Headband Mod</title>
+      <link>https://riganti.com.au/project/denon/</link>
+      <pubDate>Wed, 19 Feb 2020 00:44:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/denon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self Watering Planter Box</title>
+      <link>https://riganti.com.au/project/planter/</link>
+      <pubDate>Wed, 19 Feb 2020 00:43:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/planter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cherry Popper tool</title>
+      <link>https://riganti.com.au/project/cherry/</link>
+      <pubDate>Wed, 19 Feb 2020 00:42:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/cherry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lego Saturn V Stand</title>
+      <link>https://riganti.com.au/project/lego/</link>
+      <pubDate>Wed, 19 Feb 2020 00:41:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/lego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ironbark Side Table Top</title>
+      <link>https://riganti.com.au/project/sidet/</link>
+      <pubDate>Wed, 19 Feb 2020 00:40:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/sidet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quad Braided Headphone Cables</title>
+      <link>https://riganti.com.au/project/cable/</link>
+      <pubDate>Wed, 19 Feb 2020 00:39:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/cable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ironbark Speaker Stands</title>
+      <link>https://riganti.com.au/project/speaker/</link>
+      <pubDate>Wed, 19 Feb 2020 00:38:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/speaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom K65 RGB Keyboard</title>
+      <link>https://riganti.com.au/project/kb1/</link>
+      <pubDate>Wed, 19 Feb 2020 00:37:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/kb1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiFiman He-500 Mod</title>
+      <link>https://riganti.com.au/project/he500/</link>
+      <pubDate>Wed, 19 Feb 2020 00:36:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/he500/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Technica ES10 Mod</title>
+      <link>https://riganti.com.au/project/es10/</link>
+      <pubDate>Wed, 19 Feb 2020 00:35:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/es10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Drevo Calibre</title>
+      <link>https://riganti.com.au/project/kb2/</link>
+      <pubDate>Wed, 19 Feb 2020 00:35:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/kb2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Poly Hook</title>
+      <link>https://riganti.com.au/project/hook/</link>
+      <pubDate>Wed, 19 Feb 2020 00:34:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/hook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Moon Lamp</title>
+      <link>https://riganti.com.au/project/moon/</link>
+      <pubDate>Wed, 19 Feb 2020 00:33:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/moon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Titan Aero Upgrade</title>
+      <link>https://riganti.com.au/project/titan/</link>
+      <pubDate>Wed, 19 Feb 2020 00:32:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/titan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECC88 Quad Vacuum Tube holder</title>
+      <link>https://riganti.com.au/project/vacuum/</link>
+      <pubDate>Wed, 19 Feb 2020 00:31:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/vacuum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scotch headphone Stand</title>
+      <link>https://riganti.com.au/project/alcostand/</link>
+      <pubDate>Wed, 19 Feb 2020 00:30:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/alcostand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earbuddy headphone Case</title>
+      <link>https://riganti.com.au/project/earbud/</link>
+      <pubDate>Wed, 19 Feb 2020 00:29:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/earbud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanhao 24v Gen-L TMC2130 upgrade</title>
+      <link>https://riganti.com.au/project/controller/</link>
+      <pubDate>Wed, 19 Feb 2020 00:28:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/controller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanhao Straight Braces</title>
+      <link>https://riganti.com.au/project/wanhao/</link>
+      <pubDate>Wed, 19 Feb 2020 00:27:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/wanhao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

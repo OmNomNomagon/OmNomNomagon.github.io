@@ -1,33 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mark Riganti&#39;s Project Website</title>
-    <link>/</link>
-    <description>Recent content on Mark Riganti&#39;s Project Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>- Code  -   Carve  -   Cad  -  Create -</title>
+    <link>https://riganti.com.au/</link>
+    <description>Recent content on - Code  -   Carve  -   Cad  -  Create -</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 23:50:11 +1100</lastBuildDate>
+    <copyright>Mark Riganti</copyright>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://riganti.com.au/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Low Poly Planter - Wide Top </title>
-      <link>/posts/p3-switch-dock/</link>
-      <pubDate>Tue, 29 Oct 2019 23:50:11 +1100</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://riganti.com.au/talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>/posts/p3-switch-dock/</guid>
-      <description>This is a remix of Keagan_Exsteen&amp;rsquo;s excellent poly planter.
-The original tapers inwards at the top which made it unsuitble for a number of plants.</description>
+      <guid>https://riganti.com.au/talk/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Wanhao MK3x - Complate Wanhao i3 overhaul</title>
-      <link>/posts/p1-mk3x/</link>
-      <pubDate>Tue, 29 Oct 2019 23:16:29 +1100</pubDate>
+      <title>Projects</title>
+      <link>https://riganti.com.au/project/</link>
+      <pubDate>Wed, 19 Feb 2020 00:59:00 +0000</pubDate>
       
-      <guid>/posts/p1-mk3x/</guid>
-      <description>ReDuplicator MK3x This project is a complete overhaul of the original Wanhao i3 with a few main objectives:</description>
+      <guid>https://riganti.com.au/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://riganti.com.au/publication/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://riganti.com.au/post/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://riganti.com.au/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>https://riganti.com.au/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/courses/</guid>
+      <description></description>
     </item>
     
   </channel>
