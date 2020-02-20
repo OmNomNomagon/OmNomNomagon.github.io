@@ -117,7 +117,32 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:55:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/lamp/</guid>
-      <description></description>
+      <description>&lt;p&gt;After spending months unsuccessfully trying to find the perfect floor lamp, I decided to make one myself. This design makes use of two &lt;a href=&#34;https://www.ikea.com/au/en/catalog/products/50403184/&#34;&gt;Ikea SPANST LED light bars&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Two light bars overlap in a visually appealing fashion and is the perfect brightness at night. The 3d Printed mounts fit directly into a finished wooden base. I used Australian Red Ironbark coated in danish oil. eSun Silk Brass is a perfect filament to complement the dark red grain of the wood.&lt;/p&gt;
+&lt;p&gt;###Bill Of Materials:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ikea.com/au/en/catalog/products/50403184/&#34;&gt;2 Ikea SPANST LED light bars&lt;/a&gt;.  134cm versions.&lt;/li&gt;
+&lt;li&gt;8 Countersunk Screws. 4g 15-18mm&lt;/li&gt;
+&lt;li&gt;Wood for a base&lt;/li&gt;
+&lt;li&gt;25mm Boring Drill bit&lt;/li&gt;
+&lt;li&gt;2mm Drill bit for pilot holes if you are using a hardwood.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;###Dimensions:&lt;/p&gt;
+&lt;p&gt;Choose any layout you feel looks good, but here are the measurements I used.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Base: 350mm x 190mm x 20mm&lt;/li&gt;
+&lt;li&gt;Holes for the mounts: 25mm Diameter&lt;/li&gt;
+&lt;li&gt;Length Distance Between Mount holes: 160mm (Center to Center)&lt;/li&gt;
+&lt;li&gt;Width Distance Between Mount holes: 34mm (Center to Center)&lt;/li&gt;
+&lt;li&gt;I Used 5 Degree Mounts. However 6 Degree mounts are also included in case you prefer additional overlap.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;###Power and Additional Details&lt;/p&gt;
+&lt;p&gt;The lights are powered via USB. See my Related Sonoff USB box project if you would like to be able to use this lamp with google Assistant / Alexa or use RF wall switches to turn it on from anywhere in your room.&lt;/p&gt;
+&lt;p&gt;I also quad braided the cables using paracord for a cleaner look.&lt;/p&gt;
+&lt;p&gt;This lamp pairs perfectly with my &lt;a href=&#34;https://www.thingiverse.com/thing:4166314&#34;&gt;sonoff USB smart enlcosure&lt;/a&gt; to power the lamp. It allows for google assitant / alexa voice control and has the ability to turn the lamp on and off with paired 433 wall switches.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:4166209&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -135,7 +160,20 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:45:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/sonoff/</guid>
-      <description></description>
+      <description>&lt;p&gt;This is an enclosure to combine a Sonoff R2 Basic RF switch and usb dual output charger.
+The USB charger used is a cheap and easy to source YJ-128. The PCB&amp;rsquo;s for both the Sonoff and charger are press fit into the base.&lt;/p&gt;
+&lt;p&gt;The design features a prominent button for on/off and resetting the switch, strain relief for the input cable, and a thin port where the indicator light can shine through.&lt;/p&gt;
+&lt;p&gt;This device is perfect for pairing with my &lt;a href=&#34;https://www.thingiverse.com/thing:4166209&#34;&gt;Converging LED Floor Lamp project&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;###Requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4x 8mm Countersunk M3 screw&lt;/li&gt;
+&lt;li&gt;2x 8-12mm Button head M3 Screw&lt;/li&gt;
+&lt;li&gt;Sonoff Basic R2 RF smart switch&lt;/li&gt;
+&lt;li&gt;Dual USB charger Model YJ-128&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:4166314&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -162,7 +200,22 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:28:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/controller/</guid>
-      <description></description>
+      <description>&lt;p&gt;An Adaptor to convert the electronics of a wanhao i3 to the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MKS Gen-L&lt;/li&gt;
+&lt;li&gt;Raspi 2/3/b&lt;/li&gt;
+&lt;li&gt;Mosfet with 8mm x 63mm hole spacing, such as &lt;a href=&#34;https://www.aliexpress.com/item/New-3D-Printer-Heated-Bed-Power-Module-High-Current-210A-MOSFET-Upgrade-RAMPS-1-4-12V/32811898708.html?spm=a2g0s.9042311.0.0.um477z&#34;&gt;this one.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Adaptor fits on top of the existing mounting holes and is secured with M3 screws and washers. The  boards are mounted with M3 screws of a length of 3-6mm.&lt;/p&gt;
+&lt;p&gt;Place a piece of carboard or foam under the control board to prevent shorts.
+Pics and a marlin 1.1.8 config for a working MKS Gen-L and TMC2130 are also included. Due to the cramped spacing in the case, the usual USB Type A cable will not fit without being modified. The rubberised plastic shield needs to be removed to allow the cable to bent enough to fit.&lt;/p&gt;
+&lt;p&gt;This setup works perfectly with Octopi, and the TMC drivers run cool and quiet with sensorless homing.  &lt;a href=&#34;http://www.3dcampy.com/2017/12/20/tutorial-instalacion-y-configuracion-driver-trinamic-tmc2130-en-ramps-y-mks-gen-1-4/&#34;&gt;This guide&lt;/a&gt; contains a great TMC2130 wiring guide. The Gen-L is the same except the AUX-3 Header is rotated 180degrees.&lt;/p&gt;
+&lt;p&gt;Previously I ran a RAMPS board, but it required a lot of modification in order to run at the 24v required for the Trinamic Drivers. After it died the GEN-L was a great cheap substitute that can natively handle the 24v without modification.&lt;/p&gt;
+&lt;p&gt;I recommend switching out the rear fan with the included 120mm adaptor to keep everything cool as the TMC drivers can generate a fair amount of heat. This shroud is as thin as physically possible. It is 5-15mm shorter than other designs. It has the power port on both the left and right sides. It works when the control box is stand alone and can be flipped 180 degrees to allow for mounting the control box to the bottom or a lack table. The other electrical port hole can be plugged with &lt;a href=&#34;https://www.thingiverse.com/thing:1710028&#34;&gt;this thing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;When replacing the mainboard, the original wanhao display will not work without rewiring the ribbon cables. Alternatively the Reprap Discount full graphic smart controller is a drop in replacement. With this configuration the SD card is built into the display and will be blocked when mounted into the case. however this isn&amp;rsquo;t an issue when printing via octopi.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2895849&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

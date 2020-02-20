@@ -18,7 +18,16 @@
       <pubDate>Wed, 19 Feb 2020 00:47:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/alpha/</guid>
-      <description></description>
+      <description>&lt;p&gt;This is a Remix of Balazar&amp;rsquo;s Open Alpha with bass ports. This version contains a strengthened and modified output jack that allows for the use of 2.5 and 3.5mm connectors instead of the standard Hirose connector. The Hirose connectors can be hard to source and the standard the 2.5mm connector an easy to find and more versatile substitute.&lt;/p&gt;
+&lt;p&gt;The connector wall is thickened by 0.2mm. The output hole diameter is 5.9mm and perfectly fits the following Lumberg 3.5mm connector.
+&lt;a href=&#34;http://au.element14.com/lumberg/klb-4/connector-rca-jack-3-5mm-3way/dp/1200144?ost=1200144&amp;amp;selectedCategoryId=&amp;amp;categoryNameResp=All&amp;amp;searchView=table&amp;amp;iscrfnonsku=false&#34;&gt;http://au.element14.com/lumberg/klb-4/connector-rca-jack-3-5mm-3way/dp/1200144?ost=1200144&amp;amp;selectedCategoryId=&amp;amp;categoryNameResp=All&amp;amp;searchView=table&amp;amp;iscrfnonsku=false&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Massive thanks to MrSpeakers for releasing the original source files. For the best sound and to support the project purchase the Alpha pads from his online store.
+&lt;a href=&#34;https://mrspeakers.com/shop/3-accessories/alpha-pads-genuine-lamb-leather/&#34;&gt;https://mrspeakers.com/shop/3-accessories/alpha-pads-genuine-lamb-leather/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The rest of the files and project discussion is here at headfi 
+&lt;a href=&#34;https://www.head-fi.org/f/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/&#34;&gt;https://www.head-fi.org/f/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2326371&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -54,7 +63,16 @@
       <pubDate>Wed, 19 Feb 2020 00:35:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/es10/</guid>
-      <description></description>
+      <description>&lt;p&gt;The Audio Technica ES series of headphones are amazing but come at the cost of comfort. Unfortunately sore ears are inevitable after a few hours. This adapter allows over ear style earpads to be used.&lt;/p&gt;
+&lt;p&gt;This gives much better comfort for extended listening sessions, better noise isolation in noisy environments and after some tweaking sound better than the stock pads.&lt;/p&gt;
+&lt;p&gt;It is 100% tested and confirmed compatible with the ES10&amp;rsquo;s but should also work with other headphones in the ES series.&lt;/p&gt;
+&lt;p&gt;It is designed around AH-MSR7 earpads but should also work with Sennheiser momentum over ear pads and Audio Technica M40/M50 Series pads. The pads I used are non authentic clones which are available for cheap on eBay and aliexpress etc. They may sound different than genuine MSR7 pads.&lt;/p&gt;
+&lt;p&gt;The sound signature is changed fairly drastically. Using MSR7 Pads without any alterations on the ES10 causes a larger soundstage, sharper treble and very slightly recessed mids.&lt;/p&gt;
+&lt;p&gt;The ideal combination is a sheet of 3ply toilet paper between the driver and the earpad. This tames the treble peak, brings back the midrange, while the bass impact and soundstage is retained. It sounds better than the stock ES10 in my opinion and also possibly better than the ES10 with ESW11 sheepskin earpads. In conjunction with the increased comfort it is a very worthwhile mod.&lt;/p&gt;
+&lt;p&gt;Thinner pads will probably alter the sound signature the least as they position the head close to the original earpads. Thicker and angled pads will create a bigger soundstage, but can cause changes to treble. This can be managed surprisingly well with toilet paper.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2705207&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

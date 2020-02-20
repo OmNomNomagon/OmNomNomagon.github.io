@@ -117,7 +117,14 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:57:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/poly/</guid>
-      <description></description>
+      <description>&lt;p&gt;This is a remix of Keagan_Exsteen&amp;rsquo;s excellent poly planter.&lt;/p&gt;
+&lt;p&gt;The original tapers inwards at the top which made it unsuitble for a number of plants. This one tapers outward which makes it perfect for many types of succulents and is much easier to handle when planting.&lt;/p&gt;
+&lt;p&gt;The original also had a number of geometry issues which caused it to print differently depending on the slicer. I repaired it and included a normal (96x96x48mm) and a mini (65x65x35mm) size.&lt;/p&gt;
+&lt;h3 id=&#34;changelog&#34;&gt;Changelog&lt;/h3&gt;
+&lt;p&gt;1.1. Added a solid model for vase mode printing.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2999036&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -126,7 +133,32 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:55:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/lamp/</guid>
-      <description></description>
+      <description>&lt;p&gt;After spending months unsuccessfully trying to find the perfect floor lamp, I decided to make one myself. This design makes use of two &lt;a href=&#34;https://www.ikea.com/au/en/catalog/products/50403184/&#34;&gt;Ikea SPANST LED light bars&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Two light bars overlap in a visually appealing fashion and is the perfect brightness at night. The 3d Printed mounts fit directly into a finished wooden base. I used Australian Red Ironbark coated in danish oil. eSun Silk Brass is a perfect filament to complement the dark red grain of the wood.&lt;/p&gt;
+&lt;p&gt;###Bill Of Materials:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ikea.com/au/en/catalog/products/50403184/&#34;&gt;2 Ikea SPANST LED light bars&lt;/a&gt;.  134cm versions.&lt;/li&gt;
+&lt;li&gt;8 Countersunk Screws. 4g 15-18mm&lt;/li&gt;
+&lt;li&gt;Wood for a base&lt;/li&gt;
+&lt;li&gt;25mm Boring Drill bit&lt;/li&gt;
+&lt;li&gt;2mm Drill bit for pilot holes if you are using a hardwood.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;###Dimensions:&lt;/p&gt;
+&lt;p&gt;Choose any layout you feel looks good, but here are the measurements I used.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Base: 350mm x 190mm x 20mm&lt;/li&gt;
+&lt;li&gt;Holes for the mounts: 25mm Diameter&lt;/li&gt;
+&lt;li&gt;Length Distance Between Mount holes: 160mm (Center to Center)&lt;/li&gt;
+&lt;li&gt;Width Distance Between Mount holes: 34mm (Center to Center)&lt;/li&gt;
+&lt;li&gt;I Used 5 Degree Mounts. However 6 Degree mounts are also included in case you prefer additional overlap.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;###Power and Additional Details&lt;/p&gt;
+&lt;p&gt;The lights are powered via USB. See my Related Sonoff USB box project if you would like to be able to use this lamp with google Assistant / Alexa or use RF wall switches to turn it on from anywhere in your room.&lt;/p&gt;
+&lt;p&gt;I also quad braided the cables using paracord for a cleaner look.&lt;/p&gt;
+&lt;p&gt;This lamp pairs perfectly with my &lt;a href=&#34;https://www.thingiverse.com/thing:4166314&#34;&gt;sonoff USB smart enlcosure&lt;/a&gt; to power the lamp. It allows for google assitant / alexa voice control and has the ability to turn the lamp on and off with paired 433 wall switches.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:4166209&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -135,7 +167,13 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:54:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/switch/</guid>
-      <description></description>
+      <description>&lt;p&gt;This thing keeps all of your game cards close and easily accessible on your switch dock. It is much easier than constantly dealing with a stack of game cases.&lt;/p&gt;
+&lt;p&gt;It is available in two variants. 
+The straight version (like a scrabble letter holder), will hold up to 7 cards.
+The angled version holds up to 9 cards.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:3370830&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -153,7 +191,66 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:49:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/hemera/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraMain.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This E3d Hemera mount features; full hot swap capabilities with only 3 screws, a Bltouch sensor mount, the latest MK3s R4 cooling duct, cable organizing channels, Full nozzle visibility and full usability of the X Axis. A MK3s filament sensor is currently undergoing testing and will uploaded soon. A PINDA2 probe mount will also be available shortly.&lt;/p&gt;
+&lt;p&gt;This mount was designed to be as compact as possible within the available space. The Z height and width profiles are minimized while keeping it as strong and light as possible. The Hemera is a wide extruder / hotend system with an offset mount which made it a challenge to design a mount that kept full x axis usability.&lt;/p&gt;
+&lt;p&gt;This mount is designed primarily for the ReDuplicator MK3sx which started life as a Wanhao Duplicator i3. Unfortunately due to the Hemera size and and offset, the common ReDuplicator x-carriage used for the MK10 and titan could not be carried across. The original ReDuplicator files are available &lt;a href=&#34;https://www.thingiverse.com/thing:2686588/#files&#34;&gt;here.&lt;/a&gt; Although the mount is designed for the ReDuplicator, it should also be compatible with the Prusa MK3/s with some small changes to trigger the TMC endstops correctly.&lt;/p&gt;
+&lt;p&gt;The new fan shroud is based on the Prusa MK3s R4 duct. It results in much better overhangs and more consistent performance than the R3 and R2 Prusa fan ducts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/HemeraLow.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Please ensure sure your Re-duplicator idler part is the new V2 or newer design as it includes additional mounting points for the X endstop. The X-axis endstop is mounted on the bottom of the X-axis idler part. However if you&amp;rsquo;ve already printed the original idler V1, new holes can be drilled in at 5mm intervals with a 1.5mm drill bit. I highly recommend upgrading to TMC steppers for this as it is much easier to setup with sensorless homing.&lt;/p&gt;
+&lt;p&gt;The printed parts should be a minimum of 3 perimeters and 20%+ infill. The printed parts required are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hemera X Carriage Plate.&lt;/li&gt;
+&lt;li&gt;Hemera Cooling Duct&lt;/li&gt;
+&lt;li&gt;Hemera Fan Mount&lt;/li&gt;
+&lt;li&gt;Hemera Endstop (For TMC Sensorless homing)&lt;/li&gt;
+&lt;li&gt;Hemera BLTouch Mount (optional).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additional Hardware includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;M3 Heatserts x4-6 &lt;a href=&#34;http://au.element14.com/tr-fastenings/m3-uhbrhesf/brass-insert-unheaded-m3/dp/2474921&#34;&gt;M3-UHBRHESF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;M3 Screw 20-25mm x3&lt;/li&gt;
+&lt;li&gt;M3 Screw 8mm-10mm x3&lt;/li&gt;
+&lt;li&gt;Countersunk M3 8mm screw x4 (for Bltouch mount)&lt;/li&gt;
+&lt;li&gt;M3 12mm screw (Bl touch mount)&lt;/li&gt;
+&lt;li&gt;Hemera Hotend with provided mounting screws&lt;/li&gt;
+&lt;li&gt;M3 Nylock nuts x4&lt;/li&gt;
+&lt;li&gt;M4 30mm Bolt&lt;/li&gt;
+&lt;li&gt;M4 Nylock Nut&lt;/li&gt;
+&lt;li&gt;M4 Soft Washer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The installation process is very similar to the original MK10 hotend and the titan Aero.
+Four Heatserts are placed into the back of the extruder plate.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/Heatsert.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Two optional heat serts are inserted into the front of the carriage. This is only required if you intend to use the MK3s optical filament sensor.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/HeatSertFront.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Follow the &lt;a href=&#34;https://e3d-online.dozuki.com/c/Hemera_Assembly_Guides&#34;&gt;Hemera core and direct assembly guides here&lt;/a&gt;
+The Hemera is mounted to the plate with the provided 4 bolts. I recommend re terminating all wires in order to make maintenance and swapping the hotend assembly easier. Dupont connectors are perfect for most wires and spade connectors are used for the hotend. The stepper motor wiring can be fed through the provided channel and fed through the underside.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/HemeraBed.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The carriage can then side onto the X axis. The 3 bearings can slide into the bearing slots. Use the 20-25mm M3 screws and nylocks to secure the bearings. Be sure not to over tighten these screws, ensure the pressure on the bearings is even and the carriage should slide freely.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraMount.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The fan mount connects to the fan shroud via a 10mm M3 bolt and Nylock. The 50mm blower fan is connected with the 30mm M4, Nylock and soft washer. The soft washer in between will help to reduce vibrating fan noise.
+Once the heating block is centered properly, connect the cooling fan duct to the carriage with 2x 8-10mm m3 screws into the bottom most mounting holes.&lt;/p&gt;
+&lt;p&gt;The X Axis belt is installed the same as the Prusa MK3s. See those instructions for further details if required. The X axis motor should be loosened and rotated inwards, This allows the belt to be pushed into the slots. A flathead screwdriver may help. The motor can then be rotated back and tensioned.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraDuct.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Bltouch mount is connected to the motor with 4x 8mm countersunk screws. 2x 10mm M3 screws mount the Bltouch to the mount.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraLow2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Connect all your wiring and the wiring chain with 2x 8mm countersunk M3 screws.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraWiring.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Connect the endstop to the bottom of the X axis idler pulley with 2x 8mm M2 screws. There are a number of different mounting holes. Use the ones which get the nozzle closest to the corner of the heatbed without overhanginging it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/Endstop.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Some software changes are required. Remember to calibrate your Z-offset value before use. Also ensure you run a PID tune and update your esteps as outlined in the E3D instructions. Probe Offset values for marlin configuration:&lt;/p&gt;
+&lt;p&gt;#define X_PROBE_OFFSET_FROM_EXTRUDER 31&lt;/p&gt;
+&lt;p&gt;#define Y_PROBE_OFFSET_FROM_EXTRUDER -39&lt;/p&gt;
+&lt;p&gt;Your Hemera is now ready for action.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraCloseup.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A prototype MK3s filament sensor is available for testing via github, and will be published once properly tested. A Pinda2 probe mount is also on the way.&lt;/p&gt;
+&lt;h3 id=&#34;changelog&#34;&gt;Changelog&lt;/h3&gt;
+&lt;p&gt;1.0 initial Release&lt;/p&gt;
+&lt;p&gt;1.01. added the missing Bltouch mount&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:4167435&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -162,7 +259,20 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:48:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/lack/</guid>
-      <description></description>
+      <description>&lt;p&gt;A collection of enhanced parts and mods to make the perfect Wanhao i3 / Maker Select / Cocoon Create enclosure.&lt;/p&gt;
+&lt;p&gt;This enclosure has the following features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Removable Top: Easily lift and remove the top of the enclosure for easy access and maintenance of the printer. The legs are lifted 60mm to ensure there is plenty of room inside. Total internal volume is 510x510x450mm.&lt;/li&gt;
+&lt;li&gt;Deployable Control Box: The underslung control box can slide out when needed or slid back in to save space.&lt;/li&gt;
+&lt;li&gt;Filament Guide: Contains a chamber for sponge to clean filament as it feeds through. Also contains a PTFE guide to feed filament directly into the extruder. This prevents striations as the filament is fed through smoother.&lt;/li&gt;
+&lt;li&gt;Optimized for silence: Use of EVA foam, sorbothane, rubber feet and butyl flashing to reduce vibrations and decouple the printer.&lt;/li&gt;
+&lt;li&gt;ToolHolder: Neatly holds the essentials such as the 5 stock allen keys, scrapper, needle nose pliers, thickness gauge tool and a screwdriver.&lt;/li&gt;
+&lt;li&gt;Inset Hinge: Inset door and hinge set 20mm from the edge.&lt;/li&gt;
+&lt;li&gt;Triple Stack Lack&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2685750&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -171,7 +281,16 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:47:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/alpha/</guid>
-      <description></description>
+      <description>&lt;p&gt;This is a Remix of Balazar&amp;rsquo;s Open Alpha with bass ports. This version contains a strengthened and modified output jack that allows for the use of 2.5 and 3.5mm connectors instead of the standard Hirose connector. The Hirose connectors can be hard to source and the standard the 2.5mm connector an easy to find and more versatile substitute.&lt;/p&gt;
+&lt;p&gt;The connector wall is thickened by 0.2mm. The output hole diameter is 5.9mm and perfectly fits the following Lumberg 3.5mm connector.
+&lt;a href=&#34;http://au.element14.com/lumberg/klb-4/connector-rca-jack-3-5mm-3way/dp/1200144?ost=1200144&amp;amp;selectedCategoryId=&amp;amp;categoryNameResp=All&amp;amp;searchView=table&amp;amp;iscrfnonsku=false&#34;&gt;http://au.element14.com/lumberg/klb-4/connector-rca-jack-3-5mm-3way/dp/1200144?ost=1200144&amp;amp;selectedCategoryId=&amp;amp;categoryNameResp=All&amp;amp;searchView=table&amp;amp;iscrfnonsku=false&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Massive thanks to MrSpeakers for releasing the original source files. For the best sound and to support the project purchase the Alpha pads from his online store.
+&lt;a href=&#34;https://mrspeakers.com/shop/3-accessories/alpha-pads-genuine-lamb-leather/&#34;&gt;https://mrspeakers.com/shop/3-accessories/alpha-pads-genuine-lamb-leather/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The rest of the files and project discussion is here at headfi 
+&lt;a href=&#34;https://www.head-fi.org/f/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/&#34;&gt;https://www.head-fi.org/f/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2326371&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -180,7 +299,14 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:44:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/denon/</guid>
-      <description></description>
+      <description>&lt;p&gt;The Denon DX000 and Fostex THX00 headphones series are amazing pieces of audio equipment. However the durability of the headband leaves a lot to be desired.&lt;/p&gt;
+&lt;p&gt;The flimsy hanger design puts the full torque of each earcup on a flimsy screw. I&amp;rsquo;ve had multiple hangers fail over the years. Parts for these headphones, especially the Denon&amp;rsquo;s are very hard to come by and are very expensive.&lt;/p&gt;
+&lt;p&gt;Instead of buying a new set of screws and hangers, These parts allow you to mount the earcups onto new baffles and mount them directly to a hifiman comfort heatband.&lt;/p&gt;
+&lt;p&gt;This headband is very comfortable and available at &lt;a href=&#34;https://www.adorama.com/hmhb560.html&#34;&gt;adorma in the US for 9.99USD&lt;/a&gt; or directly from the hifiman store at a higher price.&lt;/p&gt;
+&lt;p&gt;Despite replacing the stock magnesium baffles with plastic ones, sound quality is not adversely affected. Stock screws and fasteners are used to fix the earcups to the baffles. The Baffle simply clips into the HiFiman headband.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:4166369&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -189,7 +315,13 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:42:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/cherry/</guid>
-      <description></description>
+      <description>&lt;p&gt;A tool to speed up opening of Cherry MX mechanical keyboard switches and similar clones. Makes keyboard modding a lot easier, especially when lubing or switching springs.&lt;/p&gt;
+&lt;p&gt;This is a redesign of the original found here &lt;a href=&#34;http://kbdlab.co.kr/index.php?mid=board_etc&amp;amp;search_target=nick_name&amp;amp;search_keyword=%EC%95%84%EC%B9%A8%EC%97%90%E2%84%A2&amp;amp;document_srl=101589&#34;&gt;http://kbdlab.co.kr/index.php?mid=board_etc&amp;amp;search_target=nick_name&amp;amp;search_keyword=%EC%95%84%EC%B9%A8%EC%97%90%E2%84%A2&amp;amp;document_srl=101589&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I found the original design printed in PLA would break after opening 30 or so switches. This redesigned one is strengthen and I was to open and disassemble 200 switches without it breaking.&lt;/p&gt;
+&lt;p&gt;As usual this wont work on switches soldered to a plate, but works with loose switches.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2685653&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -198,7 +330,10 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:41:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/lego/</guid>
-      <description></description>
+      <description>&lt;p&gt;The Lego Saturn V comes with 3 stands, one per stage. These can be a little precarious, so i created some additional stands in the same style as the originals. Enjoy.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2649217&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -207,7 +342,16 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:35:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/es10/</guid>
-      <description></description>
+      <description>&lt;p&gt;The Audio Technica ES series of headphones are amazing but come at the cost of comfort. Unfortunately sore ears are inevitable after a few hours. This adapter allows over ear style earpads to be used.&lt;/p&gt;
+&lt;p&gt;This gives much better comfort for extended listening sessions, better noise isolation in noisy environments and after some tweaking sound better than the stock pads.&lt;/p&gt;
+&lt;p&gt;It is 100% tested and confirmed compatible with the ES10&amp;rsquo;s but should also work with other headphones in the ES series.&lt;/p&gt;
+&lt;p&gt;It is designed around AH-MSR7 earpads but should also work with Sennheiser momentum over ear pads and Audio Technica M40/M50 Series pads. The pads I used are non authentic clones which are available for cheap on eBay and aliexpress etc. They may sound different than genuine MSR7 pads.&lt;/p&gt;
+&lt;p&gt;The sound signature is changed fairly drastically. Using MSR7 Pads without any alterations on the ES10 causes a larger soundstage, sharper treble and very slightly recessed mids.&lt;/p&gt;
+&lt;p&gt;The ideal combination is a sheet of 3ply toilet paper between the driver and the earpad. This tames the treble peak, brings back the midrange, while the bass impact and soundstage is retained. It sounds better than the stock ES10 in my opinion and also possibly better than the ES10 with ESW11 sheepskin earpads. In conjunction with the increased comfort it is a very worthwhile mod.&lt;/p&gt;
+&lt;p&gt;Thinner pads will probably alter the sound signature the least as they position the head close to the original earpads. Thicker and angled pads will create a bigger soundstage, but can cause changes to treble. This can be managed surprisingly well with toilet paper.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2705207&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -216,7 +360,11 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:34:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/hook/</guid>
-      <description></description>
+      <description>&lt;p&gt;A faceted hook remix with a pronounced angle to allow it to hold bigger objects.
+Works perfectly with 3m double sided tape.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2685698&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -234,7 +382,68 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:32:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/titan/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;This Titan Aero mount was designed to be compact as possible in the available space. This is done by keeping the hotend closer to the X axis rods than other mounts, minimizing the Z height and width profile while keeping it as strong and light as possible.&lt;/p&gt;
+&lt;p&gt;It was designed for the ReDuplicator MK2sx which started life as a Wanhao Duplicator i3.
+This uses the same X carriage rear bearing plate as the original MK10 Re-Duplicator carriage. It can be found on the original project  &lt;a href=&#34;https://www.thingiverse.com/thing:2686588/#files&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The new shroud is based on the Prusa MK3 one. It results in much better overhang performance. 60 degree overhangs are flawless with some sagging &lt;a href=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/overhang.jpg&#34;&gt;@70 degrees.&lt;/a&gt;. It is almost comparable to the &lt;a href=&#34;https://www.reddit.com/r/3Dprinting/comments/7kexdv/a_nearly_comprehensive_study_of_cooling_fans_and/&#34;&gt;Dii Cooler via testing.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Make sure your Re-duplicator idler part is the new V2 design it includes additional mounting points for the X endstop. The X-axis endstop is mounted on the bottom of the X-axis idler part. The endstop will need to be relocated to the middle or furthest holes depending on the positioning of your heatbed. However if you&amp;rsquo;ve already printed the original idler V1, new holes can be drilled in at 5mm intervals with a 1.5mm drill bit.&lt;/p&gt;
+&lt;p&gt;The new required printed parts when upgrading from the MK10 extruder are the:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Front Bearing Plate&lt;/li&gt;
+&lt;li&gt;Titan Aero MK3 Part Cooling Fan Mount&lt;/li&gt;
+&lt;li&gt;Titan Aero MK3 Part Cooling Fan Shroud&lt;/li&gt;
+&lt;li&gt;BLTouch Mount (optional).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK3x/blob/master/Pics/1%20Glamor%20Shots/PrintDemo.webp?raw=true&#34; alt=&#34;Oh hai&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Probe Offset values for marlin configuration&lt;/p&gt;
+&lt;p&gt;#define X_PROBE_OFFSET_FROM_EXTRUDER -16
+#define Y_PROBE_OFFSET_FROM_EXTRUDER -42&lt;/p&gt;
+&lt;h3 id=&#34;assembly&#34;&gt;Assembly&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanMain.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The new MK3 Based &lt;strong&gt;Titan Aero X Carriage Front Plate MK3 V2&lt;/strong&gt; and &lt;strong&gt;X Carriage Rear Bearing Plate MK3 V2&lt;/strong&gt; have different spacing than the original parts. This new carriage can be installed and removed from the x-rods without having to disassemble the printer and are much easier to work with. it also uses a different belt securing method that is easier to tension.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/4%20Hotend/CarriageNew.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The new required printed parts are the:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Titan Aero X Carriage Front Plate MK3 V2&lt;/li&gt;
+&lt;li&gt;Titan Aero MK3 Part Cooling Fan Mount&lt;/li&gt;
+&lt;li&gt;Titan Aero MK3 Part Cooling Fan Shroud&lt;/li&gt;
+&lt;li&gt;X Carriage Rear Bearing Plate MK3 V2 (Same part as the MK10 extruder)&lt;/li&gt;
+&lt;li&gt;BLTouch Mount (optional).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Installation is very similar to the original MK10 hotend.
+Four Heatserts are placed into the front of the Rear Extruder plate. Two heat serts are inserted into the rear.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage1.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Two optional Heatserts are required on in the the prongs on the X Carriage Front Extruder Plate. If you are not using a BLTouch or similar levelling probe you can skip this.&lt;/p&gt;
+&lt;p&gt;Merge these two parts together using the 2x 16-20mm M3 screws into the centre screw holes. This can be tricky due to the restricted space. Secure them on the back with 2x M3 nylock nuts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanPart.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Insert 2 more heat-sert parts into the Titan MK3 Cooling Fan.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/Fan1.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Screw the Fan bracket to the Fan with a 12mm m3 screw and nylock nut. Attach the 50mm blower fan via an M4x25mm screw and M4 Nylock. A rubber washer in between will help to reduce vibrating fan noise.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/Fan2.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Use 2 16mm M3 screws through the bottom x carriage screw holes and into this part.&lt;/p&gt;
+&lt;p&gt;Place your bearings into the carriage. This design allows you to use M3 screws to adjust the tension on the bearing. This is very helpful for Igus bearings. I settled on 2 a copmbination of 2 igus bearing and a misumi LM8LUU to give a smooth easy and quiet movement.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/FanMount.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanFree.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Install the extruder motor and extruder plate as per E3D&amp;rsquo;s throughout instructions. &lt;a href=&#34;https://wiki.e3d-online.com/Titan_Aero&#34;&gt;E3d Titan Aero Instructions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanWeight.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Once completed this should be significantly lighter than the original. The original MK10 Extruder came to 620 grams.
+This new design comes in at 380 grams, around 240 grams lighter.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanClose.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Assembly can continue as per normal.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/5%20Gantry/XTension.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Probe Offset values for marlin configuration&lt;/p&gt;
+&lt;p&gt;#define X_PROBE_OFFSET_FROM_EXTRUDER -16&lt;/p&gt;
+&lt;p&gt;#define Y_PROBE_OFFSET_FROM_EXTRUDER -42&lt;/p&gt;
+&lt;p&gt;##3 Changelog&lt;/p&gt;
+&lt;p&gt;1.0 - Initial Release&lt;/p&gt;
+&lt;p&gt;1.1 - Due to reports of poor fan position I replaced the Thorped based fan with the Prusa MK3 based Fan and fan mount. Results in much better overhang performance. flawless @60 degree overhang with some sagging @70 degree overhang. The original would show artifacts &lt;a href=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/overhang.jpg&#34;&gt;@60 degrees.&lt;/a&gt;. Almost comparable to the &lt;a href=&#34;https://www.reddit.com/r/3Dprinting/comments/7kexdv/a_nearly_comprehensive_study_of_cooling_fans_and/&#34;&gt;Dii Cooler.&lt;/a&gt; Older retired files are still available &lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/tree/master/STLs%20Titan%20Aero%20Conversion/Retired%20Versions&#34;&gt;via github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;1.2 Prusa MK3 Update. Added a new belt securing method based on the Prusa MK3  which is much easier to install under tension. However this requires new hole spacing. The original carriage parts are not compatible with the new  &lt;strong&gt;X Carriage Rear Bearing Plate MK3 V2&lt;/strong&gt; and Titan Aero X Carriage Front Plate MK3 V2. The whole carriage assembly can now be removed and installed from the X-rods without disassembling the printer. 3x 16mm m3 screws secure it to the bearings. 
+The MK3 Cooling fan is also updated to be a bit sturdier. It should still work on anyone with the older V1 carriage. To reduce the confusion of the project, older files are removed from thingiverse but will be available via &lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/tree/master/STLs%20Titan%20Aero%20Conversion/Retired%20Versions&#34;&gt;github if needed&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;1.3 Prusa MK3 R3 Update.  A number of fixes and improvements. This includes a new part cooling shroud based on the Prusa MK3 R3. It shows noticeable improvements over the old Prusa shroud. The issues that some people have had with the clearance of the shroud in relation to the nozzle should also be fixed. The x carriage rear plate has also been strengthened to improve rigidity.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2744724&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -243,7 +452,10 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:31:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/vacuum/</guid>
-      <description></description>
+      <description>&lt;p&gt;Neatly display your vacuum tubes in this quad stand. This stand prevents these top heavy and fragile tubes from falling over and allows you to keep matching tubes paired up. It is compatible with the following tube varieties; 6DJ8, ECC88, 6922, E88CC, PCC88, E188CC, 6BZ7, CCA. These are the tubes commonly used in Schiit Audio products such as the Valhalla and the Lyr,&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:1731044&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -252,7 +464,25 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:30:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/alcostand/</guid>
-      <description></description>
+      <description>&lt;p&gt;This thing will turn your whisky bottles into a classy headphone stand.
+It is a redesign of my original here &lt;a href=&#34;https://www.thingiverse.com/thing:1729644&#34;&gt;https://www.thingiverse.com/thing:1729644&lt;/a&gt;. This one includes two rings for added stability and better looks compared to the original.&lt;/p&gt;
+&lt;p&gt;Most Whiskeys bottles will fit withing the two tapered rings
+The Upper ring around the cap tapers between 24-38mm.
+The Lower ring around the neck tapers between 38-43mm&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve confirmed that this will fit on the following Whisky bottles:
+Lapphroaig
+Lagavulin
+Yamasaki
+Jack Daniels
+Glenfiddich
+Cragganmore
+Ardberg
+Glenlivet
+Glenmorangie&lt;/p&gt;
+&lt;p&gt;Enjoy.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2263144&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -261,7 +491,16 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:29:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/earbud/</guid>
-      <description></description>
+      <description>&lt;p&gt;An earphone holder with modern styling.
+Lots of entry points to secure the buds and jack.&lt;/p&gt;
+&lt;p&gt;Comes in three versions.
+Double sided with a flat base
+Double sided with a tapered base
+Single sided with a flat base.&lt;/p&gt;
+&lt;p&gt;The stock sizes should fit most earphones and buds perfectly. You may need to increase or decrease the %size depending on if your buds are larger or smaller than most.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2263170&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -270,7 +509,22 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:28:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/controller/</guid>
-      <description></description>
+      <description>&lt;p&gt;An Adaptor to convert the electronics of a wanhao i3 to the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MKS Gen-L&lt;/li&gt;
+&lt;li&gt;Raspi 2/3/b&lt;/li&gt;
+&lt;li&gt;Mosfet with 8mm x 63mm hole spacing, such as &lt;a href=&#34;https://www.aliexpress.com/item/New-3D-Printer-Heated-Bed-Power-Module-High-Current-210A-MOSFET-Upgrade-RAMPS-1-4-12V/32811898708.html?spm=a2g0s.9042311.0.0.um477z&#34;&gt;this one.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Adaptor fits on top of the existing mounting holes and is secured with M3 screws and washers. The  boards are mounted with M3 screws of a length of 3-6mm.&lt;/p&gt;
+&lt;p&gt;Place a piece of carboard or foam under the control board to prevent shorts.
+Pics and a marlin 1.1.8 config for a working MKS Gen-L and TMC2130 are also included. Due to the cramped spacing in the case, the usual USB Type A cable will not fit without being modified. The rubberised plastic shield needs to be removed to allow the cable to bent enough to fit.&lt;/p&gt;
+&lt;p&gt;This setup works perfectly with Octopi, and the TMC drivers run cool and quiet with sensorless homing.  &lt;a href=&#34;http://www.3dcampy.com/2017/12/20/tutorial-instalacion-y-configuracion-driver-trinamic-tmc2130-en-ramps-y-mks-gen-1-4/&#34;&gt;This guide&lt;/a&gt; contains a great TMC2130 wiring guide. The Gen-L is the same except the AUX-3 Header is rotated 180degrees.&lt;/p&gt;
+&lt;p&gt;Previously I ran a RAMPS board, but it required a lot of modification in order to run at the 24v required for the Trinamic Drivers. After it died the GEN-L was a great cheap substitute that can natively handle the 24v without modification.&lt;/p&gt;
+&lt;p&gt;I recommend switching out the rear fan with the included 120mm adaptor to keep everything cool as the TMC drivers can generate a fair amount of heat. This shroud is as thin as physically possible. It is 5-15mm shorter than other designs. It has the power port on both the left and right sides. It works when the control box is stand alone and can be flipped 180 degrees to allow for mounting the control box to the bottom or a lack table. The other electrical port hole can be plugged with &lt;a href=&#34;https://www.thingiverse.com/thing:1710028&#34;&gt;this thing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;When replacing the mainboard, the original wanhao display will not work without rewiring the ribbon cables. Alternatively the Reprap Discount full graphic smart controller is a drop in replacement. With this configuration the SD card is built into the display and will be blocked when mounted into the case. however this isn&amp;rsquo;t an issue when printing via octopi.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2895849&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -279,7 +533,35 @@ Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
       <pubDate>Wed, 19 Feb 2020 00:27:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/wanhao/</guid>
-      <description></description>
+      <description>&lt;p&gt;An alternate set of Z Braces to improve the rigidity of the printer. Compatible with the Wanhao i3 (aka Cocoon Create, Mono select). Made from scratch, based on the principles of Typhons &lt;a href=&#34;https://www.thingiverse.com/thing:1359774&#34;&gt;https://www.thingiverse.com/thing:1359774&lt;/a&gt; and Azzas excellent &lt;a href=&#34;https://www.thingiverse.com/thing:921948&#34;&gt;https://www.thingiverse.com/thing:921948&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;These braces are designed to have straight rods for aesthetic reasons, with the rods positioned as close together as possible to maintain rigidity. Typhon&amp;rsquo;s Top Braces impede into the build area of the printer which decreased the usable Z height by 20mm. These braces regain that space by moving the rod mount to above the bottom inner screw. These brackets also clip around the front and back of the base to improve rigidity.&lt;/p&gt;
+&lt;p&gt;Build Of materials&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;8x 3/8&amp;rdquo;  Hex Nuts&lt;/li&gt;
+&lt;li&gt;2x 3/8&amp;rdquo; Threaded rods cut to 365-375mm&lt;/li&gt;
+&lt;li&gt;20x M3 x 15 mm screws&lt;/li&gt;
+&lt;li&gt;Optional Anti Vibration Pad. &lt;a href=&#34;https://www.bunnings.com.au/whites-100mm-x-1m-anti-vibration-pad_p3961983&#34;&gt;https://www.bunnings.com.au/whites-100mm-x-1m-anti-vibration-pad_p3961983&lt;/a&gt; (Significantly Reduces Vibration and lowers sound levels)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Added a number of additional parts to increase the rigidity of the printer.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Optional Tower feet (Increases lateral stability)&lt;/li&gt;
+&lt;li&gt;Optional Front brace (with zip tie gap to brace Y-pulley)&lt;/li&gt;
+&lt;li&gt;Optional Rear brace (Reduces Flex)&lt;/li&gt;
+&lt;li&gt;M10 Metric Editions of the existing parts by popular request.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;New photos are attached which show the new parts and also the rubber vibration pad used to isolate the printer from the ground.&lt;/p&gt;
+&lt;p&gt;Tinkercad source link: &lt;a href=&#34;https://tinkercad.com/things/9eYjIPDR2y8&#34;&gt;https://tinkercad.com/things/9eYjIPDR2y8&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;assembly&#34;&gt;Assembly&lt;/h3&gt;
+&lt;p&gt;Install the top mounts first with 4x M3 screws each. Do not completely unscrew all 4 screws at once to prevent the frame from shifting. The Inner Bottom screw is hidden behind the area where the nut is held.&lt;/p&gt;
+&lt;p&gt;Install the Bottom Rear left and right brackets with 3x M3 screws each.&lt;/p&gt;
+&lt;p&gt;Screw the threaded rod into the top mounts and lock it in with 2 nuts on each side.&lt;/p&gt;
+&lt;p&gt;On the end of each rod, screw in a nut - front bracket - nut. Attach the the front bracket to the frame. Use a square against the vertical frame to ensure the printer remains 90 degrees square to the ground. Screw the rods in back and forth as needed till the vertical frame is perfectly level.&lt;/p&gt;
+&lt;p&gt;Optional.&lt;/p&gt;
+&lt;p&gt;Cut the dampening pad into the shapes of the bottom brackets and glue them to the base with gel or superglue. The pad decouples the printer with the ground which reduces vibrations and makes the printer much quieter.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on [thingiverse](&lt;a href=&#34;https://www.thingiverse.com/thing:1728621&#34;&gt;https://www.thingiverse.com/thing:1728621&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
