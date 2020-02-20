@@ -3,47 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://riganti.com.au/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/courses/example.1/example3/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/courses/example.2/example3/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/courses/example.1/</loc>
+    <loc>https://riganti.com.au/docs/mk3x/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://riganti.com.au/courses/example.2/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/courses/example.2/example4/</loc>
+    <loc>https://riganti.com.au/docs/mk3x/page1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://riganti.com.au/courses/example/example2/</loc>
+    <loc>https://riganti.com.au/docs/mk3x/page2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://riganti.com.au/courses/example.1/example4/</loc>
+    <loc>https://riganti.com.au/docs/mk3x/page3/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/docs/mk3x/page4/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/docs/mk3x/page5/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/docs/mk3x/page6/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/docs/mk3x/page7/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/docs/mk3x/page8/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/docs/mk3x/page9/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/docs/mk3x/page10/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/docs/mk3x/page11/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/docs/mk3x/page12/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/docs/mk3x/page13/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -283,6 +308,26 @@
   </url>
   
   <url>
+    <loc>https://riganti.com.au/tags/dev/</loc>
+    <lastmod>2020-02-19T00:26:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/pooc/</loc>
+    <lastmod>2020-02-19T00:26:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/widget/</loc>
+    <lastmod>2020-02-19T00:25:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/riganti/</loc>
+    <lastmod>2020-02-19T00:24:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riganti.com.au/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -382,7 +427,7 @@
   </url>
   
   <url>
-    <loc>https://riganti.com.au/courses/</loc>
+    <loc>https://riganti.com.au/docs/</loc>
   </url>
   
 </urlset>
