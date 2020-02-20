@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ReDuplicator MK3x - Wanhao i3 overhaul on :   Code  :   Cad   :   Carve  :  Create :</title>
+    <link>https://riganti.com.au/docs/mk3x/</link>
+    <description>Recent content in ReDuplicator MK3x - Wanhao i3 overhaul on :   Code  :   Cad   :   Carve  :  Create :</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright: Mark Riganti `{year}`</copyright>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://riganti.com.au/docs/mk3x/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1.1 Bill Of Materials</title>
+      <link>https://riganti.com.au/docs/mk3x/page1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://riganti.com.au/docs/mk3x/page1/</guid>
+      <description>&lt;p&gt;Total BOM is approx 100-150USD. However this is highly dependent on what you have laying around, where you source your parts from, what you want to carry over, and where in the world you are. A lot of my costs in Australia were shipping related.&lt;/p&gt;
+&lt;p&gt;I recommend Misumi for the core parts and will provide part numbers for each of those. Misumi regularly have a 30% off code for first time orders, which helps to keep costs down. For everything else cheap Ebay / Aliexpress parts will do. Many of the printed parts are designed around the Misumi plate bracket hole spacings. If you can’t source these parts (as misumi can be a pain to order from if you are outside of the US), I have another Thingiverse remix filled with tabbed printed brackets. These definitely won&amp;rsquo;t be as strong or sturdy as the proper metal braces however.&lt;/p&gt;
+&lt;h4 id=&#34;summarised-parts-list&#34;&gt;Summarised Parts List:&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Part&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Number Reqd&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;3030 Extrusion 355mm&lt;/td&gt;
+&lt;td&gt;Z Axis &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFSLB6-3030-355&#34;&gt;HFSLB6-3030-355&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3030 Extrusion 350mm&lt;/td&gt;
+&lt;td&gt;Y Axis &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFSLB6-3030-350&#34;&gt;HFSLB6-3030-350&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3030 Extrusion 380mm&lt;/td&gt;
+&lt;td&gt;X Axis Tower &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFSLB6-3030-380&#34;&gt;HFSLB6-3030-380&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3030 Extrusion 258mm&lt;/td&gt;
+&lt;td&gt;X Axis Base &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFSLB6-3030-258&#34;&gt;HFSLB6-3030-258&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;30x30x35 Corner Brackets&lt;/td&gt;
+&lt;td&gt;Tabbed on SINGLE Side only &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110300442340/?HissuCode=HBLFSNB6&#34;&gt;HBLFSNB6&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alluminium Flat bracket&lt;/td&gt;
+&lt;td&gt;4 mount holes &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302250620/?HissuCode=HPTLS6&#34;&gt;HPTLS6&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LM8UU Bearings&lt;/td&gt;
+&lt;td&gt;Std 8mm 15mm long bearings &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302577950/?HissuCode=LMU8&#34;&gt;LMU8&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 12mm&lt;/td&gt;
+&lt;td&gt;Button Head Screw M5&lt;/td&gt;
+&lt;td&gt;70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 16mm&lt;/td&gt;
+&lt;td&gt;Button Head Screw M5&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 T-Nuts&lt;/td&gt;
+&lt;td&gt;3030 T-Nuts Drop in preferred&lt;/td&gt;
+&lt;td&gt;80&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 20-25mm&lt;/td&gt;
+&lt;td&gt;Low Profile Button head (less than 4.2mm)&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 30-35mm&lt;/td&gt;
+&lt;td&gt;Screw M5&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 Heatserts&lt;/td&gt;
+&lt;td&gt;Brass heat inserts M3 thread &lt;a href=&#34;http://au.element14.com/tr-fastenings/m3-uhbrhesf/brass-insert-unheaded-m3/dp/2474921&#34;&gt;M3-UHBRHESF&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 4-8mm&lt;/td&gt;
+&lt;td&gt;Button Head Screw M3&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 12mm&lt;/td&gt;
+&lt;td&gt;Button Head Screw M3&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 16mm&lt;/td&gt;
+&lt;td&gt;Button Head Screw M3&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 30mm&lt;/td&gt;
+&lt;td&gt;Screw M3&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 6-8mm&lt;/td&gt;
+&lt;td&gt;Countersunk M3&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 6-12mm&lt;/td&gt;
+&lt;td&gt;Countersunk M3&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 Nylock&lt;/td&gt;
+&lt;td&gt;Nuts for Idlers&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 Nylock&lt;/td&gt;
+&lt;td&gt;Nut for part cooling and heat sert substitute&lt;/td&gt;
+&lt;td&gt;1 - 15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 Smooth Idler Pulley&lt;/td&gt;
+&lt;td&gt;(Optional) 9mm wide replacement&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 Fibrous Washers&lt;/td&gt;
+&lt;td&gt;For idler Pulleys&lt;/td&gt;
+&lt;td&gt;3 - 10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;GT2 Belt&lt;/td&gt;
+&lt;td&gt;6mm belt&lt;/td&gt;
+&lt;td&gt;1m&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;50mm Blower&lt;/td&gt;
+&lt;td&gt;Part Cooling&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3n Square nut&lt;/td&gt;
+&lt;td&gt;X motor tensioner (optional)&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;in-depth-descriptions&#34;&gt;In Depth Descriptions:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A Wanhao i3 Duh! (these parts will also allow you to upgrade most other prusa style printers, just adjust the lengths of your printer compared to the Wanhao’s smooth rods (X=320mm Z=320mm Y=380mm)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Various 3030 T-slot Aluminium Extrusions&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2x 380MM - Tower X - HFSLB6-3030-380&lt;/li&gt;
+&lt;li&gt;2x 355MM - Tower Z - HFSLB6-3030-355&lt;/li&gt;
+&lt;li&gt;2x 350MM - Base Y - HFSLB6-3030-350&lt;/li&gt;
+&lt;li&gt;2x 258MM - Base X - HFSLB6-3030-258&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;14x Corner Brackets 30x30x25 - Importantly these should be reversible or only be tabbed on one side! We are stacking two extrusions perpendicular on top of eachother. If they are fully tabbed on both sides they will NOT fit. HBLFSNB6 with low profile T-nuts or the single tabbed version HBLFSNK6.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/CornerBracket.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;8x Aluminium Corner plates with 4 mounting holes. The legs and printed corner parts are all based on the misumi hole spacing HPTLS6.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4x LM8UU Bearings. These replace the stock Z bearings. It is also worthwhile purchasing some of the longer LM8LUU bearing to replace the X and Y axises if you are coming from a pre 2.1 wanhao. These misumi ones are much higher quality than the originals. LMU8, LMUW8.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;70x M5 12mm Button head screws&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;10x M5 16mm Button head screws&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;80 M5 T-Nuts. Drop in T-nuts are recommended as they are easier to work with. Some drop in T-Nuts have a longer neck which can cause issues with the Misumi HBLFSNB6 corner brackets. One side of the bracket is protruded, so that even when screwed in very tightly they don&amp;rsquo;t apply enough compression force to secure the frame. In this case 14 T-nuts can be substituted with flat style ones, or pieces of fibre washers can be glued into the grooved areas to reduce the protrusion depth. Misumi also have t-nuts designed specifically for this bracket HNTT6-5. 14 of these can be used.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK3x/master/Pics/1%20Glamor%20Shots/Tnutmod.jpg&#34; alt=&#34;Tnut mod for corner brackets protrusions&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1x M5 20-25 mm Button Head screw (low profile) The head needs to be 4.2mm or less long as this sits between the idler part and the leadscrew.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1x M5 30-35mm screw&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;22x &lt;a href=&#34;http://au.element14.com/tr-fastenings/m3-uhbrhesf/brass-insert-unheaded-m3/dp/2474921&#34;&gt;M3 Heat-sert Brass inserts (M3-UHBRHESF)&lt;/a&gt; W4.4mm x H5.8mm or similar. These are set into parts using a hot soldering iron and are great for making strong functional parts without having to worry about screw threads stripping over time. Proper thermal inserts are recommended, but the easier to source &lt;a href=&#34;https://www.aliexpress.com/item/100pcs-lot-Brass-insert-M2-M2-5-M3-Through-thread-brass-insert-nut-knurled-nuts/32840519444.html?ws_ab_test=searchweb0_0%2Csearchweb201602_4_10065_10344_10068_10130_10342_10547_10343_10340_10548_10341_10084_10617_10616_10083_10615_10307_10131_5920011_10132_10133_10313_10059_10534_100031_10604_10103_441_442_10142%2Csearchweb201603_25%2CppcSwitch_5&amp;amp;algo_expid=8c4388f4-62b7-4382-967f-2699a075ba66-0&amp;amp;algo_pvid=8c4388f4-62b7-4382-967f-2699a075ba66&amp;amp;priceBeautifyAB=2&#34;&gt;injection molding type&lt;/a&gt; ones should work almost as well.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;7x 4-8mm M3 Button head&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;6x 12mm M3 Button head&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;6x 16mm M3 Button head&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3x 30mm M3 screw&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4x 6-8mm M3 countersunk&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;8x 6-12mm countersunk (for leadscrew nuts) you also may want to secure these with nylocks m3 x8&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2x M5 Nylock nut&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1x M3 Nylock for part cooling bracket. 6 more can be used as a substitute for the extruder assembly if Heat-serts cannot be found.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Some fasteners are carried across from the Wanhao. This includes the hotend screws, and the M4 x-carriage screws.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(Optional) 2x M5 Smooth Idler Pulleys. The original Wanhao pulleys are prone to failure over time and are 11mm wide. i recommend switching them out with new ones while doing this mod. Most replecement ones are 9mm wide which allows you to use the &lt;strong&gt;X Gantry Idler 9MM&lt;/strong&gt; part instead of the &lt;strong&gt;X Gantry Idler 11mm (Stock idler)&lt;/strong&gt; part. The 9mm version has thicker walls which should make it more durable over time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3-10 M5 washers (Steel or fibrous). Used to secure the X and Y idlers. Variable number required depending on their thickness and whether you are using stock idlers or the usually thinner aftermarket ones.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 Meter of GT2 6mm belt. The X carriage distances are increased and the stock belt may not be long enough. aprox 770mm is required.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;50mm Blower Fan. Hopefully you should already have one of these in your arsenal as they make a huge improvement to print quality&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Fasteners.jpg?raw=true&#34; alt=&#34;Fasteners required&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;summarised-misumi-parts-list&#34;&gt;Summarised Misumi Parts List&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;HFSLB6-3030-355	2&lt;/li&gt;
+&lt;li&gt;HFSLB6-3030-380	2&lt;/li&gt;
+&lt;li&gt;HFSLB6-3030-350	2&lt;/li&gt;
+&lt;li&gt;HFSLB6-3030-258	2&lt;/li&gt;
+&lt;li&gt;HPTLS6		8&lt;/li&gt;
+&lt;li&gt;HBLFSNB6	14&lt;/li&gt;
+&lt;li&gt;LMU8		4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Notes:
+Substitute with HFSL6-3030 if you would like non anodized silver
+HFS-3030 (Standard) or any other type of 3030 can be substituted instead.&lt;/p&gt;
+&lt;h3 id=&#34;essential-tools&#34;&gt;Essential Tools&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Set Square, ruler, measuring tape. - to ensure everything is a flush 90 degrees&lt;/li&gt;
+&lt;li&gt;Calipers, to accurately offset parts&lt;/li&gt;
+&lt;li&gt;Xacto Knife to clean prints&lt;/li&gt;
+&lt;li&gt;soldering iron to insert the brass heat-serts&lt;/li&gt;
+&lt;li&gt;3mm, 5mm, 8mm and 15mm Drill bits. Depending on your filament, screw, rod and bearing holes may be slightly undersized. Running these drill bits through these holes ensures proper sizing.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1.2 Printing Parts &amp; Pre Assembly</title>
+      <link>https://riganti.com.au/docs/mk3x/page2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://riganti.com.au/docs/mk3x/page2/</guid>
+      <description>&lt;p&gt;I recommend ABS or an ABS composite if you have an enclosure or if your printer can produce prints with minimal warping. ABS was chosen as this is what the Prusa MK2s was manufactured with. As of the MK3, Prusa is using PETG which is also fantastic choice. Otherwise PLA may work except for the extruder carriage parts.&lt;/p&gt;
+&lt;p&gt;If using ABS please allow for a few percent of shrinkage. This is especially important for the feet parts, which need to be exactly level with the underside crossbeam.&lt;/p&gt;
+&lt;p&gt;Recommended 40-60% infill and 3-4 outer shells for maximum strength.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Parts.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;These parts make use of brass heat inserts in order to make the strongest prints in the space available. They are installed with a soldering iron. Slowly push the insert into the hole while being careful to keep it as square as possible. Use an Xacto blade to clear the surrounding area of any excess plastic.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/HeatSert.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;These inserts are used on the following parts.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2x X Carriage Front Extruder Plate&lt;/li&gt;
+&lt;li&gt;6x X Carriage Rear Bearing Plate&lt;/li&gt;
+&lt;li&gt;2x Part Fan Bracket&lt;/li&gt;
+&lt;li&gt;2x X Gantry Cable Box Bottom&lt;/li&gt;
+&lt;li&gt;4x X Gantry Idler 9MM&lt;/li&gt;
+&lt;li&gt;2x X Gantry Motor Mount&lt;/li&gt;
+&lt;li&gt;2x Y Axis Belt Idler&lt;/li&gt;
+&lt;li&gt;2x Z Rod Securer X2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You will need multiple copies of the following parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Base Leg H26.8mm X4&lt;/li&gt;
+&lt;li&gt;Cable Guide Drop In X2-4&lt;/li&gt;
+&lt;li&gt;Cable Guide Slide In X2-4&lt;/li&gt;
+&lt;li&gt;Tower Corner Bracket Large 80x80x5 V2 (Better Z Clearance) X2 or Tower Corner Bracket Large 80x80x5 V1 X2&lt;/li&gt;
+&lt;li&gt;Y Axis Rod Holder Left X2&lt;/li&gt;
+&lt;li&gt;Z Rod Securer X2&lt;/li&gt;
+&lt;li&gt;Y Carriage Bearing Block X3 (Not required on V2.1 as it already uses lighter plastic bearing blocks)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Most parts can be printed without issue. Supports should not be required in most cases. However some parts are a little trickier and may benefit from a brim to ensure they print flat. This includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;X Carriage Front Extruder Plate&lt;/li&gt;
+&lt;li&gt;X Carriage Rear Bearing Plate&lt;/li&gt;
+&lt;li&gt;Y Axis Rod Holder Left X2&lt;/li&gt;
+&lt;li&gt;Y Axis Rod Holder Right&lt;/li&gt;
+&lt;li&gt;Y Axis Rod Holder Right &amp;amp; Endstop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pre-assembly-decisions&#34;&gt;Pre Assembly Decisions&lt;/h3&gt;
+&lt;p&gt;A few decisions will need to be made before assembly.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The tower top corner bracket is available in 2 forms. &lt;strong&gt;Tower Corner Bracket Large 80x80x5 V1 X2&lt;/strong&gt; parts are the ones in the photos, and &lt;strong&gt;Tower Corner Bracket Large 80x80x5 V2 (Better Z Clearance) X2&lt;/strong&gt; parts provide better z clearance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you use the stock idler pulleys you will need to use &lt;strong&gt;X Gantry Idler 11mm (Stock idler)&lt;/strong&gt;. If using a replacement 9mm idler, the  &lt;strong&gt;X Gantry Idler 9MM&lt;/strong&gt; part can be used which should be stronger.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;if you have no access to Misumi parts it is possible to either:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Replace the metal brackets with ones from other sources and don&amp;rsquo;t bother with the plastic brackets on top.&lt;/li&gt;
+&lt;li&gt;Use printed brackets, from the &lt;strong&gt;Non Metal Tabbed Brackets&lt;/strong&gt; folder which will not be as strong.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/1%20Glamor%20Shots/Non%20Metal%20Brackets.PNG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Spool Holder and filament guides. Even with the increased rigidity I recommend a control box spool holder. The &lt;strong&gt;Alternative &amp;amp; Optional Parts&lt;/strong&gt; folder contains a control box filament guide as well as a top mounted spool roller with PTFE guides and cleaners. This folder also contains alternative stls for cheap Bunnings brackets &lt;a href=&#34;https://www.bunnings.com.au/zenith-75mm-zinc-plated-corner-brace-bracket-4-pack_p2760923&#34;&gt;https://www.bunnings.com.au/zenith-75mm-zinc-plated-corner-brace-bracket-4-pack_p2760923&lt;/a&gt;. Also alternative cable routing parts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/1%20Glamor%20Shots/Alternate%20And%20Extra%20parts.PNG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Finally the printer can be assembled in two different ways. It can be assembled as outlined here with the vertical rods on the backside of the tower. The large brackets become the front face of the printer. Alternatively is can be assembled similar to the Prusa MK2s where the motors and rods face forward. The benefits of this include a slightly increased Z-height of ~210mm. However i don&amp;rsquo;t have official cable routing for this version but a number of cable chain brackets are available in the &lt;strong&gt;Alternative &amp;amp; Optional Parts&lt;/strong&gt; folder. Instructions are similar but you will need to recheck the placement of your z axis crossbeam and the extruder faces the opposite direction.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Original Configuration. CAD files available &lt;a href=&#34;https://www.tinkercad.com/things/azPlfmHU5MQ&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK3x/blob/master/Pics/1%20Glamor%20Shots/OrigConfig.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reversed Configuration. CAD files available &lt;a href=&#34;https://www.tinkercad.com/things/3dhHpAMNEjQ&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK3x/blob/master/Pics/1%20Glamor%20Shots/ReversedConfig.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2.1 Base</title>
+      <link>https://riganti.com.au/docs/mk3x/page3/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://riganti.com.au/docs/mk3x/page3/</guid>
+      <description>&lt;p&gt;Lets Begin with the bottom quad frame.&lt;/p&gt;
+&lt;p&gt;Note: some of the pictures may not be 100% accurate as I was trying a few alternate configurations before settling on the current one.&lt;/p&gt;
+&lt;p&gt;Join a 258mm 3030 extrusion perpendicular to the 350mm 3030 extrusions using two &lt;strong&gt;Base Leg H26.8mm X4&lt;/strong&gt; parts. This becomes the front of our printer.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Leg1.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Use 4x 12mm M5 screws, through the leg and the steel plate bracket with T-nuts loosely connected. 
+They can then slide onto the rail. Check it is square and tighten it down.&lt;/p&gt;
+&lt;p&gt;Connect 3030 corner brackets on the inside using 2x 12mm screws and drop in T-nuts&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Leg2.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Next Loosely Connect the 380mm 3030 Extrusion across the bottom with 2x Corner 3030 Brackets on each side like the picture below. This is essential if you don&amp;rsquo;t have drop in T-nuts, but can still be a pain if you do.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Crossbeam1.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The front face of the Crossbeam should be 180mm back from the front of the very front of the machine. If building in reverse config. The crossbeam should be positioned 250mm from the front.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Crossbeam2.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Next Attach the remaining 258mm 3030 extrusion to the rear of the two 350mm extrusions using the two remaining &lt;strong&gt;Base Leg H26.8mm X4&lt;/strong&gt; parts, two plate brackets and two 30x30 corner brackets.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Leg3.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Check that the frame is square across all points and tighten down the legs. For the crossbeam, once measured at 180mm and squared tighten the 2x corner brackets on the back to lock it down. The front corner brackets on the 380mm crossbeam are still not tightened for now as we will need to remove them to finalize the z tower.&lt;/p&gt;
+&lt;p&gt;Attach another 30x30 corner bracket into the top of the crossbeam and the sides of the base on both sides and tighten them down.&lt;/p&gt;
+&lt;p&gt;Install the &lt;strong&gt;Y Axis Idler&lt;/strong&gt; to the front extrusion centered in the middle with two 12mm M5 screw and T-nuts. Complete the idler using a 30-35mm M5 screw, M5 washers, stock or thinner aftermarket Idler pulley, and a M5 nylock nut. This part also requires 2 M3 heat-serts inserted on the front. This is used later to tension the belt. 2x 20mm M3 screws are entered into the heatserts.&lt;/p&gt;
+&lt;p&gt;Install the &lt;strong&gt;Y Axis Motor Holder&lt;/strong&gt; to the rear extrusion approx 10cm from the left with two 12mm M5 screw and T-nuts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2.2 Begin The ZTower</title>
+      <link>https://riganti.com.au/docs/mk3x/page4/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://riganti.com.au/docs/mk3x/page4/</guid>
+      <description>&lt;p&gt;Finalize the 380mm underside crossbeam.&lt;/p&gt;
+&lt;p&gt;Take the temp front 30x30 corner bracket off the underside crossbeam. Sandwich a 16mm M5 screw into a corner 30x30 bracket, the &lt;strong&gt;Tower Bottom Brackets Crossover Merge&lt;/strong&gt; part, the steel plate bracket into the crossbeam extrusion and the base part.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/3%20Tower%20Frame/Crossbeam3.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/3%20Tower%20Frame/Crossbeam4.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;On each side of the 380mm crossbeam attach the vertical 355mm extrusions.
+This should be attached with a corner 30x30 bracket, and the &lt;strong&gt;Tower Bottom Brackets Crossover Merge&lt;/strong&gt; parts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/3%20Tower%20Frame/Tower3.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;On the back of the vertical extrusions install the &lt;strong&gt;Z Axis Motor Bottom Right&lt;/strong&gt; and &lt;strong&gt;Z Axis Motor Bottom Left&lt;/strong&gt; parts. The bottom of those parts should be exactly 44mm from the base of the printer.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/3%20Tower%20Frame/Frame3.jpg?raw=true&#34; alt=&#34;Note the y idler and y motor parts are on backwards here&#34;&gt;
+NOTE!: The  y idler and motor mount are on the wrong side here. swap them!&lt;/p&gt;
+&lt;p&gt;Install The 320mm Z Rods in the &lt;strong&gt;Z Axis motor&lt;/strong&gt; parts. Align the rods flush with the bottom of the motor mount. Use a &lt;strong&gt;Z-Rod securer&lt;/strong&gt; to secure the rod. This part should contain a hert-sert part with a 16mm M3 screw to tighten it to the rod. Mount the securer to the motor parts with a 12mm M3 screw and a 16mm M3 screw where it also mounts to the z-motor astrosyn dampener. Mount the other side of the Z-motor with a 12mm M3.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/3%20Tower%20Frame/ZTower.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Continue with the X axis gantry.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3.1 Hotend MK10 Original</title>
+      <link>https://riganti.com.au/docs/mk3x/page5/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://riganti.com.au/docs/mk3x/page5/</guid>
+      <description>&lt;p&gt;The Hotend Carriage makes use of the stock Prusa MK2s rod spacing. If you decide to use a different carriage design make sure to use a Prusa compatible one.&lt;/p&gt;
+&lt;p&gt;Note: Some pictures on this page are the older V1 extruder carriage. The improved  new style MK3 carriage allows for the complete extruder assembly to be removed or installed from the X Axis rods without disassembling the Z-tower.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/4%20Hotend/CarriageNew.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Start with inserting the heat-Serts into your carriage parts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage1.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;4 are inserted into the front of the &lt;strong&gt;X Carriage Rear Bearing Plate MK3 V2&lt;/strong&gt; and 2 are inserted into the back. Slowly run a screw into and out of each of these threads to ensure they align with the rest of the screw holes. It is possible to substitute these heat-serts with M3 nylocks if you have trouble sourcing them.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage2.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2 Heart Serts are inserted into the prongs on the &lt;strong&gt;X Carriage Front Extruder Plate MK3 V2&lt;/strong&gt;. If you are not using a BLTouch or similar leveling probe you can skip this.&lt;/p&gt;
+&lt;p&gt;Merge these two parts together using the 2 16-20mm M3 screws into the center screw holes. Secure them on the back with 2 M3 nylock nuts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/Fan1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Insert 2 more heat-sert parts into the &lt;strong&gt;Part Cooling Fan MK3 V2&lt;/strong&gt;. Use 2 16mm M3 screws through the bottom x carriage screw holes and into this part. Attach this to the &lt;strong&gt;Part Cooling Fan Bracket MK3 V2&lt;/strong&gt; with an M3 x 12mm screw inserted from the bottom and an M3 nylock. The Part Cooling Fan can be installed with a 30mm M4 Nut and Nylock.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/Fan2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Screw the &lt;strong&gt;Part Cooling Fan MK3 V2&lt;/strong&gt; to the fan bracket using 2 12mm M3 screws.
+Place your bearings into the carriage. This designs allows you to use 16mm M3 screws to adjust the tension on the bearing. This is very helpful for Igus bearings. I settled on 2 a combination of 2 Igus bearing and a Misumi LM8LUU to give a smooth easy and quiet movement.&lt;/p&gt;
+&lt;p&gt;Install the extruder motor, extruder and extruder plate.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage4.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage5.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Once completed this carriage should be significantly lighter than the original. The original carirage came to 620grams.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/WeightOrig.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This new design comes in at 430gramms, around  190grams lighter.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/WeightNew.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Continue to assemble the X-axis gantry.&lt;/p&gt;
+&lt;p&gt;Z Probe Offset values for marlin configuration&lt;/p&gt;
+&lt;p&gt;#define X_PROBE_OFFSET_FROM_EXTRUDER 24&lt;/p&gt;
+&lt;p&gt;#define Y_PROBE_OFFSET_FROM_EXTRUDER -36&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3.2 Hotend Upgrade E3d Titan Aero</title>
+      <link>https://riganti.com.au/docs/mk3x/page6/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://riganti.com.au/docs/mk3x/page6/</guid>
+      <description>&lt;p&gt;The Hotend Carriage makes use of the stock Prusa MK2s rod spacing. If you decide to use a different carriage design make sure to use a Prusa compatible one.&lt;/p&gt;
+&lt;p&gt;Note: Some pictures on this page are the older V1 extruder carriage. The improved  new style MK3 carriage allows for the complete extruder assembly to be removed or installed from the X Axis rods without disassembling the Z-tower.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/4%20Hotend/CarriageNew.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Start with inserting the heat-Serts into your carriage parts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage1.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;4 are inserted into the front of the &lt;strong&gt;X Carriage Rear Bearing Plate MK3 V2&lt;/strong&gt; and 2 are inserted into the back. Slowly run a screw into and out of each of these threads to ensure they align with the rest of the screw holes. It is possible to substitute these heat-serts with M3 nylocks if you have trouble sourcing them.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage2.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2 Heart Serts are inserted into the prongs on the &lt;strong&gt;X Carriage Front Extruder Plate MK3 V2&lt;/strong&gt;. If you are not using a BLTouch or similar leveling probe you can skip this.&lt;/p&gt;
+&lt;p&gt;Merge these two parts together using the 2 16-20mm M3 screws into the center screw holes. Secure them on the back with 2 M3 nylock nuts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/Fan1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Insert 2 more heat-sert parts into the &lt;strong&gt;Part Cooling Fan MK3 V2&lt;/strong&gt;. Use 2 16mm M3 screws through the bottom x carriage screw holes and into this part. Attach this to the &lt;strong&gt;Part Cooling Fan Bracket MK3 V2&lt;/strong&gt; with an M3 x 12mm screw inserted from the bottom and an M3 nylock. The Part Cooling Fan can be installed with a 30mm M4 Nut and Nylock.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/Fan2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Screw the &lt;strong&gt;Part Cooling Fan MK3 V2&lt;/strong&gt; to the fan bracket using 2 12mm M3 screws.
+Place your bearings into the carriage. This designs allows you to use 16mm M3 screws to adjust the tension on the bearing. This is very helpful for Igus bearings. I settled on 2 a combination of 2 Igus bearing and a Misumi LM8LUU to give a smooth easy and quiet movement.&lt;/p&gt;
+&lt;p&gt;Install the extruder motor, extruder and extruder plate.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage4.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage5.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Once completed this carriage should be significantly lighter than the original. The original carirage came to 620grams.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/WeightOrig.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This new design comes in at 430gramms, around  190grams lighter.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/WeightNew.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Continue to assemble the X-axis gantry.&lt;/p&gt;
+&lt;p&gt;Z Probe Offset values for marlin configuration&lt;/p&gt;
+&lt;p&gt;#define X_PROBE_OFFSET_FROM_EXTRUDER 24&lt;/p&gt;
+&lt;p&gt;#define Y_PROBE_OFFSET_FROM_EXTRUDER -36&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3.3 Hotend Upgrade E3D Hemera</title>
+      <link>https://riganti.com.au/docs/mk3x/page7/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://riganti.com.au/docs/mk3x/page7/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraMain.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This E3d Hemera mount features; full hot swap capabilities with only 3 screws, a Bltouch sensor mount, the latest MK3s R4 cooling duct, cable organizing channels, Full nozzle visibility and full usability of the X Axis. A MK3s filament sensor is currently undergoing testing and will uploaded soon. A PINDA2 probe mount will also be available shortly.&lt;/p&gt;
+&lt;p&gt;This mount was designed to be as compact as possible within the available space. The Z height and width profiles are minimized while keeping it as strong and light as possible. The Hemera is a wide extruder / hotend system with an offset mount which made it a challenge to design a mount that kept full x axis usability.&lt;/p&gt;
+&lt;p&gt;This mount is designed primarily for the ReDuplicator MK3sx which started life as a Wanhao Duplicator i3. Unfortunately due to the Hemera size and and offset, the common ReDuplicator x-carriage used for the MK10 and titan could not be carried across. The original ReDuplicator files are available &lt;a href=&#34;https://www.thingiverse.com/thing:2686588/#files&#34;&gt;here.&lt;/a&gt; Although the mount is designed for the ReDuplicator, it should also be compatible with the Prusa MK3/s with some small changes to trigger the TMC endstops correctly.&lt;/p&gt;
+&lt;p&gt;The new fan shroud is based on the Prusa MK3s R4 duct. It results in much better overhangs and more consistent performance than the R3 and R2 Prusa fan ducts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/HemeraLow.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Please ensure sure your Re-duplicator idler part is the new V2 or newer design as it includes additional mounting points for the X endstop. The X-axis endstop is mounted on the bottom of the X-axis idler part. However if you&amp;rsquo;ve already printed the original idler V1, new holes can be drilled in at 5mm intervals with a 1.5mm drill bit. I highly recommend upgrading to TMC steppers for this as it is much easier to setup with sensorless homing.&lt;/p&gt;
+&lt;p&gt;The printed parts should be a minimum of 3 perimeters and 20%+ infill. The printed parts required are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hemera X Carriage Plate.&lt;/li&gt;
+&lt;li&gt;Hemera Cooling Duct&lt;/li&gt;
+&lt;li&gt;Hemera Fan Mount&lt;/li&gt;
+&lt;li&gt;Hemera Endstop (For TMC Sensorless homing)&lt;/li&gt;
+&lt;li&gt;Hemera BLTouch Mount (optional).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additional Hardware includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;M3 Heatserts x4-6 &lt;a href=&#34;http://au.element14.com/tr-fastenings/m3-uhbrhesf/brass-insert-unheaded-m3/dp/2474921&#34;&gt;M3-UHBRHESF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;M3 Screw 20-25mm x3&lt;/li&gt;
+&lt;li&gt;M3 Screw 8mm-10mm x3&lt;/li&gt;
+&lt;li&gt;Countersunk M3 8mm screw x4 (for Bltouch mount)&lt;/li&gt;
+&lt;li&gt;M3 12mm screw (Bl touch mount)&lt;/li&gt;
+&lt;li&gt;Hemera Hotend with provided mounting screws&lt;/li&gt;
+&lt;li&gt;M3 Nylock nuts x4&lt;/li&gt;
+&lt;li&gt;M4 30mm Bolt&lt;/li&gt;
+&lt;li&gt;M4 Nylock Nut&lt;/li&gt;
+&lt;li&gt;M4 Soft Washer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The installation process is very similar to the original MK10 hotend and the titan Aero.
+Four Heatserts are placed into the back of the extruder plate.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/Heatsert.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Two optional heat serts are inserted into the front of the carriage. This is only required if you intend to use the MK3s optical filament sensor.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/HeatSertFront.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Follow the &lt;a href=&#34;https://e3d-online.dozuki.com/c/Hemera_Assembly_Guides&#34;&gt;Hemera core and direct assembly guides here&lt;/a&gt;
+The Hemera is mounted to the plate with the provided 4 bolts. I recommend re terminating all wires in order to make maintenance and swapping the hotend assembly easier. Dupont connectors are perfect for most wires and spade connectors are used for the hotend. The stepper motor wiring can be fed through the provided channel and fed through the underside.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/HemeraBed.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The carriage can then side onto the X axis. The 3 bearings can slide into the bearing slots. Use the 20-25mm M3 screws and nylocks to secure the bearings. Be sure not to over tighten these screws, ensure the pressure on the bearings is even and the carriage should slide freely.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraMount.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The fan mount connects to the fan shroud via a 10mm M3 bolt and Nylock. The 50mm blower fan is connected with the 30mm M4, Nylock and soft washer. The soft washer in between will help to reduce vibrating fan noise.
+Once the heating block is centered properly, connect the cooling fan duct to the carriage with 2x 8-10mm m3 screws into the bottom most mounting holes.&lt;/p&gt;
+&lt;p&gt;The X Axis belt is installed the same as the Prusa MK3s. See those instructions for further details if required. The X axis motor should be loosened and rotated inwards, This allows the belt to be pushed into the slots. A flathead screwdriver may help. The motor can then be rotated back and tensioned.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraDuct.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Bltouch mount is connected to the motor with 4x 8mm countersunk screws. 2x 10mm M3 screws mount the Bltouch to the mount.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraLow2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Connect all your wiring and the wiring chain with 2x 8mm countersunk M3 screws.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraWiring.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Connect the endstop to the bottom of the X axis idler pulley with 2x 8mm M2 screws. There are a number of different mounting holes. Use the ones which get the nozzle closest to the corner of the heatbed without overhanginging it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/Endstop.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Some software changes are required. Remember to calibrate your Z-offset value before use. Also ensure you run a PID tune and update your esteps as outlined in the E3D instructions. Probe Offset values for marlin configuration:&lt;/p&gt;
+&lt;p&gt;#define X_PROBE_OFFSET_FROM_EXTRUDER 31&lt;/p&gt;
+&lt;p&gt;#define Y_PROBE_OFFSET_FROM_EXTRUDER -39&lt;/p&gt;
+&lt;p&gt;Your Hemera is now ready for action.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraCloseup.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A prototype MK3s filament sensor is available for testing via github, and will be published once properly tested. A Pinda2 probe mount is also on the way.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3.4 Headbed upgrade MK52</title>
+      <link>https://riganti.com.au/docs/mk3x/page8/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://riganti.com.au/docs/mk3x/page8/</guid>
+      <description>&lt;p&gt;The final piece of recreating the Prusa MK3s magic is the fantastic removable spring steel PEI magnetic heatbed. Unfortunately the dimensions of the rods on the original Wanhao differ quite a lot from the MK3 and as such cannot accommodate the heatbed or fully utilize its larger build volume.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Main.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This project expands the ReDuplicator frame to enable full use of the Mk52 heatbed with its 254x210mm buildspace. This requires new extrusions and rods. Some extrusions and printed parts are carried over from the original ReDuplicator design.&lt;/p&gt;
+&lt;h3 id=&#34;printed-parts&#34;&gt;Printed Parts&lt;/h3&gt;
+&lt;p&gt;Most of the instructions and printed parts carry over from the original ReDuplicator Design. However the following printed parts supersede the original ones.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;MK52 Printed Parts&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Heatbed Cover Bottom MK52 Expansion 360&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Heatbed Cover Top MK52 Expansion 360&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;X Gantry Idler 9MM - MK52 Expansion 360&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;X Gantry Motor Mount - MK52 Expansion&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;X Axis TMC Endstop 360&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Y Carriage Bearing Block - MK52 Expansion 360&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Y Carriage Bearing Block Flanged - MK52 Expansion 360&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Y Carriage Belt Holder - MK52 Expansion&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Y Carriage Belt Tensioner - MK52 Expansion&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Z Axis Motor Bottom Left - MK52 Expansion 360&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Z Axis Motor Bottom Right - MK52 Expansion 360&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Z Axis Rod Top Left Bracket - MK52 Expansion 360&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Z Axis Rod Top Right Bracket - MK52 Expansion 360&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;These are the recommended printed parts from the original Reduplicator Project&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Original Reduplicator Printed Parts&lt;/th&gt;
+&lt;th&gt;Details&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;BLTouch Mount&lt;/td&gt;
+&lt;td&gt;MK10 Hotend Only&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Base Leg H26.8mm 360 X4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cable Guide Alternate - Motor Mount 360&lt;/td&gt;
+&lt;td&gt;New cable routing via X gantry motor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cable Guide Bottom Mount 360&lt;/td&gt;
+&lt;td&gt;New Recommended cable routing part&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Inner Corner Bracket Covers X2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Part Cooling Fan Bracket MK3 V3&lt;/td&gt;
+&lt;td&gt;MK10 Hotend only&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Part Cooling Fan MK3 R3 V3&lt;/td&gt;
+&lt;td&gt;MK10 Hotend only&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;X Carriage Front Extruder Plate MK3 V2&lt;/td&gt;
+&lt;td&gt;MK10 Hotend only&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;X Carriage Universal Rear Bearing Plate MK3 V3&lt;/td&gt;
+&lt;td&gt;MK10 or Titan Aero Hotend only&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Y Axis Motor Mount V2 360&lt;/td&gt;
+&lt;td&gt;Recently updated design&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Y Axis Rod Holder Left 360 X2&lt;/td&gt;
+&lt;td&gt;Recently updated design&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Y Axis Rod Holder Right &amp;amp; Endstop&lt;/td&gt;
+&lt;td&gt;Only Required If using endstop switches&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Y Axis Rod Holder Right 360&lt;/td&gt;
+&lt;td&gt;Recently updated design&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Z Rod Securer V2 360&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Z Tower Bottom Crossover Brackets 360&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Z Tower Top Corner Bracket V3 360 X2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Z-EndStop&lt;/td&gt;
+&lt;td&gt;Only Required If not using a leveling probe&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;bill-of-materials&#34;&gt;Bill Of materials&lt;/h3&gt;
+&lt;p&gt;The BOM remains largely the same apart from a the new extrusions, rods and a few additional fasteners. As usual I recommend Misumi extrusions, bearings and rods due to their exceptional quality. While purchasing new rods it&amp;rsquo;s also a good idea to replace the bearings with &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302577950/?HissuCode=LMU8&#34;&gt;LMU8s&lt;/a&gt; if you haven&amp;rsquo;t already as they are tolerance matched.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;New Parts&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Number Reqd&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;3030 Extrusion 278mm&lt;/td&gt;
+&lt;td&gt;X Base &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFSLB6-3030-278&#34;&gt;HFSLB6-3030-278&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3030 Extrusion 430mm&lt;/td&gt;
+&lt;td&gt;Z Tower &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFSLB6-3030-430&#34;&gt;HFSLB6-3030-430&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3030 Extrusion 340mm&lt;/td&gt;
+&lt;td&gt;X Tower &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFSLB6-3030-340&#34;&gt;HFSLB6-3030-340&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hardened Steel Rod 380mm&lt;/td&gt;
+&lt;td&gt;X Axis Rods &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302634310/?ProductCode=PSFJ8-380&#34;&gt;PSFJ8-380.&lt;/a&gt; Alternatively CPSFJ8-380 is cheaper with worse tolerances and hardness. Or PSFU8-380 with higher tolerances and a higher price&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hardened Steel Rod 330mm&lt;/td&gt;
+&lt;td&gt;Z Axis Rods &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302634310/?ProductCode=PSFJ8-330&#34;&gt;PSFJ8-330&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hardened Steel Rod 370mm&lt;/td&gt;
+&lt;td&gt;Y Axis Rods &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302634310/?ProductCode=PSFJ8-370&#34;&gt;PSFJ8-370&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Prusa original MK52 heatbed Kit&lt;/td&gt;
+&lt;td&gt;Can be purchased directly from Prusa if you have a friend with a MK3, otherwise clones are widely available.&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MK3 Y Carriage&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.aliexpress.com/item/32882851897.html?spm=a2g0s.9042311.0.0.27424c4d8K3I5M&#34;&gt;6mm Aluminium&lt;/a&gt; or a &lt;a href=&#34;https://www.aliexpress.com/item/32991330262.html?spm=a2g0s.9042311.0.0.27424c4d8K3I5M&#34;&gt;lighter Composite version&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Heatbed 6mm Spacer Kit&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.aliexpress.com/item/32961482490.html?spm=a2g0s.9042311.0.0.27424c4dnxrqP3&#34;&gt;6mm spacer and 12mm M3 screws&lt;/a&gt; Recommend using 1 spacer for the center and using Nylocks on the other screws for a perfect bed level&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 35mm&lt;/td&gt;
+&lt;td&gt;For Y carriage tensioner&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 22mm&lt;/td&gt;
+&lt;td&gt;To secure the bearings to the Y Carriage.&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 Nylock&lt;/td&gt;
+&lt;td&gt;Additional nylocks required for heatbed leveling and mounting&lt;/td&gt;
+&lt;td&gt;15-25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The parts below carry over from the original ReDuplicator build.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Carry Over Parts&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;th&gt;Number Reqd&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;3030 Extrusion 355mm&lt;/td&gt;
+&lt;td&gt;Y Base &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFSLB6-3030-355&#34;&gt;HFSLB6-3030-355&lt;/a&gt; Carried across from Old Z Axis&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;30x30x35 Corner Brackets&lt;/td&gt;
+&lt;td&gt;Tabbed on SINGLE Side only &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110300442340/?HissuCode=HBLFSNB6&#34;&gt;HBLFSNB6&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alluminium Flat bracket&lt;/td&gt;
+&lt;td&gt;4 mount holes &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302250620/?HissuCode=HPTLS6&#34;&gt;HPTLS6&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;LM8UU Bearings&lt;/td&gt;
+&lt;td&gt;Std 8mm 15mm long bearings &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302577950/?HissuCode=LMU8&#34;&gt;LMU8&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 12mm&lt;/td&gt;
+&lt;td&gt;Button Head Screw M5&lt;/td&gt;
+&lt;td&gt;70&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 16mm&lt;/td&gt;
+&lt;td&gt;Button Head Screw M5&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 T-Nuts&lt;/td&gt;
+&lt;td&gt;3030 T-Nuts Drop in preferred&lt;/td&gt;
+&lt;td&gt;80&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 20-25mm&lt;/td&gt;
+&lt;td&gt;Low Profile Button head (less than 4.2mm)&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 30-35mm&lt;/td&gt;
+&lt;td&gt;Screw M5&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 Heatserts&lt;/td&gt;
+&lt;td&gt;Brass heat inserts M3 thread &lt;a href=&#34;http://au.element14.com/tr-fastenings/m3-uhbrhesf/brass-insert-unheaded-m3/dp/2474921&#34;&gt;M3-UHBRHESF&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 4-8mm&lt;/td&gt;
+&lt;td&gt;Button Head Screw M3&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 12mm&lt;/td&gt;
+&lt;td&gt;Button Head Screw M3&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 16mm&lt;/td&gt;
+&lt;td&gt;Button Head Screw M3&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 30mm&lt;/td&gt;
+&lt;td&gt;Screw M3&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 6-8mm&lt;/td&gt;
+&lt;td&gt;Countersunk M3&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 6-12mm&lt;/td&gt;
+&lt;td&gt;Countersunk M3&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 Nylock&lt;/td&gt;
+&lt;td&gt;Nuts for Idlers&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 Smooth Idler Pulley&lt;/td&gt;
+&lt;td&gt;(Optional) 9mm wide replacement&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M5 Fibrous Washers&lt;/td&gt;
+&lt;td&gt;For idler Pulleys&lt;/td&gt;
+&lt;td&gt;3 - 10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;GT2 Belt&lt;/td&gt;
+&lt;td&gt;6mm belt&lt;/td&gt;
+&lt;td&gt;1m&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;50mm Blower&lt;/td&gt;
+&lt;td&gt;Part Cooling&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;M3 Square nut&lt;/td&gt;
+&lt;td&gt;X motor tensioner&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;At this stage the &lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK3x/wiki&#34;&gt;original ReDuplicator instructions&lt;/a&gt; can be followed in conjunction with the changes listed below. The &lt;a href=&#34;https://manual.prusa3d.com/c/Original_Prusa_i3_MK3S_kit_assembly&#34;&gt;original Prusa MK3s&lt;/a&gt; guides are also a valuable resource.&lt;/p&gt;
+&lt;h3 id=&#34;assembly&#34;&gt;Assembly&lt;/h3&gt;
+&lt;p&gt;The Base is made up of the 278mm Extrusions in the X direction and 355mm in the X Direction.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Base.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The underside crossbeam is a 340mm extrusion. Its final position depends on your exact setup so leave it slightly loose till the best of the build is finalized. For example, when using a Hemera hotend with TMC sensorless homing, the crossbeam should be 185mm from the front of the base.&lt;/p&gt;
+&lt;p&gt;The Z Tower is made up of 430mm extrusions. In this version the vertical extrusion go all the way to the top and bottom, which makes it much easier to add the corner brackets and rod holding tower parts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Tower.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Z motor mounts should be mounted 42mm from the base of the Z tower.
+The top of the Y axis Idler should be mounted 118mm across the front extrusion and the top of the Y motor mount should be 108mm across the rear extrusion. For the MK10 and Titan aero these can be set 10mm further to the right.&lt;/p&gt;
+&lt;p&gt;The 380mm rods are mounted on the Y axis, 330mm rods on the z axis and 370 rods in the Y axis.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Rods.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Z Top Rod holding pieces should be flush with the edge and the top of the tower extrusions. The distance between the Z axis rods is 396mm.&lt;/p&gt;
+&lt;p&gt;The Y axis rods are press fit into the X idler and X motor pieces. There are small windows to ensure the rods are inserted fully.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Bearings.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Insert the bearings into the Y bearing holders. use the flanged bearing blocks if you are using normal LM8U bearings or use the non flanged version if using longer LM8UU bearings. M3 Nylocks are press fit into the blocks and secured to the Y carriage with 22mm-25mm M3 bolts and washers screwed in from the top.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Carriage.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Y Belt holder requires 2 m3 nylocks to be press fit into it. It is mounted to the Y carriage on the side of the Y motor mount with a 10mm-12mm M3 bolt and nylock. The Y Belt Tensioner is attached to the other side and a nylock is press fit on the side. The belt is mounted by looping the belt around a 12mm m3 screw and slowly screwing it in. Once the belt is properly in the channels a 35mm M3 screw between the Belt holder and tensioner is tightened to tension the belt properly.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52YTension.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The MK52 heatbed can then be installed. There are 9 mounting holes. Use the countersunk 12mm screw and 6mm spacer for the middle mount. For each of the other mounting holes use a 12mm countersunk M3 along with a nylock nut. This allows precise leveling of the heatbed.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52YComp.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The heatbed must be soldered in order to be low profile enough that it doesn&amp;rsquo;t collide with the hotend cooling system. Feed the wires from below through the holes and solder directly to the board trying to keep it as flat as possible.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Heatbed.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Install the heatbed cover using the fasteners provided with the heatbed. This should be 3x 10mm bolts and 3 M3 nuts.
+If done correctly, the heatbed cover bump should be well below the extruder assembly and cooling fan during leveling and printing.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52HeatClearance.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The rest of the installation proceeds as a normal ReDuplicator build.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>4.1 X Axis Gantry</title>
+      <link>https://riganti.com.au/docs/mk3x/page9/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://riganti.com.au/docs/mk3x/page9/</guid>
+      <description>&lt;p&gt;The X Gantry idler part is available in both 9mm and 11mm parts. The 11mm part (&lt;strong&gt;X Gantry Idler 11mm (Stock idler)&lt;/strong&gt;)will fit the original idlers. However, these are usually the first part to give way on the Wanhao and I recommend replacing them. most of the replacement idlers available are 9mm wide. The 9mm part (&lt;strong&gt;X Gantry Idler 9MM&lt;/strong&gt;) accounts for this and allows for thicker side walls which should let the part last longer.&lt;/p&gt;
+&lt;p&gt;Install 2 inserts into &lt;strong&gt;X Gantry Idler 9MM&lt;/strong&gt; and &lt;strong&gt;X Gantry Motor Mount MK3 V2&lt;/strong&gt; near the rod mounts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/5%20Gantry/HeatSert1.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Install a further 2 heart-sets into the end of the &lt;strong&gt;X Gantry Idler 9MM&lt;/strong&gt; part. This will be used later to mount our cable chains.&lt;/p&gt;
+&lt;p&gt;Complete The idler part using an 20-25mm M5 bolt, washer, idler pulley and M5 nylock.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/5%20Gantry/HeatSert2.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Install 2 LM8UU bearings in each of these parts. one flush with the top and one flush with the bottom.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/5%20Gantry/XGantryBearing.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Install your TR8 Leadscrew nuts. There are various ways to secure these. options include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;8-16mm countersunk screws from above.&lt;/li&gt;
+&lt;li&gt;8mm screws from below.&lt;/li&gt;
+&lt;li&gt;12-16mm screws from above secured with m3 nylocks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Insert the 2 320mm X rods into &lt;strong&gt;X Gantry Motor Mount MK3 V2&lt;/strong&gt; roughly 15mm. Slide in the newly assembled X axis Carriage. Have the extruder pointing forward from the flat side of the gantry parts. With the New V2 parts, the bearings can be installed now and the carriage can be mounted later if you prefer.&lt;/p&gt;
+&lt;p&gt;Attach the &lt;strong&gt;X Gantry Idler 9MM&lt;/strong&gt; onto the other side of the rod again by around 15mm. 
+The spacing of the z rods holes should be exactly 357mm outside edge to outside edge.
+This corresponds to 287mm between the &lt;strong&gt;X Gantry Idler 9MM&lt;/strong&gt; and &lt;strong&gt;X Gantry Motor Mount&lt;/strong&gt; between their closest points.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/5%20Gantry/GantryAssembly1.jpg?raw=true&#34; alt=&#34;Note!! The extruder is pointed in the wrong direction here should be pointing the other way.&#34;&gt;
+Note!! The extruder is pointed in the wrong direction here, it should be pointing the other way. Do the opposite of this!&lt;/p&gt;
+&lt;p&gt;Install the X motor onto the &lt;strong&gt;X Gantry Motor Mount&lt;/strong&gt; part using  20-30mm M3 screws. I used an additional M3 washer and 2 neoprene washers to decouple and reduce vibration and noise. This is less effective than an astrosyn dampener, but retains much more rigidity. Install the motor on the opposite of the flat side. However this will reverse motor direction. You will need to reverse the direction in config or rewire the motor in reverse. alternatively mount the motor on the flat side avoid this.  Don&amp;rsquo;t tighten these 100% yet as the motor will be shift during belt tensioning.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/5%20Gantry/XGantryInstall.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This can now be slid onto the printer tower. slide the gantry onto the smooth rods, then rotate the leadscews in unison. Run the gantry up and down the z axis all the way. If the z rods and leadscrews bend as you go it means the gantry distance is misaligned. Adjust as necessary. When you are sure it is aligned screw 4 8mm countercunk screws in to the heat serts near the rods to secure the spacing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>4.2 Complete The Z Tower</title>
+      <link>https://riganti.com.au/docs/mk3x/page10/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://riganti.com.au/docs/mk3x/page10/</guid>
+      <description>&lt;p&gt;Now that the x gantry is installed the rest of the frame can be completed.&lt;/p&gt;
+&lt;p&gt;Attach the final 380mm crossbeam horizontally to the 355mm tower parts.
+On the front side attach using 12mm M5 screws into the &lt;strong&gt;Tower Corner Bracket Large&lt;/strong&gt; then the plate bracket. Also attach a 30x30 corner bracket and secure it with 12mm M5 screws.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/6%20Z%20Tower/ZRodTop.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;On the backside (where the rods are)  use the &lt;strong&gt;Z Axis Rod Top Left Bracket&lt;/strong&gt; and &lt;strong&gt;Z Axis Rod Top Right Bracket&lt;/strong&gt; parts. Each of these requires a heat-sert into the space near the smooth rod hole.&lt;/p&gt;
+&lt;p&gt;mount each of these with 12mm M5 screws while also securing the smooth rod.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/6%20Z%20Tower/RodTop1.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Use a 16mm 3M screw into opposite side from the heat-sert hole to secure the threaded rod.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/6%20Z%20Tower/RodTop2.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The printer should now look similar to this.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/6%20Z%20Tower/RodTop3.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Install the M3ns nut (thin m3 nut) into the &lt;strong&gt;X Gantry Motor Mount MK3 V2&lt;/strong&gt; and lightly install a 20mm m3 screw into the hole on the top.&lt;/p&gt;
+&lt;p&gt;Install the belt into the X Carriage while the X motor is rotated inward. Give it sufficient tension then rotate the X motor to increase the tension in the belt and tighten the 3 screws.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/5%20Gantry/XTension.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Screw in the M3 screw on the top of the motor mount to completely rotate the Motor and increase the belt tension.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/5%20Gantry/XMotor.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The tensioning process can be done by referring to the &lt;a href=&#34;http://manual.prusa3d.com/Guide/4.+Z-axis+assembly/509?lang=en#s9978&#34;&gt;Prusa MK3 manual Steps 11-18.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Next complete the Y-axis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>4.3 Y Axis</title>
+      <link>https://riganti.com.au/docs/mk3x/page11/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://riganti.com.au/docs/mk3x/page11/</guid>
+      <description>&lt;p&gt;Install the &lt;strong&gt;Y Carriage Bearing Block&lt;/strong&gt;s onto the Y carriage replacing the original blocks using the original M4 screws. This isn&amp;rsquo;t mandatory, but is helpful for reducing the moving weight of the axis. Again, I used a combination of Igus and Misumi long bearings as i found this gave me a good balance of silence and ease of moving the axis. If you would like to secure the blocks further, longer 20mm M4 screws and nylocks can be used here.&lt;/p&gt;
+&lt;p&gt;Install the &lt;strong&gt;Y Carriage Belt Holder&lt;/strong&gt; to the the y carriage, replacing the original steel one. Use M5 nylocks and the original screws.&lt;/p&gt;
+&lt;p&gt;I am using an upgraded Y carriage plate as the original one is heavy and very prone to warping. A number of upgrades options exist which drastically increase the carriages rigidity and results in not having to relevel the bed as much, if at all.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/Yaxis2.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Install the left and right &lt;strong&gt;Y Axis Rod Holders&lt;/strong&gt; on front base extrusion. Insert the 380mm Y axis smooth rods into these by around 10mm. Use a 12mm M5 on the short end and a 16mm M5 on the taller side with t-nuts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/Yaxis1.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Slide the Y carriage onto the rods.&lt;/p&gt;
+&lt;p&gt;Slide the Yaxis endstop 10mm onto the back left rod and a normal rod holder on the rear right rod. Screw the endstop on using the original M2 screws.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/YaxisEndstop.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The outer spacing of the smooth rods should be 150mm. Center the bed. Before tightening the rod holders down, run the carriage up and down as needed making adjustments to ensure it is run as smoothly as possible. Once you are happy tighten the rods. Measure the distance between the rods on each end to ensure they are spaced consistently.&lt;/p&gt;
+&lt;p&gt;Attach the Y motor using one 12mm screw into the the &lt;strong&gt;Y Axis Motor Mount&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/Belt1.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Attach the belt to the Y Belt holder, run it around the idler and the motor loosely. Then rotate the motor into place and screw in the two remaining screws. This should put the axis under tension. To increase it further equally screw in 2 12-16mm M3 screws into the &lt;strong&gt;Y Axis Belt Idler&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/Belt2.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Y-axis should now look like this.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/Done1.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Progress so far.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/progress.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It is now time to reinstall the heatbed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>4.4 Cabling</title>
+      <link>https://riganti.com.au/docs/mk3x/page12/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://riganti.com.au/docs/mk3x/page12/</guid>
+      <description>&lt;p&gt;Run the main Cable between the rear legs. Install the &lt;strong&gt;Cable Base Holder&lt;/strong&gt; under the printer, between the rear legs with a 12mm M5 and t-nut. Lock in the cable using the conduit fitting part and 2x 8-12mm M3 screws.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/Cable1.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Y-axis endstop is screwed onto the &lt;strong&gt;Y Axis Rod Holder Right &amp;amp; Endstop&lt;/strong&gt; part. If an autoleveling sensor is being used no Z-endstop is required, otherwise the &lt;strong&gt;Z-EndStop&lt;/strong&gt; part is screwed directly into the tower extrusion and cabibrated to your bed level.&lt;/p&gt;
+&lt;p&gt;Connect the motors, and endstop cables. Run these cables through the extrusion channels. Where possible use the &lt;strong&gt;Cable Guide Drop In X2-4&lt;/strong&gt; and &lt;strong&gt;Cable Guide Slide In X2-4&lt;/strong&gt; parts to lock these cables into the channels.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/Cable2.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Modify the cable chain so that it will work with our new printer dimensions. The vertical chain should contain 22 links + the 2 end links. The horizontally moving chain should contain 25 links + the two end links. The last 2 links in this chain should be reversed, to reduce the stain on the cables.&lt;/p&gt;
+&lt;p&gt;The X-Axis endstop is now mounted underneath the &lt;strong&gt;X-axis Idler Part&lt;/strong&gt;. The endstop should be disconnected and the wire pulled out of the top cable chain length so that it only passed through the bottom cable chain. This reduces the weight and strain on the x-axis.&lt;/p&gt;
+&lt;p&gt;From v1.3 a new cable routing method is preferred. The cables can be routed from the base to the hotend using the &lt;strong&gt;Cable Guide Bottom Mount 360&lt;/strong&gt; to hold the bottom of the vertical cable chain.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/CableMotor2.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The top of the vertical drag chain should connect to &lt;strong&gt;Cable Guide Alternate - Motor Mount 360&lt;/strong&gt; with 2x 8mm countersunk m3 screws. This part requires the use of 4 heat serts. It clips onto the X motor and secured with a 25mm m3 screw and nylock. The bottom of the horizontal drag chain connects to this part and the other end can be screwed directly into the back of the extruder carriage.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/CableMotor.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/Chain.JPG?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In the pic above you can make out the two reversed chain links.
+The finalized cabling should looks something like this.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/Done.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Congratulations, your printer is now complete. with any luck it looks like this.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/1%20Glamor%20Shots/TopAngle.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/1%20Glamor%20Shots/rear.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5.1. Recommendations &amp; Future Dev</title>
+      <link>https://riganti.com.au/docs/mk3x/page13/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://riganti.com.au/docs/mk3x/page13/</guid>
+      <description>&lt;p&gt;Along with this printer upgrade I also recommend the following mods to get the best of your printer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ramps 1.4 with TMC2100 drivers. This allow for significantly quieter printing after proper calibration. Alternatively SKR and GEN-L boards make the transition to 24v and TMC drivers easier.&lt;/li&gt;
+&lt;li&gt;24v Power supply mod for much faster heating times and better motor speed/torque.&lt;/li&gt;
+&lt;li&gt;Auto Leveling via a BL-touch or similar. No more manual leveling. When combined with bilinear leveling in Marlin it is possible to print on warped beds. I was able to remove my glass bed and print directly to a PEI sheet bound to my heatbed. This saves a very significant 300 grams of moving weight.&lt;/li&gt;
+&lt;li&gt;POM TR8x8 leadscrew nuts, seem to have a lot less play than the normal brass nuts.&lt;/li&gt;
+&lt;li&gt;Replacement Y carriage plate. The stock one is heavy and warps very easily.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/1%20Glamor%20Shots/Close.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I intend to keep this project up to date with the newest improvements from the Prusa i3 mk3s as they become available.&lt;/p&gt;
+&lt;h2 id=&#34;sample-prints&#34;&gt;Sample Prints&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/boaty2.JPG&#34; alt=&#34;boatyMcboat&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/samplePrints.JPG&#34; alt=&#34;boatyMcboat&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;future-improvements&#34;&gt;Future improvements&lt;/h2&gt;
+&lt;p&gt;this may include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;A Front extrusion plate for the Titan aero extruder hotend combo.&lt;/del&gt; COMPLETED&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Possibly a MK2s style E3DV6 hotend with MK8 extruder gear.&lt;/del&gt; Hemera Mount COMPLETED. Provides a great integrated hotend and extruder for a decent price.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;Trinamic TMC2208 silent stepper drivers with UART or TMC2130 drivers for integration into ramps for auto homing and skipped step detection when available.&lt;/del&gt; COMPLETED Via MKS GENL with TMC2130 steppers. Also available via cloned Einsy RAMBO, or SKR 1.3 With Trinamic drivers if you would like 32bit&lt;/li&gt;
+&lt;li&gt;Based on this &lt;a href=&#34;https://www.reddit.com/r/3Dprinting/comments/7kexdv/a_nearly_comprehensive_study_of_cooling_fans_and/&#34;&gt;excellent fan roundup&lt;/a&gt;, &lt;del&gt;Add a number of alternate fan designs. This will include a Dii Cooler derivative and direct blower fan design. The fan in this project is based on Thorped&amp;rsquo;s design, It scores similarly to the Cii cooler in this test due to a straighter path from fan to nozzle.&lt;/del&gt; IMPROVED MK3 Fan Shroud added. very similar performance to Dii Cooler. New MK3s cooler based on the R4 will be completed soon.&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;New X Carriage design based on the &lt;a href=&#34;https://www.prusaprinters.org/original-prusa-i3-mk3-2-months/&#34;&gt;upcoming MK3 x carriage design&lt;/a&gt; with incorporated belt tensioner&lt;/del&gt; COMPLETED&lt;/li&gt;
+&lt;li&gt;MK3s Filament Sensor&lt;/li&gt;
+&lt;li&gt;~~Redesign for a MK52 heatbed and usability of the full 250x210mm heatbed. Will require new extrusions and Rods as the original Wanhao X-axis rods are much smaller than the MK3 ~~ COMPLETED&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
