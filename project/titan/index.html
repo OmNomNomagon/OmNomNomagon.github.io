@@ -383,6 +383,41 @@
 
 
 
+<div class="btn-links mb-3">
+  
+  <a class="btn btn-outline-primary my-1" href="/docs/mk3x/page6/" target="_blank" rel="noopener">Go to Project Site</a>
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
     </div>
     
@@ -393,68 +428,7 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <h3 id="summary">Summary</h3>
-<p>This Titan Aero mount was designed to be compact as possible in the available space. This is done by keeping the hotend closer to the X axis rods than other mounts, minimizing the Z height and width profile while keeping it as strong and light as possible.</p>
-<p>It was designed for the ReDuplicator MK2sx which started life as a Wanhao Duplicator i3.
-This uses the same X carriage rear bearing plate as the original MK10 Re-Duplicator carriage. It can be found on the original project  <a href="https://www.thingiverse.com/thing:2686588/#files">here.</a></p>
-<p>The new shroud is based on the Prusa MK3 one. It results in much better overhang performance. 60 degree overhangs are flawless with some sagging <a href="https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/overhang.jpg">@70 degrees.</a>. It is almost comparable to the <a href="https://www.reddit.com/r/3Dprinting/comments/7kexdv/a_nearly_comprehensive_study_of_cooling_fans_and/">Dii Cooler via testing.</a></p>
-<p>Make sure your Re-duplicator idler part is the new V2 design it includes additional mounting points for the X endstop. The X-axis endstop is mounted on the bottom of the X-axis idler part. The endstop will need to be relocated to the middle or furthest holes depending on the positioning of your heatbed. However if you&rsquo;ve already printed the original idler V1, new holes can be drilled in at 5mm intervals with a 1.5mm drill bit.</p>
-<p>The new required printed parts when upgrading from the MK10 extruder are the:</p>
-<ul>
-<li>Front Bearing Plate</li>
-<li>Titan Aero MK3 Part Cooling Fan Mount</li>
-<li>Titan Aero MK3 Part Cooling Fan Shroud</li>
-<li>BLTouch Mount (optional).</li>
-</ul>
-<p><img src="https://github.com/OmNomNomagon/ReDuplicator-MK3x/blob/master/Pics/1%20Glamor%20Shots/PrintDemo.webp?raw=true" alt="Oh hai"></p>
-<p>Probe Offset values for marlin configuration</p>
-<p>#define X_PROBE_OFFSET_FROM_EXTRUDER -16
-#define Y_PROBE_OFFSET_FROM_EXTRUDER -42</p>
-<h3 id="assembly">Assembly</h3>
-<p><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanMain.JPG?raw=true" alt=""></p>
-<p>The new MK3 Based <strong>Titan Aero X Carriage Front Plate MK3 V2</strong> and <strong>X Carriage Rear Bearing Plate MK3 V2</strong> have different spacing than the original parts. This new carriage can be installed and removed from the x-rods without having to disassemble the printer and are much easier to work with. it also uses a different belt securing method that is easier to tension.</p>
-<p><img src="https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/4%20Hotend/CarriageNew.jpg" alt=""></p>
-<p>The new required printed parts are the:</p>
-<ul>
-<li>Titan Aero X Carriage Front Plate MK3 V2</li>
-<li>Titan Aero MK3 Part Cooling Fan Mount</li>
-<li>Titan Aero MK3 Part Cooling Fan Shroud</li>
-<li>X Carriage Rear Bearing Plate MK3 V2 (Same part as the MK10 extruder)</li>
-<li>BLTouch Mount (optional).</li>
-</ul>
-<p>Installation is very similar to the original MK10 hotend.
-Four Heatserts are placed into the front of the Rear Extruder plate. Two heat serts are inserted into the rear.</p>
-<p><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage1.jpg?raw=true" alt=""></p>
-<p>Two optional Heatserts are required on in the the prongs on the X Carriage Front Extruder Plate. If you are not using a BLTouch or similar levelling probe you can skip this.</p>
-<p>Merge these two parts together using the 2x 16-20mm M3 screws into the centre screw holes. This can be tricky due to the restricted space. Secure them on the back with 2x M3 nylock nuts.</p>
-<p><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanPart.JPG?raw=true" alt=""></p>
-<p>Insert 2 more heat-sert parts into the Titan MK3 Cooling Fan.</p>
-<p><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/Fan1.jpg?raw=true" alt=""></p>
-<p>Screw the Fan bracket to the Fan with a 12mm m3 screw and nylock nut. Attach the 50mm blower fan via an M4x25mm screw and M4 Nylock. A rubber washer in between will help to reduce vibrating fan noise.</p>
-<p><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/Fan2.jpg?raw=true" alt=""></p>
-<p>Use 2 16mm M3 screws through the bottom x carriage screw holes and into this part.</p>
-<p>Place your bearings into the carriage. This design allows you to use M3 screws to adjust the tension on the bearing. This is very helpful for Igus bearings. I settled on 2 a copmbination of 2 igus bearing and a misumi LM8LUU to give a smooth easy and quiet movement.</p>
-<p><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/FanMount.jpg?raw=true" alt=""></p>
-<p><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanFree.JPG?raw=true" alt=""></p>
-<p>Install the extruder motor and extruder plate as per E3D&rsquo;s throughout instructions. <a href="https://wiki.e3d-online.com/Titan_Aero">E3d Titan Aero Instructions</a></p>
-<p><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanWeight.JPG?raw=true" alt=""></p>
-<p>Once completed this should be significantly lighter than the original. The original MK10 Extruder came to 620 grams.
-This new design comes in at 380 grams, around 240 grams lighter.</p>
-<p><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanClose.JPG?raw=true" alt=""></p>
-<p>Assembly can continue as per normal.</p>
-<p><img src="https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/5%20Gantry/XTension.jpg" alt=""></p>
-<p>Probe Offset values for marlin configuration</p>
-<p>#define X_PROBE_OFFSET_FROM_EXTRUDER -16</p>
-<p>#define Y_PROBE_OFFSET_FROM_EXTRUDER -42</p>
-<p>##3 Changelog</p>
-<p>1.0 - Initial Release</p>
-<p>1.1 - Due to reports of poor fan position I replaced the Thorped based fan with the Prusa MK3 based Fan and fan mount. Results in much better overhang performance. flawless @60 degree overhang with some sagging @70 degree overhang. The original would show artifacts <a href="https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/overhang.jpg">@60 degrees.</a>. Almost comparable to the <a href="https://www.reddit.com/r/3Dprinting/comments/7kexdv/a_nearly_comprehensive_study_of_cooling_fans_and/">Dii Cooler.</a> Older retired files are still available <a href="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/tree/master/STLs%20Titan%20Aero%20Conversion/Retired%20Versions">via github</a></p>
-<p>1.2 Prusa MK3 Update. Added a new belt securing method based on the Prusa MK3  which is much easier to install under tension. However this requires new hole spacing. The original carriage parts are not compatible with the new  <strong>X Carriage Rear Bearing Plate MK3 V2</strong> and Titan Aero X Carriage Front Plate MK3 V2. The whole carriage assembly can now be removed and installed from the X-rods without disassembling the printer. 3x 16mm m3 screws secure it to the bearings. 
-The MK3 Cooling fan is also updated to be a bit sturdier. It should still work on anyone with the older V1 carriage. To reduce the confusion of the project, older files are removed from thingiverse but will be available via <a href="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/tree/master/STLs%20Titan%20Aero%20Conversion/Retired%20Versions">github if needed</a>.</p>
-<p>1.3 Prusa MK3 R3 Update.  A number of fixes and improvements. This includes a new part cooling shroud based on the Prusa MK3 R3. It shows noticeable improvements over the old Prusa shroud. The issues that some people have had with the clearance of the shroud in relation to the nozzle should also be fixed. The x carriage rear plate has also been strengthened to improve rigidity.</p>
-<h3 id="download">Download</h3>
-<p>Downloadable on <a href="https://www.thingiverse.com/thing:2744724">thingiverse</a></p>
-
+      
     </div>
 
     

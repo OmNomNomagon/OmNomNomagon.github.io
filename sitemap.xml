@@ -328,51 +328,6 @@
   </url>
   
   <url>
-    <loc>https://riganti.com.au/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://riganti.com.au/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
@@ -383,43 +338,11 @@
   </url>
   
   <url>
-    <loc>https://riganti.com.au/post/snail/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://riganti.com.au/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://riganti.com.au/tags/academia/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riganti.com.au/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://riganti.com.au/authors/</loc>
   </url>
   
   <url>
@@ -428,6 +351,10 @@
   
   <url>
     <loc>https://riganti.com.au/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/publication_types/</loc>
   </url>
   
 </urlset>
