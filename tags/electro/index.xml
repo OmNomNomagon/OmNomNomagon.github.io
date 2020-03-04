@@ -23,13 +23,13 @@
     
     <item>
       <title>Converging LED Floor Lamp</title>
-      <link>https://riganti.com.au/project/lamp/</link>
+      <link>https://riganti.com.au/build/lamp/</link>
       <pubDate>Wed, 19 Feb 2020 00:55:00 +0000</pubDate>
       
-      <guid>https://riganti.com.au/project/lamp/</guid>
+      <guid>https://riganti.com.au/build/lamp/</guid>
       <description>&lt;p&gt;After spending months unsuccessfully trying to find the perfect floor lamp, I decided to make one myself. This design makes use of two &lt;a href=&#34;https://www.ikea.com/au/en/catalog/products/50403184/&#34;&gt;Ikea SPANST LED light bars&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Two light bars overlap in a visually appealing fashion and is the perfect brightness at night. The 3d Printed mounts fit directly into a finished wooden base. I used Australian Red Ironbark coated in danish oil. eSun Silk Brass is a perfect filament to complement the dark red grain of the wood.&lt;/p&gt;
-&lt;p&gt;###Bill Of Materials:&lt;/p&gt;
+&lt;h3 id=&#34;bill-of-materials&#34;&gt;Bill Of Materials:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.ikea.com/au/en/catalog/products/50403184/&#34;&gt;2 Ikea SPANST LED light bars&lt;/a&gt;.  134cm versions.&lt;/li&gt;
 &lt;li&gt;8 Countersunk Screws. 4g 15-18mm&lt;/li&gt;
@@ -37,7 +37,7 @@
 &lt;li&gt;25mm Boring Drill bit&lt;/li&gt;
 &lt;li&gt;2mm Drill bit for pilot holes if you are using a hardwood.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;###Dimensions:&lt;/p&gt;
+&lt;h3 id=&#34;dimensions&#34;&gt;Dimensions:&lt;/h3&gt;
 &lt;p&gt;Choose any layout you feel looks good, but here are the measurements I used.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Base: 350mm x 190mm x 20mm&lt;/li&gt;
@@ -46,13 +46,22 @@
 &lt;li&gt;Width Distance Between Mount holes: 34mm (Center to Center)&lt;/li&gt;
 &lt;li&gt;I Used 5 Degree Mounts. However 6 Degree mounts are also included in case you prefer additional overlap.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;###Power and Additional Details&lt;/p&gt;
+&lt;h3 id=&#34;power-and-additional-details&#34;&gt;Power and Additional Details&lt;/h3&gt;
 &lt;p&gt;The lights are powered via USB. See my Related Sonoff USB box project if you would like to be able to use this lamp with google Assistant / Alexa or use RF wall switches to turn it on from anywhere in your room.&lt;/p&gt;
 &lt;p&gt;I also quad braided the cables using paracord for a cleaner look.&lt;/p&gt;
 &lt;p&gt;This lamp pairs perfectly with my &lt;a href=&#34;https://www.thingiverse.com/thing:4166314&#34;&gt;sonoff USB smart enlcosure&lt;/a&gt; to power the lamp. It allows for google assitant / alexa voice control and has the ability to turn the lamp on and off with paired 433 wall switches.&lt;/p&gt;
 &lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
 &lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:4166209&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Converging LED Floor Lamp</title>
+      <link>https://riganti.com.au/project/lamp/</link>
+      <pubDate>Wed, 19 Feb 2020 00:55:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/lamp/</guid>
+      <description></description>
     </item>
     
     <item>
