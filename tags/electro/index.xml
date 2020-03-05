@@ -107,6 +107,36 @@ The USB charger used is a cheap and easy to source YJ-128. The PCB&amp;rsquo;s f
     
     <item>
       <title>Custom K65 RGB Keyboard</title>
+      <link>https://riganti.com.au/build/kb1/</link>
+      <pubDate>Wed, 19 Feb 2020 00:37:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/build/kb1/</guid>
+      <description>&lt;p&gt;A modified Corsair RGB K65 with the following improvements.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cherry MX Brown switches&lt;/li&gt;
+&lt;li&gt;silenced stabilizers&lt;/li&gt;
+&lt;li&gt;PBT Grey and Blue Keycaps&lt;/li&gt;
+&lt;li&gt;O-ring silencers&lt;/li&gt;
+&lt;li&gt;Matt dampening in enclosure,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Remove the original keycaps, open the enclosure and desolder each switch.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/kb1/I01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;These cheery Brown switches were non RGB and didn&amp;rsquo;t have a clear cover. Open each brown switch and place the spring and stem inside the enclosure of the original red switches.
+its a good idea to lube these switches with silicone grease while they are open.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/kb1/I02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Resolder all of the new hybid brown switches onto the board.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/kb1/I03.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Use silverstone dampening material in the bottom of the enclosure.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/kb1/I04.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The palm rest are carved from Tasmanian Oak. A jarrah stain gives it a vivid colour.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/kb1/I05.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Finish the palm rest with a few coats of Duplicolor automotive clear coat. This will provide enough protection for everyday use&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/kb1/I05.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Custom K65 RGB Keyboard</title>
       <link>https://riganti.com.au/project/kb1/</link>
       <pubDate>Wed, 19 Feb 2020 00:37:00 +0000</pubDate>
       
@@ -124,11 +154,29 @@ The USB charger used is a cheap and easy to source YJ-128. The PCB&amp;rsquo;s f
     </item>
     
     <item>
+      <title>Custom Drevo Calibre Keyboard</title>
+      <link>https://riganti.com.au/build/kb2/</link>
+      <pubDate>Wed, 19 Feb 2020 00:35:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/build/kb2/</guid>
+      <description>&lt;p&gt;A modified Drevo Calibur Keyboard with the following mods:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gateron Brown Switches, oiled&lt;/li&gt;
+&lt;li&gt;silenced stabilizers&lt;/li&gt;
+&lt;li&gt;PBT white kkeycaps&lt;/li&gt;
+&lt;li&gt;O-ring silencers&lt;/li&gt;
+&lt;li&gt;Matt dampening in enclosure.&lt;/li&gt;
+&lt;li&gt;Aluminum faceplate given brushed look.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Wanhao 24v Gen-L TMC2130 upgrade</title>
-      <link>https://riganti.com.au/project/controller/</link>
+      <link>https://riganti.com.au/build/controller/</link>
       <pubDate>Wed, 19 Feb 2020 00:28:00 +0000</pubDate>
       
-      <guid>https://riganti.com.au/project/controller/</guid>
+      <guid>https://riganti.com.au/build/controller/</guid>
       <description>&lt;p&gt;An Adaptor to convert the electronics of a wanhao i3 to the following:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;MKS Gen-L&lt;/li&gt;
@@ -145,6 +193,15 @@ Pics and a marlin 1.1.8 config for a working MKS Gen-L and TMC2130 are also incl
 &lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
 &lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2895849&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Wanhao 24v Gen-L TMC2130 upgrade</title>
+      <link>https://riganti.com.au/project/controller/</link>
+      <pubDate>Wed, 19 Feb 2020 00:28:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/controller/</guid>
+      <description></description>
     </item>
     
   </channel>

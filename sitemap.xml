@@ -333,6 +333,16 @@
   </url>
   
   <url>
+    <loc>https://riganti.com.au/build/speaker/</loc>
+    <lastmod>2020-02-19T00:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/build/kb1/</loc>
+    <lastmod>2020-02-19T00:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riganti.com.au/project/kb1/</loc>
     <lastmod>2020-02-19T00:37:00+00:00</lastmod>
   </url>
@@ -343,7 +353,17 @@
   </url>
   
   <url>
+    <loc>https://riganti.com.au/build/he500/</loc>
+    <lastmod>2020-02-19T00:36:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riganti.com.au/project/es10/</loc>
+    <lastmod>2020-02-19T00:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/build/es10/</loc>
     <lastmod>2020-02-19T00:35:00+00:00</lastmod>
   </url>
   
@@ -353,8 +373,23 @@
   </url>
   
   <url>
+    <loc>https://riganti.com.au/build/kb2/</loc>
+    <lastmod>2020-02-19T00:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/build/hook/</loc>
+    <lastmod>2020-02-19T00:34:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riganti.com.au/project/hook/</loc>
     <lastmod>2020-02-19T00:34:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/build/moon/</loc>
+    <lastmod>2020-02-19T00:33:00+00:00</lastmod>
   </url>
   
   <url>
@@ -368,8 +403,23 @@
   </url>
   
   <url>
+    <loc>https://riganti.com.au/build/vacuum/</loc>
+    <lastmod>2020-02-19T00:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riganti.com.au/project/vacuum/</loc>
     <lastmod>2020-02-19T00:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/build/alcostand/</loc>
+    <lastmod>2020-02-19T00:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/build/earbud/</loc>
+    <lastmod>2020-02-19T00:30:00+00:00</lastmod>
   </url>
   
   <url>
@@ -383,8 +433,18 @@
   </url>
   
   <url>
+    <loc>https://riganti.com.au/build/controller/</loc>
+    <lastmod>2020-02-19T00:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riganti.com.au/project/controller/</loc>
     <lastmod>2020-02-19T00:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/build/wanhao/</loc>
+    <lastmod>2020-02-19T00:27:00+00:00</lastmod>
   </url>
   
   <url>
@@ -398,8 +458,18 @@
   </url>
   
   <url>
+    <loc>https://riganti.com.au/build/pooc/</loc>
+    <lastmod>2020-02-19T00:26:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riganti.com.au/project/pooc/</loc>
     <lastmod>2020-02-19T00:26:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/build/widget/</loc>
+    <lastmod>2020-02-19T00:25:00+00:00</lastmod>
   </url>
   
   <url>
@@ -408,13 +478,33 @@
   </url>
   
   <url>
+    <loc>https://riganti.com.au/build/riganti/</loc>
+    <lastmod>2020-02-19T00:24:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riganti.com.au/project/riganti/</loc>
     <lastmod>2020-02-19T00:24:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://riganti.com.au/docs/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://riganti.com.au/build/hugogurl/</loc>
+    <lastmod>2020-02-19T00:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/hugogurl/</loc>
+    <lastmod>2020-02-19T00:23:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/build/space/</loc>
+    <lastmod>2020-02-19T00:22:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/project/space/</loc>
+    <lastmod>2020-02-19T00:22:00+00:00</lastmod>
   </url>
   
   <url>
@@ -427,6 +517,10 @@
   
   <url>
     <loc>https://riganti.com.au/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://riganti.com.au/docs/</loc>
   </url>
   
   <url>

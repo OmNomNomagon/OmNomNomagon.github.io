@@ -14,11 +14,35 @@
     
     <item>
       <title>Media Server Website</title>
+      <link>https://riganti.com.au/build/pooc/</link>
+      <pubDate>Wed, 19 Feb 2020 00:26:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/build/pooc/</guid>
+      <description>&lt;p&gt;A organizr web server running on a home media server.
+The web server consolidates the various web services into one website.
+Nginx reverse proxy is used to limit access from the outside internet.
+Lets Encrypt ssl certificates are used to encrypt traffic.
+Cloudflare provides DNS and DDOS mitigation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Media Server Website</title>
       <link>https://riganti.com.au/project/pooc/</link>
       <pubDate>Wed, 19 Feb 2020 00:26:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/pooc/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Download Tracking Widgets</title>
+      <link>https://riganti.com.au/build/widget/</link>
+      <pubDate>Wed, 19 Feb 2020 00:25:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/build/widget/</guid>
+      <description>&lt;p&gt;A series of python and powershell scripts to record recent downloads. And display the time and date of the download on the desktop via custom rainmeter widgets.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -32,10 +56,71 @@
     
     <item>
       <title>riganti.com.au</title>
+      <link>https://riganti.com.au/build/riganti/</link>
+      <pubDate>Wed, 19 Feb 2020 00:24:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/build/riganti/</guid>
+      <description>&lt;p&gt;A static generated project website based on Hugo.
+This site is a highly customized version of the Academic theme. These customisations include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Increased max width of docs and publications to 1100px&lt;/li&gt;
+&lt;li&gt;Increased width of the homescreen and homescreen widgets to 1500px&lt;/li&gt;
+&lt;li&gt;Show both a title and webpage logo on the navbar&lt;/li&gt;
+&lt;li&gt;Reduced spacing between portfolio cards and text.&lt;/li&gt;
+&lt;li&gt;Fixed project external link opening in new tab even when disabled.&lt;/li&gt;
+&lt;li&gt;New project view type which allows for a Silder or images instead of a single image&lt;/li&gt;
+&lt;li&gt;Blue based colour scheme.&lt;/li&gt;
+&lt;li&gt;various usability changes.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>riganti.com.au</title>
       <link>https://riganti.com.au/project/riganti/</link>
       <pubDate>Wed, 19 Feb 2020 00:24:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/riganti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo-Gurl - Hugo GUI tool</title>
+      <link>https://riganti.com.au/build/hugogurl/</link>
+      <pubDate>Wed, 19 Feb 2020 00:23:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/build/hugogurl/</guid>
+      <description>&lt;p&gt;A GUI Tool written in C# to aid in building and maintaining Hugo static websites.
+Allows for generating new pages, building the site, viewing the site locally and deploying the changes to github.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo-Gurl - Hugo GUI tool</title>
+      <link>https://riganti.com.au/project/hugogurl/</link>
+      <pubDate>Wed, 19 Feb 2020 00:23:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/hugogurl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shadow Space unity game</title>
+      <link>https://riganti.com.au/build/space/</link>
+      <pubDate>Wed, 19 Feb 2020 00:22:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/build/space/</guid>
+      <description>&lt;p&gt;A Space adventure game built in C# unity.
+In early development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shadow Space unity game</title>
+      <link>https://riganti.com.au/project/space/</link>
+      <pubDate>Wed, 19 Feb 2020 00:22:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/space/</guid>
       <description></description>
     </item>
     
