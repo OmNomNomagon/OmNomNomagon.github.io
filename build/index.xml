@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Builds on Code  :   Cad   :   Carve  :  Create</title>
+    <title>Builds on Mark Riganti&#39;s Projects</title>
     <link>https://riganti.com.au/build/</link>
-    <description>Recent content in Builds on Code  :   Cad   :   Carve  :  Create</description>
+    <description>Recent content in Builds on Mark Riganti&#39;s Projects</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright> Mark Riganti `{year}`</copyright>
@@ -274,7 +274,7 @@ Wait a week and apply 5 coats of Minwax wipe on poly.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Oak Test Tube Spice Rack</title>
+      <title>Tasmanian Oak Test Tube Spice Rack</title>
       <link>https://riganti.com.au/build/spicer/</link>
       <pubDate>Wed, 19 Feb 2020 00:50:00 +0000</pubDate>
       
@@ -693,40 +693,32 @@ Works perfectly with 3m double sided tape.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Scotch headphone Stand</title>
+      <title>Earbuddy earphone case</title>
+      <link>https://riganti.com.au/build/earbud/</link>
+      <pubDate>Wed, 19 Feb 2020 00:30:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/build/earbud/</guid>
+      <description>&lt;p&gt;An earphone holder with modern styling.
+Lots of entry points to secure the buds and jack.&lt;/p&gt;
+&lt;p&gt;Comes in three versions.
+Double sided with a flat base
+Double sided with a tapered base
+Single sided with a flat base.&lt;/p&gt;
+&lt;p&gt;The stock sizes should fit most earphones and buds perfectly. You may need to increase or decrease the %size depending on if your buds are larger or smaller than most.&lt;/p&gt;
+&lt;p&gt;Enjoy.&lt;/p&gt;
+&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
+&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2263170&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scotch Bottle Alcohol headphone Stand</title>
       <link>https://riganti.com.au/build/alcostand/</link>
       <pubDate>Wed, 19 Feb 2020 00:30:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/build/alcostand/</guid>
       <description>&lt;p&gt;This thing will turn your whisky bottles into a classy headphone stand.
 It is a redesign of my original here &lt;a href=&#34;https://www.thingiverse.com/thing:1729644&#34;&gt;https://www.thingiverse.com/thing:1729644&lt;/a&gt;. This one includes two rings for added stability and better looks compared to the original.&lt;/p&gt;
-&lt;p&gt;Most Whiskeys bottles will fit withing the two tapered rings
-The Upper ring around the cap tapers between 24-38mm.
-The Lower ring around the neck tapers between 38-43mm&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve confirmed that this will fit on the following Whisky bottles:
-Lapphroaig
-Lagavulin
-Yamasaki
-Jack Daniels
-Glenfiddich
-Cragganmore
-Ardberg
-Glenlivet
-Glenmorangie&lt;/p&gt;
-&lt;p&gt;Enjoy.&lt;/p&gt;
-&lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
-&lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2263144&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scotch headphone Stand</title>
-      <link>https://riganti.com.au/build/earbud/</link>
-      <pubDate>Wed, 19 Feb 2020 00:30:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/build/earbud/</guid>
-      <description>&lt;p&gt;This thing will turn your whisky bottles into a classy headphone stand.
-It is a redesign of my original &lt;a href=&#34;https://www.thingiverse.com/thing:1729644&#34;&gt;here&lt;/a&gt;. This one includes two rings for added stability and better looks compared to the original.&lt;/p&gt;
 &lt;p&gt;Most Whiskeys bottles will fit withing the two tapered rings
 The Upper ring around the cap tapers between 24-38mm.
 The Lower ring around the neck tapers between 38-43mm&lt;/p&gt;
@@ -771,7 +763,7 @@ Pics and a marlin 1.1.8 config for a working MKS Gen-L and TMC2130 are also incl
     </item>
     
     <item>
-      <title>Wanhao Straight Braces</title>
+      <title>Wanhao i3 Straight Braces</title>
       <link>https://riganti.com.au/build/wanhao/</link>
       <pubDate>Wed, 19 Feb 2020 00:27:00 +0000</pubDate>
       
