@@ -363,7 +363,7 @@ HFS-3030 (Standard) or any other type of 3030 can be substituted instead.&lt;/p&
 &lt;p&gt;Note: some of the pictures may not be 100% accurate as I was trying a few alternate configurations before settling on the current one.&lt;/p&gt;
 &lt;p&gt;Join a 258mm 3030 extrusion perpendicular to the 350mm 3030 extrusions using two &lt;strong&gt;Base Leg H26.8mm X4&lt;/strong&gt; parts. This becomes the front of our printer.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Leg1.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Use 4x 12mm M5 screws, through the leg and the steel plate bracket with T-nuts loosely connected. 
+&lt;p&gt;Use 4x 12mm M5 screws, through the leg and the steel plate bracket with T-nuts loosely connected.
 They can then slide onto the rail. Check it is square and tighten it down.&lt;/p&gt;
 &lt;p&gt;Connect 3030 corner brackets on the inside using 2x 12mm screws and drop in T-nuts&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Leg2.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -932,7 +932,7 @@ If done correctly, the heatbed cover bump should be well below the extruder asse
 &lt;li&gt;12-16mm screws from above secured with m3 nylocks.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Insert the 2 320mm X rods into &lt;strong&gt;X Gantry Motor Mount MK3 V2&lt;/strong&gt; roughly 15mm. Slide in the newly assembled X axis Carriage. Have the extruder pointing forward from the flat side of the gantry parts. With the New V2 parts, the bearings can be installed now and the carriage can be mounted later if you prefer.&lt;/p&gt;
-&lt;p&gt;Attach the &lt;strong&gt;X Gantry Idler 9MM&lt;/strong&gt; onto the other side of the rod again by around 15mm. 
+&lt;p&gt;Attach the &lt;strong&gt;X Gantry Idler 9MM&lt;/strong&gt; onto the other side of the rod again by around 15mm.
 The spacing of the z rods holes should be exactly 357mm outside edge to outside edge.
 This corresponds to 287mm between the &lt;strong&gt;X Gantry Idler 9MM&lt;/strong&gt; and &lt;strong&gt;X Gantry Motor Mount&lt;/strong&gt; between their closest points.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/5%20Gantry/GantryAssembly1.jpg?raw=true&#34; alt=&#34;Note!! The extruder is pointed in the wrong direction here should be pointing the other way.&#34;&gt;

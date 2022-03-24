@@ -97,7 +97,7 @@
       
       <guid>https://riganti.com.au/build/switch/</guid>
       <description>&lt;p&gt;This thing keeps all of your game cards close and easily accessible on your switch dock. It is much easier than constantly dealing with a stack of game cases.&lt;/p&gt;
-&lt;p&gt;It is available in two variants. 
+&lt;p&gt;It is available in two variants.
 The straight version (like a scrabble letter holder), will hold up to 7 cards.
 The angled version holds up to 9 cards.&lt;/p&gt;
 &lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
@@ -172,7 +172,7 @@ The angled version holds up to 9 cards.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/lack/I08.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;https://riganti.com.au/img/project/lack/I04.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Sliding Control box mechanism&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/lack/I05.jpg&#34; alt=&#34;&#34;&gt; 
+&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/lack/I05.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;https://riganti.com.au/img/project/lack/I06.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Cable rounting&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/lack/I07.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -503,8 +503,8 @@ Pics and a marlin 1.1.8 config for a working MKS Gen-L and TMC2130 are also incl
 &lt;p&gt;These braces are designed to have straight rods for aesthetic reasons, with the rods positioned as close together as possible to maintain rigidity. Typhon&amp;rsquo;s Top Braces impede into the build area of the printer which decreased the usable Z height by 20mm. These braces regain that space by moving the rod mount to above the bottom inner screw. These brackets also clip around the front and back of the base to improve rigidity.&lt;/p&gt;
 &lt;p&gt;Build Of materials&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;8x 3/8&amp;rdquo;  Hex Nuts&lt;/li&gt;
-&lt;li&gt;2x 3/8&amp;rdquo; Threaded rods cut to 365-375mm&lt;/li&gt;
+&lt;li&gt;8x 3/8&amp;quot;  Hex Nuts&lt;/li&gt;
+&lt;li&gt;2x 3/8&amp;quot; Threaded rods cut to 365-375mm&lt;/li&gt;
 &lt;li&gt;20x M3 x 15 mm screws&lt;/li&gt;
 &lt;li&gt;Optional Anti Vibration Pad. &lt;a href=&#34;https://www.bunnings.com.au/whites-100mm-x-1m-anti-vibration-pad_p3961983&#34;&gt;https://www.bunnings.com.au/whites-100mm-x-1m-anti-vibration-pad_p3961983&lt;/a&gt; (Significantly Reduces Vibration and lowers sound levels)&lt;/li&gt;
 &lt;/ul&gt;
