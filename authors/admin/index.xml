@@ -11,5 +11,14 @@
 	    <atom:link href="https://riganti.com.au/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>https://riganti.com.au/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/authors/admin/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
