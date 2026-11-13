@@ -7,10 +7,55 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright> Mark Riganti `{year}`</copyright>
-    <lastBuildDate>Wed, 19 Feb 2020 00:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://riganti.com.au/tags/dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Media Server Website</title>
+      <link>https://riganti.com.au/project/pooc/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/pooc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Download Tracking Widgets</title>
+      <link>https://riganti.com.au/project/widget/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/widget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>riganti.com.au</title>
+      <link>https://riganti.com.au/project/riganti/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/riganti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo-Gurl - Hugo GUI tool</title>
+      <link>https://riganti.com.au/project/hugogurl/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/hugogurl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shadow Space unity game</title>
+      <link>https://riganti.com.au/project/space/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/space/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Media Server Website</title>
@@ -27,15 +72,6 @@ Cloudflare provides DNS and DDOS mitigation&lt;/p&gt;
     </item>
     
     <item>
-      <title>Media Server Website</title>
-      <link>https://riganti.com.au/project/pooc/</link>
-      <pubDate>Wed, 19 Feb 2020 00:26:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/pooc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Download Tracking Widgets</title>
       <link>https://riganti.com.au/build/widget/</link>
       <pubDate>Wed, 19 Feb 2020 00:25:00 +0000</pubDate>
@@ -43,15 +79,6 @@ Cloudflare provides DNS and DDOS mitigation&lt;/p&gt;
       <guid>https://riganti.com.au/build/widget/</guid>
       <description>&lt;p&gt;A series of python and powershell scripts to record recent downloads. And display the time and date of the download on the desktop via custom rainmeter widgets.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Download Tracking Widgets</title>
-      <link>https://riganti.com.au/project/widget/</link>
-      <pubDate>Wed, 19 Feb 2020 00:25:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/widget/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -76,15 +103,6 @@ This site is a highly customized version of the Academic theme. These customisat
     </item>
     
     <item>
-      <title>riganti.com.au</title>
-      <link>https://riganti.com.au/project/riganti/</link>
-      <pubDate>Wed, 19 Feb 2020 00:24:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/riganti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hugo-Gurl - Hugo GUI tool</title>
       <link>https://riganti.com.au/build/hugogurl/</link>
       <pubDate>Wed, 19 Feb 2020 00:23:00 +0000</pubDate>
@@ -96,15 +114,6 @@ Allows for generating new pages, building the site, viewing the site locally and
     </item>
     
     <item>
-      <title>Hugo-Gurl - Hugo GUI tool</title>
-      <link>https://riganti.com.au/project/hugogurl/</link>
-      <pubDate>Wed, 19 Feb 2020 00:23:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/hugogurl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Shadow Space unity game</title>
       <link>https://riganti.com.au/build/space/</link>
       <pubDate>Wed, 19 Feb 2020 00:22:00 +0000</pubDate>
@@ -113,15 +122,6 @@ Allows for generating new pages, building the site, viewing the site locally and
       <description>&lt;p&gt;A Space adventure game built in C# unity.
 In early development.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Shadow Space unity game</title>
-      <link>https://riganti.com.au/project/space/</link>
-      <pubDate>Wed, 19 Feb 2020 00:22:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/space/</guid>
-      <description></description>
     </item>
     
   </channel>

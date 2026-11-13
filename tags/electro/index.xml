@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright> Mark Riganti `{year}`</copyright>
-    <lastBuildDate>Wed, 19 Feb 2020 00:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://riganti.com.au/tags/electro/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,64 @@
     <item>
       <title>ReDuplicator MK3x - 3d Printer</title>
       <link>https://riganti.com.au/project/mk3x/</link>
-      <pubDate>Wed, 19 Feb 2020 00:59:00 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/mk3x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Converging LED Floor Lamp</title>
+      <link>https://riganti.com.au/project/lamp/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/lamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MK52 Heatbed Expansion</title>
+      <link>https://riganti.com.au/project/mk52/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/mk52/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sonoff Dual USB</title>
+      <link>https://riganti.com.au/project/sonoff/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/sonoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom K65 RGB Keyboard</title>
+      <link>https://riganti.com.au/project/kb1/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/kb1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Drevo Calibre</title>
+      <link>https://riganti.com.au/project/kb2/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/kb2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanhao 24v Gen-L TMC2130</title>
+      <link>https://riganti.com.au/project/controller/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/controller/</guid>
       <description></description>
     </item>
     
@@ -56,25 +111,6 @@
     </item>
     
     <item>
-      <title>Converging LED Floor Lamp</title>
-      <link>https://riganti.com.au/project/lamp/</link>
-      <pubDate>Wed, 19 Feb 2020 00:55:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/lamp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MK52 Heatbed Expansion</title>
-      <link>https://riganti.com.au/project/mk52/</link>
-      <pubDate>Wed, 19 Feb 2020 00:53:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/mk52/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Sonoff Dual USB</title>
       <link>https://riganti.com.au/build/sonoff/</link>
       <pubDate>Wed, 19 Feb 2020 00:45:00 +0000</pubDate>
@@ -94,15 +130,6 @@ The USB charger used is a cheap and easy to source YJ-128. The PCB&amp;rsquo;s f
 &lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
 &lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:4166314&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Sonoff Dual USB</title>
-      <link>https://riganti.com.au/project/sonoff/</link>
-      <pubDate>Wed, 19 Feb 2020 00:45:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/sonoff/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -136,24 +163,6 @@ its a good idea to lube these switches with silicone grease while they are open.
     </item>
     
     <item>
-      <title>Custom K65 RGB Keyboard</title>
-      <link>https://riganti.com.au/project/kb1/</link>
-      <pubDate>Wed, 19 Feb 2020 00:37:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/kb1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Drevo Calibre</title>
-      <link>https://riganti.com.au/project/kb2/</link>
-      <pubDate>Wed, 19 Feb 2020 00:35:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/kb2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Custom Drevo Calibre Keyboard</title>
       <link>https://riganti.com.au/build/kb2/</link>
       <pubDate>Wed, 19 Feb 2020 00:35:00 +0000</pubDate>
@@ -169,15 +178,6 @@ its a good idea to lube these switches with silicone grease while they are open.
 &lt;li&gt;Aluminum faceplate given brushed look.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Wanhao 24v Gen-L TMC2130</title>
-      <link>https://riganti.com.au/project/controller/</link>
-      <pubDate>Wed, 19 Feb 2020 00:28:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/controller/</guid>
-      <description></description>
     </item>
     
     <item>

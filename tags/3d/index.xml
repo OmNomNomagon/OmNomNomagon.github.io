@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright> Mark Riganti `{year}`</copyright>
-    <lastBuildDate>Wed, 19 Feb 2020 00:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://riganti.com.au/tags/3d/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,181 @@
     <item>
       <title>ReDuplicator MK3x - 3d Printer</title>
       <link>https://riganti.com.au/project/mk3x/</link>
-      <pubDate>Wed, 19 Feb 2020 00:59:00 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/project/mk3x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Poly Planter</title>
+      <link>https://riganti.com.au/project/poly/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/poly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Converging LED Floor Lamp</title>
+      <link>https://riganti.com.au/project/lamp/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/lamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switch Dock Game Holder</title>
+      <link>https://riganti.com.au/project/switch/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/switch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MK52 Heatbed Expansion</title>
+      <link>https://riganti.com.au/project/mk52/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/mk52/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hemera Hotend Upgrade</title>
+      <link>https://riganti.com.au/project/hemera/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/hemera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanaho Lack Triple Stack</title>
+      <link>https://riganti.com.au/project/lack/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/lack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Alpha 3.5mm Headphones</title>
+      <link>https://riganti.com.au/project/alpha/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/alpha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denon Headband Mod</title>
+      <link>https://riganti.com.au/project/denon/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/denon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cherry Popper tool</title>
+      <link>https://riganti.com.au/project/cherry/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/cherry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lego Saturn V Stand</title>
+      <link>https://riganti.com.au/project/apollo/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/apollo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio Technica ES10 Mod</title>
+      <link>https://riganti.com.au/project/es10/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/es10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Poly Hook</title>
+      <link>https://riganti.com.au/project/hook/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/hook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Moon Lamp</title>
+      <link>https://riganti.com.au/project/moon/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/moon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E3D Titan Aero Upgrade</title>
+      <link>https://riganti.com.au/project/titan/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/titan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECC88 Quad Vacuum Tube holder</title>
+      <link>https://riganti.com.au/project/vacuum/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/vacuum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scotch headphone Stand</title>
+      <link>https://riganti.com.au/project/alcostand/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/alcostand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earbuddy headphone Case</title>
+      <link>https://riganti.com.au/project/earbud/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/earbud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanhao 24v Gen-L TMC2130</title>
+      <link>https://riganti.com.au/project/controller/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/controller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanhao Straight Braces</title>
+      <link>https://riganti.com.au/project/wanhao/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://riganti.com.au/project/wanhao/</guid>
       <description></description>
     </item>
     
@@ -36,15 +208,6 @@
 &lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2999036&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This is easily my most popular design by far with over a quarter of a million downloads.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Low Poly Planter</title>
-      <link>https://riganti.com.au/project/poly/</link>
-      <pubDate>Wed, 19 Feb 2020 00:57:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/poly/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -82,15 +245,6 @@
     </item>
     
     <item>
-      <title>Converging LED Floor Lamp</title>
-      <link>https://riganti.com.au/project/lamp/</link>
-      <pubDate>Wed, 19 Feb 2020 00:55:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/lamp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Switch Dock Game Holder</title>
       <link>https://riganti.com.au/build/switch/</link>
       <pubDate>Wed, 19 Feb 2020 00:54:00 +0000</pubDate>
@@ -103,43 +257,6 @@ The angled version holds up to 9 cards.&lt;/p&gt;
 &lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
 &lt;p&gt;Files can be downloaded at &lt;a href=&#34;https://www.thingiverse.com/thing:3370830&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Switch Dock Game Holder</title>
-      <link>https://riganti.com.au/project/switch/</link>
-      <pubDate>Wed, 19 Feb 2020 00:54:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/switch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MK52 Heatbed Expansion</title>
-      <link>https://riganti.com.au/project/mk52/</link>
-      <pubDate>Wed, 19 Feb 2020 00:53:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/mk52/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hemera Hotend Upgrade</title>
-      <link>https://riganti.com.au/project/hemera/</link>
-      <pubDate>Wed, 19 Feb 2020 00:49:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/hemera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wanaho Lack Triple Stack</title>
-      <link>https://riganti.com.au/project/lack/</link>
-      <pubDate>Wed, 19 Feb 2020 00:48:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/lack/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -179,15 +296,6 @@ The angled version holds up to 9 cards.&lt;/p&gt;
 &lt;p&gt;Removable top&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/lack/I09.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Open Alpha 3.5mm Headphones</title>
-      <link>https://riganti.com.au/project/alpha/</link>
-      <pubDate>Wed, 19 Feb 2020 00:47:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/alpha/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -240,15 +348,6 @@ The angled version holds up to 9 cards.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Denon Headband Mod</title>
-      <link>https://riganti.com.au/project/denon/</link>
-      <pubDate>Wed, 19 Feb 2020 00:44:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/denon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cherry Popper tool</title>
       <link>https://riganti.com.au/build/cherry/</link>
       <pubDate>Wed, 19 Feb 2020 00:42:00 +0000</pubDate>
@@ -264,15 +363,6 @@ The angled version holds up to 9 cards.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Cherry Popper tool</title>
-      <link>https://riganti.com.au/project/cherry/</link>
-      <pubDate>Wed, 19 Feb 2020 00:42:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/cherry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lego Saturn V Stand</title>
       <link>https://riganti.com.au/build/apollo/</link>
       <pubDate>Wed, 19 Feb 2020 00:41:00 +0000</pubDate>
@@ -282,24 +372,6 @@ The angled version holds up to 9 cards.&lt;/p&gt;
 &lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
 &lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2649217&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Lego Saturn V Stand</title>
-      <link>https://riganti.com.au/project/apollo/</link>
-      <pubDate>Wed, 19 Feb 2020 00:41:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/apollo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Audio Technica ES10 Mod</title>
-      <link>https://riganti.com.au/project/es10/</link>
-      <pubDate>Wed, 19 Feb 2020 00:35:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/es10/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -334,15 +406,6 @@ Works perfectly with 3m double sided tape.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Low Poly Hook</title>
-      <link>https://riganti.com.au/project/hook/</link>
-      <pubDate>Wed, 19 Feb 2020 00:34:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/hook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>3D Moon Lamp</title>
       <link>https://riganti.com.au/build/moon/</link>
       <pubDate>Wed, 19 Feb 2020 00:33:00 +0000</pubDate>
@@ -358,24 +421,6 @@ Works perfectly with 3m double sided tape.&lt;/p&gt;
     </item>
     
     <item>
-      <title>3D Moon Lamp</title>
-      <link>https://riganti.com.au/project/moon/</link>
-      <pubDate>Wed, 19 Feb 2020 00:33:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/moon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E3D Titan Aero Upgrade</title>
-      <link>https://riganti.com.au/project/titan/</link>
-      <pubDate>Wed, 19 Feb 2020 00:32:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/titan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ECC88 Quad Vacuum Tube holder</title>
       <link>https://riganti.com.au/build/vacuum/</link>
       <pubDate>Wed, 19 Feb 2020 00:31:00 +0000</pubDate>
@@ -385,15 +430,6 @@ Works perfectly with 3m double sided tape.&lt;/p&gt;
 &lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
 &lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:1731044&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>ECC88 Quad Vacuum Tube holder</title>
-      <link>https://riganti.com.au/project/vacuum/</link>
-      <pubDate>Wed, 19 Feb 2020 00:31:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/vacuum/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -440,33 +476,6 @@ Glenmorangie&lt;/p&gt;
 &lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
 &lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2263144&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Scotch headphone Stand</title>
-      <link>https://riganti.com.au/project/alcostand/</link>
-      <pubDate>Wed, 19 Feb 2020 00:30:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/alcostand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Earbuddy headphone Case</title>
-      <link>https://riganti.com.au/project/earbud/</link>
-      <pubDate>Wed, 19 Feb 2020 00:29:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/earbud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wanhao 24v Gen-L TMC2130</title>
-      <link>https://riganti.com.au/project/controller/</link>
-      <pubDate>Wed, 19 Feb 2020 00:28:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/controller/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -528,15 +537,6 @@ Pics and a marlin 1.1.8 config for a working MKS Gen-L and TMC2130 are also incl
 &lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
 &lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:1728621&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Wanhao Straight Braces</title>
-      <link>https://riganti.com.au/project/wanhao/</link>
-      <pubDate>Wed, 19 Feb 2020 00:27:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/wanhao/</guid>
-      <description></description>
     </item>
     
   </channel>
