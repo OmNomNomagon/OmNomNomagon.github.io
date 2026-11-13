@@ -51,7 +51,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v7.0.1/css/all.css" integrity="sha384-rWj9FmWWt3OMqd9vBkWRhFavvVUYalYqGPoMdL1brs/qvvqz88gvLShYa4hKNyqb" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
 
     
@@ -83,7 +83,7 @@
   
   
   
-  <link rel="stylesheet" href="https://riganti.com.au/css/academia.min.55b6a232221cd54e6641ee8750115718.css">
+  <link rel="stylesheet" href="https://riganti.com.au/css/academia.min.4a80c94175a1654eb96075eac2aab6ae.css">
 
   
     
@@ -94,7 +94,7 @@
     
     
     
-    <link rel="stylesheet" href="https://riganti.com.au/css/academia.1efbdb2434030470122de945bf668b69.css">
+    <link rel="stylesheet" href="https://riganti.com.au/css/academia.8468717b72f3aa4a3def3f87954d72cd.css">
   
 
   
@@ -156,6 +156,17 @@
 
 
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" >
+  
+  <script>
+    (function () {
+      var dark;
+      try { var saved = localStorage.getItem('dark_mode'); } catch (e) {}
+      if (saved === '1' || saved === '0') { dark = saved === '1'; }
+      else { dark = window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches; }
+      if (dark) document.body.classList.add('dark');
+      document.documentElement.style.colorScheme = dark ? 'dark' : 'light';
+    })();
+  </script>
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -309,6 +320,11 @@
 
         
 
+        
+        <li class="nav-item">
+          
+          <a class="nav-link js-dark-toggle" href="#" role="button" aria-pressed="false" aria-label="Switch to dark mode" title="Switch to dark mode"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
         
 
       </ul>
@@ -887,25 +903,51 @@
 
 <div class="article-container article-widget">
   
-<div class="post-nav">
-  
-  
-  
-  <div class="post-nav-item">
-    <div class="meta-nav">Next</div>
-    <a href="https://riganti.com.au/build/sidet/" rel="next">Ironbark Side Table Top For Ikea Malm</a>
-  </div>
-  
-  
-  
-  <div class="post-nav-item">
+<nav class="post-nav" aria-label="More projects">
+  <div class="post-nav-item post-nav-item--prev">
     <div class="meta-nav">Previous</div>
     <a href="https://riganti.com.au/build/speaker/" rel="prev">Red Ironbark Angled Speaker Stands</a>
   </div>
-  
-</div>
+  <div class="post-nav-item post-nav-item--next">
+    <div class="meta-nav">Next</div>
+    <a href="https://riganti.com.au/build/sidet/" rel="next">Ironbark Side Table Top For Ikea Malm</a>
+  </div>
+</nav>
 
-  <div id="replybox"></div>
+  
+<section class="comments" aria-label="Comments" data-theme-light="https://riganti.com.au/css/giscus-light.css" data-theme-dark="https://riganti.com.au/css/giscus-dark.css">
+  <h2 class="comments-title">Comments</h2>
+  <div class="giscus"></div>
+  <script>
+    (function () {
+      var section = document.currentScript.parentNode;
+      var dark = document.body.classList.contains('dark');
+      var s = document.createElement('script');
+      s.src = 'https://giscus.app/client.js';
+      s.async = true;
+      s.crossOrigin = 'anonymous';
+      var attrs = {
+        'data-repo': "OmNomNomagon/OmNomNomagon.github.io",
+        'data-repo-id': "MDEwOlJlcG9zaXRvcnkyMDU2MTM5OTc=",
+        'data-category': "Comments",
+        'data-category-id': "DIC_kwDODEFrrc4DLCyO",
+        'data-mapping': 'pathname',
+        'data-strict': '1',
+        
+        
+        'data-reactions-enabled': "0",
+        'data-emit-metadata': '0',
+        'data-input-position': 'top',
+        'data-lang': 'en',
+        'data-loading': 'lazy',
+        'data-theme': dark ? section.dataset.themeDark : section.dataset.themeLight
+      };
+      for (var k in attrs) s.setAttribute(k, attrs[k]);
+      section.appendChild(s);
+    })();
+  </script>
+  <noscript>Comments are powered by <a href="https://giscus.app">giscus</a> and need JavaScript.</noscript>
+</section>
 </div>
 
 
@@ -971,7 +1013,7 @@
     
     
     
-    <script src="https://riganti.com.au/js/academia.min.9cfe027532443299827916274527b547.js"></script>
+    <script src="https://riganti.com.au/js/academia.min.1746937db5e2a6beca881894749e6096.js"></script>
 
     
 
@@ -985,10 +1027,11 @@
     <footer class="site-footer">
 
   <div class="container">
-    <div class="row">
-      <div class="col-md-6">
+    
+    <div class="row align-items-center">
+      <div class="col-md-6 mb-4 mb-md-0">
         
-        <p>
+        <p class="mb-0">
           &#9400;Mark Riganti <code>2026</code> &middot; 
           Powered by
           <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> 
@@ -996,7 +1039,7 @@
         </p>
       </div>
       <div class="col-md-6">
-        <ul class="list-inline network-icon text-right">
+        <ul class="list-inline network-icon text-right mb-0">
           
           
           
@@ -1062,13 +1105,5 @@
     </div>
   </div>
 </div>
-  
-	<script>
-		window.replybox = {
-			site: "NPOBOrWnVa", 
-		};
-	</script>
-	<script src="https://cdn.getreplybox.com/js/embed.js"></script>
-   
 </body>
 </html>
