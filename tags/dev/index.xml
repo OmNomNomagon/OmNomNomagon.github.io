@@ -60,7 +60,7 @@
     <item>
       <title>Media Server Website</title>
       <link>https://riganti.com.au/build/pooc/</link>
-      <pubDate>Wed, 19 Feb 2020 00:26:00 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/build/pooc/</guid>
       <description>&lt;p&gt;A organizr web server running on a home media server.
@@ -74,7 +74,7 @@ Cloudflare provides DNS and DDOS mitigation&lt;/p&gt;
     <item>
       <title>Download Tracking Widgets</title>
       <link>https://riganti.com.au/build/widget/</link>
-      <pubDate>Wed, 19 Feb 2020 00:25:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/build/widget/</guid>
       <description>&lt;p&gt;A series of python and powershell scripts to record recent downloads. And display the time and date of the download on the desktop via custom rainmeter widgets.&lt;/p&gt;
@@ -84,7 +84,7 @@ Cloudflare provides DNS and DDOS mitigation&lt;/p&gt;
     <item>
       <title>riganti.com.au</title>
       <link>https://riganti.com.au/build/riganti/</link>
-      <pubDate>Wed, 19 Feb 2020 00:24:00 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/build/riganti/</guid>
       <description>&lt;p&gt;A static generated project website based on Hugo.
@@ -105,7 +105,7 @@ This site is a highly customized version of the Academic theme. These customisat
     <item>
       <title>Hugo-Gurl - Hugo GUI tool</title>
       <link>https://riganti.com.au/build/hugogurl/</link>
-      <pubDate>Wed, 19 Feb 2020 00:23:00 +0000</pubDate>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/build/hugogurl/</guid>
       <description>&lt;p&gt;A GUI Tool written in C# to aid in building and maintaining Hugo static websites.
@@ -116,7 +116,7 @@ Allows for generating new pages, building the site, viewing the site locally and
     <item>
       <title>Shadow Space unity game</title>
       <link>https://riganti.com.au/build/space/</link>
-      <pubDate>Wed, 19 Feb 2020 00:22:00 +0000</pubDate>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/build/space/</guid>
       <description>&lt;p&gt;A Space adventure game built in C# unity.

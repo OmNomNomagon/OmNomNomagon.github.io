@@ -1,1 +1,4 @@
 User-agent: *
+Allow: /
+
+Sitemap: https://riganti.com.au/sitemap.xml
