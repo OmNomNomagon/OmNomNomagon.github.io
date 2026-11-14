@@ -7,190 +7,585 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright> Mark Riganti `{year}`</copyright>
-    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://riganti.com.au/tags/3d/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ReDuplicator MK3x - 3d Printer</title>
-      <link>https://riganti.com.au/project/mk3x/</link>
-      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <title>ReDuplicator MK3x - Wanhao i3 overhaul</title>
+      <link>https://riganti.com.au/docs/mk3x/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://riganti.com.au/project/mk3x/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low Poly Planter</title>
-      <link>https://riganti.com.au/project/poly/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/poly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Converging LED Floor Lamp</title>
-      <link>https://riganti.com.au/project/lamp/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/lamp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Switch Dock Game Holder</title>
-      <link>https://riganti.com.au/project/switch/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/switch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MK52 Heatbed Expansion</title>
-      <link>https://riganti.com.au/project/mk52/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/mk52/</guid>
-      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+      <guid>https://riganti.com.au/docs/mk3x/</guid>
+      <description>&lt;p&gt;This project is a complete overhaul of the original Wanhao i3 with a few main objectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keep the core components of the printer while upgrading its structure.&lt;/li&gt;
+&lt;li&gt;Create maximum rigidity through a sturdy 3030 Aluminium extrusion frame.&lt;/li&gt;
+&lt;li&gt;Allow for future proofing and commonality of parts by basing all printed parts on the current Original Prusa MK3 files.&lt;/li&gt;
+&lt;li&gt;Reduce the weight of the X and Y carriages where possible to improve print speed and quality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/main.jpg&#34; alt=&#34;noooice&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Wanhao i3 is a fabulous printer, but new generations of printers have begun pushing the boundaries. It has become apparent that in comparison, the Wanhao has a few deficiencies. Deficiencies which we will address in this project. The key improvements of this upgrade include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Much better rigidity through 3030 extrusions and metal brackets. Even with my or Azza’s excellent z braces the printer was still susceptible to slight wobble, especially under twisting forces (pull left tower and push right tower). When moving the printer it would require constant releveling due these small movements. Now i can barely get any movement using my full strength.&lt;/li&gt;
+&lt;li&gt;Comfortably increase Z height to ~200mm&lt;/li&gt;
+&lt;li&gt;Reduce noise. By not screwing the motors directly onto the metal frame, motor vibrations and noise is reduced significantly.&lt;/li&gt;
+&lt;li&gt;Move towards more standard Prusa files for future upgradability, but with added strength improvements.&lt;/li&gt;
+&lt;li&gt;Modular hotend, This design allows for the hotend to be replaced easily replaced without disassembling the printer. I have created a Titan Aero mount as an alternative to the original MK10 with a E3DV6 mount incoming.&lt;/li&gt;
+&lt;li&gt;Sturdier 4 bearing Prusa style X-gantry. Not sure if it was specific to my printer or a common Wanhao problem, but my X gantry always had a lot of wobble which may have been a source of printing artifacts.&lt;/li&gt;
+&lt;li&gt;Noticeably better print quality due to a combination of everything above. I am able to print faster with better quality.&lt;/li&gt;
+&lt;li&gt;All Wanhao i3 variants and rebrands are compatible, however the plus will require additional work to create an enclosure for the electronics. This project can also be built from scratch, or salvaged from other printers as long as measurements are altered accordingly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK3x/blob/master/Pics/1%20Glamor%20Shots/PrintDemo.webp?raw=true&#34; alt=&#34;Oh hai&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+Sample Print @~100mm/s on the titan aero extruder.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/side.jpg&#34; alt=&#34;Oh hai&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Sample of improved print quality. 0.24mm layer height @ 70mm/s (titan aero).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/boaty1.JPG&#34; alt=&#34;boatyMcboat&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This project will be maintained both at &lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx&#34;&gt;github&lt;/a&gt; and at &lt;a href=&#34;https://www.thingiverse.com/thing:2686588&#34;&gt;thingiverse&lt;/a&gt;. The files were created using a combination of Fusion360 and tinkercad. They can be viewed and edited via &lt;a href=&#34;https://www.tinkercad.com/things/azPlfmHU5MQ#/&#34;&gt;this Tinkercad link.&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;table-of-contents&#34;&gt;Table Of Contents&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page1/&#34;&gt;1. Bill Of Materials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page2/&#34;&gt;2. Printing Parts &amp;amp; Pre Assembly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page3/&#34;&gt;3. Base&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page4/&#34;&gt;4. Begin The ZTower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page5/&#34;&gt;5.1 Hotend MK10 Original&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page6/&#34;&gt;5.2 Upgrade: Hotend Titan Aero&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page7/&#34;&gt;5.3 Upgrade: Hotend E3D Hemera Upgrade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page8/&#34;&gt;5.4 Upgrade: MK52 Heatbed Expansion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page9/&#34;&gt;6. XAxis Gantry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page10/&#34;&gt;7. Complete the ZTower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page11/&#34;&gt;8. YAxis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page12/&#34;&gt;9. Cabling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page13/&#34;&gt;9.1. Recommendations &amp;amp; Future Dev&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;thanks-and-acknowledgements&#34;&gt;Thanks and Acknowledgements&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/prusa3d/Original-Prusa-i3&#34;&gt;Prusa Research MK2s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/thing:1692666&#34;&gt;Datvr&amp;rsquo;s Prusa MK2S-x&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/thing:1246425&#34;&gt;Thorped&amp;rsquo;s excellent Wanhao Fan Duct &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thingiverse.com/thing:1635585&#34;&gt;Cyul&amp;rsquo;s spool holder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;changelog&#34;&gt;Changelog&lt;/h3&gt;
+&lt;p&gt;1.0 - Initial Release&lt;/p&gt;
+&lt;p&gt;1.01 - Updated idler files with multiple z endstop mount points for upcoming Titan Aero upgrade. Sturdier cable cover box. Added 1Meter GT2 belt to BOM as the stock belt may not be long enough (can anyone confirm?)&lt;/p&gt;
+&lt;p&gt;1.02 - Updated the &lt;strong&gt;Part Fan Bracket&lt;/strong&gt; to &lt;strong&gt;Part Fan Bracket V1.1&lt;/strong&gt; The original doesn&amp;rsquo;t align with the carriage plates properly. Please print the revised one.&lt;/p&gt;
+&lt;p&gt;1.03 - Uploaded a new Y Carriage Belt Holder. This one is based on the current MK3 design and is much easier to fix and tension.&lt;/p&gt;
+&lt;p&gt;1.04 - &lt;strong&gt;X Gantry Idler 9MM V2&lt;/strong&gt; was missing the heat-sert insert holes to mount the cable box. Updated and fixed with &lt;strong&gt;X Gantry Idler 9MM V3&lt;/strong&gt;. If you have already printed V2, you can keep the part and manually drill 2x 4mm holes spaced 9mm wide and 6mm deep.&lt;/p&gt;
+&lt;p&gt;1.1 - 11/03/2018 Major Prusa MK3 Update. This updates an update of many of the original MK2s based parts to MK3 Based parts. This includes;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;MK3 Based Part Cooling shroud and mount. It performs much better than the original Thorped based one. flawless @60 degree overhang with some sagging @70 degree overhang. The original would show artefacts &lt;a href=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/overhang.jpg&#34;&gt;@60 degrees.&lt;/a&gt;. Almost comparable to the &lt;a href=&#34;https://www.reddit.com/r/3Dprinting/comments/7kexdv/a_nearly_comprehensive_study_of_cooling_fans_and/&#34;&gt;Dii Cooler.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Much improved X Carriage. This uses the new &lt;a href=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/4%20Hotend/CarriageNew.jpg&#34;&gt;MK3 belt mounting method&lt;/a&gt; which is much easier to install under tension. The whole extruder assembly can now also easily slide on and off the rods to greatly simplify installation and maintenance. 16mm M3 screws are used to secure the bearings. I&amp;rsquo;ve also made and tested changes which allow the extruder assembly to be built without heat-serts and can be substituted with M3 nylocks. NOTE: due to these changes the Rear carriage plate is NOT compatible with the existing Front extruder plate as the hole spacing has been changed. The New Front extruder plate must be used.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Front Extruder Plate. Better spacing around the hotend to improve the filament path. Updating Hole Spacing to be compatible with the new Rear Carriage Plate. Strengthened BLTouch mount. Increase spacing around heater block to reduce residual heat. Not compatible with old extruder plate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;X Axis Motor Mount. Incorporates the new MK3 design. Better Spacing to ensure a straighter belt path. Includes new MK3 tensioner to easily tension X belt. Requires M3nS Nut and 20mm M3 screw. (Enough tension can be applied by without the M3nS) Installation is similar to the Prusa instructions &lt;a href=&#34;http://manual.prusa3d.com/Guide/4.&amp;#43;Z-axis&amp;#43;assembly/509?lang=en&#34;&gt;here, steps 11-18.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;As this project  contains dozens of files already, Older retired files are retired to the &lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/tree/master/STLs%20Reduplicator%20Core%20Parts/Retired%20Versions&#34;&gt;Retired Versions directory in github&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.1.1 - Endstop Part For sensorless homing with TMC2130 Drivers.&lt;/p&gt;
+&lt;p&gt;1.2 - 05/11/2018 - Multiple improvements based on Prusa MK3 R3 release. This includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Prusa MK3 R3 based part cooling shroud. This gives a noticeable improvement over the original shroud. Also improved the clearance between the shroud and the nozzle.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Improved X Carriage rear plate. This was strengthend to better handle bumps and knocks. Rigidity is also improved. It is still a common part between the MK10 and titan aero extruders.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Strengthened Z Rod Securer parts. Some people had issues with these snapping in PLA but should no longer be an issue.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.3 - 17/02/2020 - E3D Hemera mount. Updated fan duct to the most recent R4 release. Added an angle for increased rear fan duct clearance. This will filter down to the other hotend designs shortly. Initial update of parts across to fusion 360. A number of parts have been converted and this will continue over time.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraMain.jpg?raw=true&#34; alt=&#34;ReDuplicator MK3x - Wanhao i3 overhaul – build photo 5&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Improved cable mounting system by clipping onto the X axis motor&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/CableMotor.jpg?raw=true&#34; alt=&#34;ReDuplicator MK3x - Wanhao i3 overhaul – build photo 6&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;1.3.1 - 19/02/2020 - MK52 Removeable heatbed Mod - resized rods and extrusions to accommodate the prusa MK3 heatbed.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Main.jpg?raw=true&#34; alt=&#34;ReDuplicator MK3x - Wanhao i3 overhaul – build photo 7&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;next&#34;&gt;Next&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://riganti.com.au/docs/mk3x/page1/&#34;&gt;1. Bill Of materials&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Hemera Hotend Upgrade</title>
-      <link>https://riganti.com.au/project/hemera/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <title>3.2 Hotend Upgrade E3d Titan Aero</title>
+      <link>https://riganti.com.au/docs/mk3x/page6/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://riganti.com.au/project/hemera/</guid>
-      <description></description>
+      <guid>https://riganti.com.au/docs/mk3x/page6/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanMain.JPG?raw=true&#34; alt=&#34;3.2 Hotend Upgrade E3d Titan Aero – build photo 1&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This Titan Aero mount was designed to be compact as possible in the available space. This is done by keeping the hotend closer to the X axis rods than other mounts, minimizing the Z height and width profile while keeping it as strong and light as possible.&lt;/p&gt;
+&lt;p&gt;It was designed for the ReDuplicator MK2sx which started life as a Wanhao Duplicator i3.
+This uses the same X carriage rear bearing plate as the original MK10 Re-Duplicator carriage. It can be found on the original project  &lt;a href=&#34;https://www.thingiverse.com/thing:2686588/#files&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The new shroud is based on the Prusa MK3 one. It results in much better overhang performance. 60 degree overhangs are flawless with some sagging &lt;a href=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/overhang.jpg&#34;&gt;@70 degrees.&lt;/a&gt; It is almost comparable to the &lt;a href=&#34;https://www.reddit.com/r/3Dprinting/comments/7kexdv/a_nearly_comprehensive_study_of_cooling_fans_and/&#34;&gt;Dii Cooler via testing.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Make sure your Re-duplicator idler part is the new V2 design it includes additional mounting points for the X endstop. The X-axis endstop is mounted on the bottom of the X-axis idler part. The endstop will need to be relocated to the middle or furthest holes depending on the positioning of your heatbed. However if you&amp;rsquo;ve already printed the original idler V1, new holes can be drilled in at 5mm intervals with a 1.5mm drill bit.&lt;/p&gt;
+&lt;p&gt;The new MK3 Based &lt;strong&gt;Titan Aero X Carriage Front Plate MK3 V2&lt;/strong&gt; and &lt;strong&gt;X Carriage Rear Bearing Plate MK3 V2&lt;/strong&gt; have different spacing than the original parts. This new carriage can be installed and removed from the x-rods without having to disassemble the printer and are much easier to work with. it also uses a different belt securing method that is easier to tension.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/4%20Hotend/CarriageNew.jpg&#34; alt=&#34;3.2 Hotend Upgrade E3d Titan Aero – build photo 2&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The new required printed parts are the:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Titan Aero X Carriage Front Plate MK3 V2&lt;/li&gt;
+&lt;li&gt;Titan Aero MK3 Part Cooling Fan Mount&lt;/li&gt;
+&lt;li&gt;Titan Aero MK3 Part Cooling Fan Shroud&lt;/li&gt;
+&lt;li&gt;X Carriage Rear Bearing Plate MK3 V2 (Same part as the MK10 extruder)&lt;/li&gt;
+&lt;li&gt;BLTouch Mount (optional).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Installation is very similar to the original MK10 hotend.
+Four Heatserts are placed into the front of the Rear Extruder plate. Two heat serts are inserted into the rear.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage1.jpg?raw=true&#34; alt=&#34;3.2 Hotend Upgrade E3d Titan Aero – build photo 3&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Two optional Heatserts are required on in the the prongs on the X Carriage Front Extruder Plate. If you are not using a BLTouch or similar levelling probe you can skip this.&lt;/p&gt;
+&lt;p&gt;Merge these two parts together using the 2x 16-20mm M3 screws into the centre screw holes. This can be tricky due to the restricted space. Secure them on the back with 2x M3 nylock nuts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanPart.JPG?raw=true&#34; alt=&#34;3.2 Hotend Upgrade E3d Titan Aero – build photo 4&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Insert 2 more heat-sert parts into the Titan MK3 Cooling Fan.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/Fan1.jpg?raw=true&#34; alt=&#34;3.2 Hotend Upgrade E3d Titan Aero – build photo 5&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Screw the Fan bracket to the Fan with a 12mm m3 screw and nylock nut. Attach the 50mm blower fan via an M4x25mm screw and M4 Nylock. A rubber washer in between will help to reduce vibrating fan noise.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/Fan2.jpg?raw=true&#34; alt=&#34;3.2 Hotend Upgrade E3d Titan Aero – build photo 6&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Use 2 16mm M3 screws through the bottom x carriage screw holes and into this part.&lt;/p&gt;
+&lt;p&gt;Place your bearings into the carriage. This design allows you to use M3 screws to adjust the tension on the bearing. This is very helpful for Igus bearings. I settled on 2 a copmbination of 2 igus bearing and a misumi LM8LUU to give a smooth easy and quiet movement.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/FanMount.jpg?raw=true&#34; alt=&#34;3.2 Hotend Upgrade E3d Titan Aero – build photo 7&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanFree.JPG?raw=true&#34; alt=&#34;3.2 Hotend Upgrade E3d Titan Aero – build photo 8&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Install the extruder motor and extruder plate as per E3D&amp;rsquo;s throughout instructions. &lt;a href=&#34;https://wiki.e3d-online.com/Titan_Aero&#34;&gt;E3d Titan Aero Instructions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanWeight.JPG?raw=true&#34; alt=&#34;3.2 Hotend Upgrade E3d Titan Aero – build photo 9&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Once completed this should be significantly lighter than the original. The original MK10 Extruder came to 620 grams.
+This new design comes in at 380 grams, around 240 grams lighter.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanClose.JPG?raw=true&#34; alt=&#34;3.2 Hotend Upgrade E3d Titan Aero – build photo 10&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Assembly can continue as per normal.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/5%20Gantry/XTension.jpg&#34; alt=&#34;3.2 Hotend Upgrade E3d Titan Aero – build photo 11&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Probe Offset values for marlin configuration&lt;/p&gt;
+&lt;p&gt;#define X_PROBE_OFFSET_FROM_EXTRUDER -16&lt;/p&gt;
+&lt;p&gt;#define Y_PROBE_OFFSET_FROM_EXTRUDER -42&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Wanhao Lack Triple Stack</title>
-      <link>https://riganti.com.au/project/lack/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <title>3.3 Hotend Upgrade E3D Hemera</title>
+      <link>https://riganti.com.au/docs/mk3x/page7/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://riganti.com.au/project/lack/</guid>
-      <description></description>
+      <guid>https://riganti.com.au/docs/mk3x/page7/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraMain.jpg?raw=true&#34; alt=&#34;3.3 Hotend Upgrade E3D Hemera – build photo 1&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This E3d Hemera mount features; full hot swap capabilities with only 3 screws, a Bltouch sensor mount, the latest MK3s R4 cooling duct, cable organizing channels, Full nozzle visibility and full usability of the X Axis. A MK3s filament sensor is currently undergoing testing and will uploaded soon. A PINDA2 probe mount will also be available shortly.&lt;/p&gt;
+&lt;p&gt;This mount was designed to be as compact as possible within the available space. The Z height and width profiles are minimized while keeping it as strong and light as possible. The Hemera is a wide extruder / hotend system with an offset mount which made it a challenge to design a mount that kept full x axis usability.&lt;/p&gt;
+&lt;p&gt;This mount is designed primarily for the ReDuplicator MK3sx which started life as a Wanhao Duplicator i3. Unfortunately due to the Hemera size and and offset, the common ReDuplicator x-carriage used for the MK10 and titan could not be carried across. The original ReDuplicator files are available &lt;a href=&#34;https://www.thingiverse.com/thing:2686588/#files&#34;&gt;here.&lt;/a&gt; Although the mount is designed for the ReDuplicator, it should also be compatible with the Prusa MK3/s with some small changes to trigger the TMC endstops correctly.&lt;/p&gt;
+&lt;p&gt;The new fan shroud is based on the Prusa MK3s R4 duct. It results in much better overhangs and more consistent performance than the R3 and R2 Prusa fan ducts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/HemeraLow.jpg&#34; alt=&#34;3.3 Hotend Upgrade E3D Hemera – build photo 2&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Please ensure sure your Re-duplicator idler part is the new V2 or newer design as it includes additional mounting points for the X endstop. The X-axis endstop is mounted on the bottom of the X-axis idler part. However if you&amp;rsquo;ve already printed the original idler V1, new holes can be drilled in at 5mm intervals with a 1.5mm drill bit. I highly recommend upgrading to TMC steppers for this as it is much easier to setup with sensorless homing.&lt;/p&gt;
+&lt;p&gt;The printed parts should be a minimum of 3 perimeters and 20%+ infill. The printed parts required are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hemera X Carriage Plate.&lt;/li&gt;
+&lt;li&gt;Hemera Cooling Duct&lt;/li&gt;
+&lt;li&gt;Hemera Fan Mount&lt;/li&gt;
+&lt;li&gt;Hemera Endstop (For TMC Sensorless homing)&lt;/li&gt;
+&lt;li&gt;Hemera BLTouch Mount (optional).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additional Hardware includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;M3 Heatserts x4-6 &lt;a href=&#34;http://au.element14.com/tr-fastenings/m3-uhbrhesf/brass-insert-unheaded-m3/dp/2474921&#34;&gt;M3-UHBRHESF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;M3 Screw 20-25mm x3&lt;/li&gt;
+&lt;li&gt;M3 Screw 8mm-10mm x3&lt;/li&gt;
+&lt;li&gt;Countersunk M3 8mm screw x4 (for Bltouch mount)&lt;/li&gt;
+&lt;li&gt;M3 12mm screw (Bl touch mount)&lt;/li&gt;
+&lt;li&gt;Hemera Hotend with provided mounting screws&lt;/li&gt;
+&lt;li&gt;M3 Nylock nuts x4&lt;/li&gt;
+&lt;li&gt;M4 30mm Bolt&lt;/li&gt;
+&lt;li&gt;M4 Nylock Nut&lt;/li&gt;
+&lt;li&gt;M4 Soft Washer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The installation process is very similar to the original MK10 hotend and the titan Aero.
+Four Heatserts are placed into the back of the extruder plate.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/Heatsert.jpg&#34; alt=&#34;3.3 Hotend Upgrade E3D Hemera – build photo 3&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Two optional heat serts are inserted into the front of the carriage. This is only required if you intend to use the MK3s optical filament sensor.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/HeatSertFront.jpg&#34; alt=&#34;3.3 Hotend Upgrade E3D Hemera – build photo 4&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Follow the &lt;a href=&#34;https://e3d-online.dozuki.com/c/Hemera_Assembly_Guides&#34;&gt;Hemera core and direct assembly guides here&lt;/a&gt;
+The Hemera is mounted to the plate with the provided 4 bolts. I recommend re terminating all wires in order to make maintenance and swapping the hotend assembly easier. Dupont connectors are perfect for most wires and spade connectors are used for the hotend. The stepper motor wiring can be fed through the provided channel and fed through the underside.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/HemeraBed.jpg&#34; alt=&#34;3.3 Hotend Upgrade E3D Hemera – build photo 5&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The carriage can then side onto the X axis. The 3 bearings can slide into the bearing slots. Use the 20-25mm M3 screws and nylocks to secure the bearings. Be sure not to over tighten these screws, ensure the pressure on the bearings is even and the carriage should slide freely.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraMount.jpg&#34; alt=&#34;3.3 Hotend Upgrade E3D Hemera – build photo 6&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The fan mount connects to the fan shroud via a 10mm M3 bolt and Nylock. The 50mm blower fan is connected with the 30mm M4, Nylock and soft washer. The soft washer in between will help to reduce vibrating fan noise.
+Once the heating block is centered properly, connect the cooling fan duct to the carriage with 2x 8-10mm m3 screws into the bottom most mounting holes.&lt;/p&gt;
+&lt;p&gt;The X Axis belt is installed the same as the Prusa MK3s. See those instructions for further details if required. The X axis motor should be loosened and rotated inwards, This allows the belt to be pushed into the slots. A flathead screwdriver may help. The motor can then be rotated back and tensioned.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraDuct.jpg&#34; alt=&#34;3.3 Hotend Upgrade E3D Hemera – build photo 7&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Bltouch mount is connected to the motor with 4x 8mm countersunk screws. 2x 10mm M3 screws mount the Bltouch to the mount.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraLow2.jpg&#34; alt=&#34;3.3 Hotend Upgrade E3D Hemera – build photo 8&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Connect all your wiring and the wiring chain with 2x 8mm countersunk M3 screws.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraWiring.jpg&#34; alt=&#34;3.3 Hotend Upgrade E3D Hemera – build photo 9&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Connect the endstop to the bottom of the X axis idler pulley with 2x 8mm M2 screws. There are a number of different mounting holes. Use the ones which get the nozzle closest to the corner of the heatbed without overhanginging it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/Endstop.jpg&#34; alt=&#34;3.3 Hotend Upgrade E3D Hemera – build photo 10&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Some software changes are required. Remember to calibrate your Z-offset value before use. Also ensure you run a PID tune and update your esteps as outlined in the E3D instructions. Probe Offset values for marlin configuration:&lt;/p&gt;
+&lt;p&gt;#define X_PROBE_OFFSET_FROM_EXTRUDER 31&lt;/p&gt;
+&lt;p&gt;#define Y_PROBE_OFFSET_FROM_EXTRUDER -39&lt;/p&gt;
+&lt;p&gt;Your Hemera is now ready for action.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraCloseup.jpg&#34; alt=&#34;3.3 Hotend Upgrade E3D Hemera – build photo 11&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A prototype MK3s filament sensor is available for testing via github, and will be published once properly tested. A Pinda2 probe mount is also on the way.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Open Alpha 3.5mm Headphones</title>
-      <link>https://riganti.com.au/project/alpha/</link>
-      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      <title>3.4 Heatbed upgrade MK52</title>
+      <link>https://riganti.com.au/docs/mk3x/page8/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://riganti.com.au/project/alpha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Denon Headband Mod</title>
-      <link>https://riganti.com.au/project/denon/</link>
-      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/denon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cherry Popper tool</title>
-      <link>https://riganti.com.au/project/cherry/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/cherry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lego Saturn V Stand</title>
-      <link>https://riganti.com.au/project/apollo/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/apollo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Audio Technica ES10 Mod</title>
-      <link>https://riganti.com.au/project/es10/</link>
-      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/es10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low Poly Hook</title>
-      <link>https://riganti.com.au/project/hook/</link>
-      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/hook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3D Moon Lamp</title>
-      <link>https://riganti.com.au/project/moon/</link>
-      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/moon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E3D Titan Aero Upgrade</title>
-      <link>https://riganti.com.au/project/titan/</link>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/titan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ECC88 Quad Vacuum Tube holder</title>
-      <link>https://riganti.com.au/project/vacuum/</link>
-      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/vacuum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scotch headphone Stand</title>
-      <link>https://riganti.com.au/project/alcostand/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/alcostand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Earbuddy headphone Case</title>
-      <link>https://riganti.com.au/project/earbud/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/earbud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wanhao 24v Gen-L TMC2130</title>
-      <link>https://riganti.com.au/project/controller/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/controller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wanhao Straight Braces</title>
-      <link>https://riganti.com.au/project/wanhao/</link>
-      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://riganti.com.au/project/wanhao/</guid>
-      <description></description>
+      <guid>https://riganti.com.au/docs/mk3x/page8/</guid>
+      <description>&lt;p&gt;The final piece of recreating the Prusa MK3s magic is the fantastic removable spring steel PEI magnetic heatbed. Unfortunately the dimensions of the rods on the original Wanhao differ quite a lot from the MK3 and as such cannot accommodate the heatbed or fully utilize its larger build volume.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Main.jpg?raw=true&#34; alt=&#34;3.4 Heatbed upgrade MK52 – build photo 1&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This project expands the ReDuplicator frame to enable full use of the Mk52 heatbed with its 254x210mm buildspace. This requires new extrusions and rods. Some extrusions and printed parts are carried over from the original ReDuplicator design.&lt;/p&gt;
+&lt;h3 id=&#34;printed-parts&#34;&gt;Printed Parts&lt;/h3&gt;
+&lt;p&gt;Most of the instructions and printed parts carry over from the original ReDuplicator Design. However the following printed parts supersede the original ones.&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;MK52 Printed Parts&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Heatbed Cover Bottom MK52 Expansion 360&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Heatbed Cover Top MK52 Expansion 360&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;X Gantry Idler 9MM - MK52 Expansion 360&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;X Gantry Motor Mount - MK52 Expansion&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;X Axis TMC Endstop 360&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Y Carriage Bearing Block - MK52 Expansion 360&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Y Carriage Bearing Block Flanged - MK52 Expansion 360&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Y Carriage Belt Holder - MK52 Expansion&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Y Carriage Belt Tensioner - MK52 Expansion&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Z Axis Motor Bottom Left - MK52 Expansion 360&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Z Axis Motor Bottom Right - MK52 Expansion 360&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Z Axis Rod Top Left Bracket - MK52 Expansion 360&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Z Axis Rod Top Right Bracket - MK52 Expansion 360&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;These are the recommended printed parts from the original Reduplicator Project&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Original Reduplicator Printed Parts&lt;/th&gt;
+					&lt;th&gt;Details&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;BLTouch Mount&lt;/td&gt;
+					&lt;td&gt;MK10 Hotend Only&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Base Leg H26.8mm 360 X4&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Cable Guide Alternate - Motor Mount 360&lt;/td&gt;
+					&lt;td&gt;New cable routing via X gantry motor&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Cable Guide Bottom Mount 360&lt;/td&gt;
+					&lt;td&gt;New Recommended cable routing part&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Inner Corner Bracket Covers X2&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Part Cooling Fan Bracket MK3 V3&lt;/td&gt;
+					&lt;td&gt;MK10 Hotend only&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Part Cooling Fan MK3 R3 V3&lt;/td&gt;
+					&lt;td&gt;MK10 Hotend only&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;X Carriage Front Extruder Plate MK3 V2&lt;/td&gt;
+					&lt;td&gt;MK10 Hotend only&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;X Carriage Universal Rear Bearing Plate MK3 V3&lt;/td&gt;
+					&lt;td&gt;MK10 or Titan Aero Hotend only&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Y Axis Motor Mount V2 360&lt;/td&gt;
+					&lt;td&gt;Recently updated design&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Y Axis Rod Holder Left 360 X2&lt;/td&gt;
+					&lt;td&gt;Recently updated design&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Y Axis Rod Holder Right &amp;amp; Endstop&lt;/td&gt;
+					&lt;td&gt;Only Required If using endstop switches&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Y Axis Rod Holder Right 360&lt;/td&gt;
+					&lt;td&gt;Recently updated design&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Z Rod Securer V2 360&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Z Tower Bottom Crossover Brackets 360&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Z Tower Top Corner Bracket V3 360 X2&lt;/td&gt;
+					&lt;td&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Z-EndStop&lt;/td&gt;
+					&lt;td&gt;Only Required If not using a leveling probe&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;bill-of-materials&#34;&gt;Bill Of materials&lt;/h3&gt;
+&lt;p&gt;The BOM remains largely the same apart from a the new extrusions, rods and a few additional fasteners. As usual I recommend Misumi extrusions, bearings and rods due to their exceptional quality. While purchasing new rods it&amp;rsquo;s also a good idea to replace the bearings with &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302577950/?HissuCode=LMU8&#34;&gt;LMU8s&lt;/a&gt; if you haven&amp;rsquo;t already as they are tolerance matched.&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;New Parts&lt;/th&gt;
+					&lt;th&gt;Description&lt;/th&gt;
+					&lt;th&gt;Number Reqd&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;3030 Extrusion 278mm&lt;/td&gt;
+					&lt;td&gt;X Base &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFSLB6-3030-278&#34;&gt;HFSLB6-3030-278&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;3030 Extrusion 430mm&lt;/td&gt;
+					&lt;td&gt;Z Tower &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFSLB6-3030-430&#34;&gt;HFSLB6-3030-430&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;3030 Extrusion 340mm&lt;/td&gt;
+					&lt;td&gt;X Tower &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFSLB6-3030-340&#34;&gt;HFSLB6-3030-340&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Hardened Steel Rod 380mm&lt;/td&gt;
+					&lt;td&gt;X Axis Rods &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302634310/?ProductCode=PSFJ8-380&#34;&gt;PSFJ8-380.&lt;/a&gt; Alternatively CPSFJ8-380 is cheaper with worse tolerances and hardness. Or PSFU8-380 with higher tolerances and a higher price&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Hardened Steel Rod 330mm&lt;/td&gt;
+					&lt;td&gt;Z Axis Rods &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302634310/?ProductCode=PSFJ8-330&#34;&gt;PSFJ8-330&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Hardened Steel Rod 370mm&lt;/td&gt;
+					&lt;td&gt;Y Axis Rods &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302634310/?ProductCode=PSFJ8-370&#34;&gt;PSFJ8-370&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Prusa original MK52 heatbed Kit&lt;/td&gt;
+					&lt;td&gt;Can be purchased directly from Prusa if you have a friend with a MK3, otherwise clones are widely available.&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;MK3 Y Carriage&lt;/td&gt;
+					&lt;td&gt;&lt;a href=&#34;https://www.aliexpress.com/item/32882851897.html?spm=a2g0s.9042311.0.0.27424c4d8K3I5M&#34;&gt;6mm Aluminium&lt;/a&gt; or a &lt;a href=&#34;https://www.aliexpress.com/item/32991330262.html?spm=a2g0s.9042311.0.0.27424c4d8K3I5M&#34;&gt;lighter Composite version&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Heatbed 6mm Spacer Kit&lt;/td&gt;
+					&lt;td&gt;&lt;a href=&#34;https://www.aliexpress.com/item/32961482490.html?spm=a2g0s.9042311.0.0.27424c4dnxrqP3&#34;&gt;6mm spacer and 12mm M3 screws&lt;/a&gt; Recommend using 1 spacer for the center and using Nylocks on the other screws for a perfect bed level&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M3 35mm&lt;/td&gt;
+					&lt;td&gt;For Y carriage tensioner&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M3 22mm&lt;/td&gt;
+					&lt;td&gt;To secure the bearings to the Y Carriage.&lt;/td&gt;
+					&lt;td&gt;6&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M3 Nylock&lt;/td&gt;
+					&lt;td&gt;Additional nylocks required for heatbed leveling and mounting&lt;/td&gt;
+					&lt;td&gt;15-25&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The parts below carry over from the original ReDuplicator build.&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Carry Over Parts&lt;/th&gt;
+					&lt;th&gt;Description&lt;/th&gt;
+					&lt;th&gt;Number Reqd&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;3030 Extrusion 355mm&lt;/td&gt;
+					&lt;td&gt;Y Base &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302686450/?HissuCode=HFSLB6-3030-355&#34;&gt;HFSLB6-3030-355&lt;/a&gt; Carried across from Old Z Axis&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;30x30x35 Corner Brackets&lt;/td&gt;
+					&lt;td&gt;Tabbed on SINGLE Side only &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110300442340/?HissuCode=HBLFSNB6&#34;&gt;HBLFSNB6&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;14&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Alluminium Flat bracket&lt;/td&gt;
+					&lt;td&gt;4 mount holes &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302250620/?HissuCode=HPTLS6&#34;&gt;HPTLS6&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;8&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;LM8UU Bearings&lt;/td&gt;
+					&lt;td&gt;Std 8mm 15mm long bearings &lt;a href=&#34;https://sg.misumi-ec.com/vona2/detail/110302577950/?HissuCode=LMU8&#34;&gt;LMU8&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;4&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M5 12mm&lt;/td&gt;
+					&lt;td&gt;Button Head Screw M5&lt;/td&gt;
+					&lt;td&gt;70&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M5 16mm&lt;/td&gt;
+					&lt;td&gt;Button Head Screw M5&lt;/td&gt;
+					&lt;td&gt;10&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M5 T-Nuts&lt;/td&gt;
+					&lt;td&gt;3030 T-Nuts Drop in preferred&lt;/td&gt;
+					&lt;td&gt;80&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M5 20-25mm&lt;/td&gt;
+					&lt;td&gt;Low Profile Button head (less than 4.2mm)&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M5 30-35mm&lt;/td&gt;
+					&lt;td&gt;Screw M5&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M3 Heatserts&lt;/td&gt;
+					&lt;td&gt;Brass heat inserts M3 thread &lt;a href=&#34;http://au.element14.com/tr-fastenings/m3-uhbrhesf/brass-insert-unheaded-m3/dp/2474921&#34;&gt;M3-UHBRHESF&lt;/a&gt;&lt;/td&gt;
+					&lt;td&gt;22&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M3 4-8mm&lt;/td&gt;
+					&lt;td&gt;Button Head Screw M3&lt;/td&gt;
+					&lt;td&gt;8&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M3 12mm&lt;/td&gt;
+					&lt;td&gt;Button Head Screw M3&lt;/td&gt;
+					&lt;td&gt;6&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M3 16mm&lt;/td&gt;
+					&lt;td&gt;Button Head Screw M3&lt;/td&gt;
+					&lt;td&gt;6&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M3 30mm&lt;/td&gt;
+					&lt;td&gt;Screw M3&lt;/td&gt;
+					&lt;td&gt;3&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M3 6-8mm&lt;/td&gt;
+					&lt;td&gt;Countersunk M3&lt;/td&gt;
+					&lt;td&gt;4&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M3 6-12mm&lt;/td&gt;
+					&lt;td&gt;Countersunk M3&lt;/td&gt;
+					&lt;td&gt;8&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M5 Nylock&lt;/td&gt;
+					&lt;td&gt;Nuts for Idlers&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M5 Smooth Idler Pulley&lt;/td&gt;
+					&lt;td&gt;(Optional) 9mm wide replacement&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M5 Fibrous Washers&lt;/td&gt;
+					&lt;td&gt;For idler Pulleys&lt;/td&gt;
+					&lt;td&gt;3 - 10&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;GT2 Belt&lt;/td&gt;
+					&lt;td&gt;6mm belt&lt;/td&gt;
+					&lt;td&gt;1m&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;50mm Blower&lt;/td&gt;
+					&lt;td&gt;Part Cooling&lt;/td&gt;
+					&lt;td&gt;1&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;M3 Square nut&lt;/td&gt;
+					&lt;td&gt;X motor tensioner&lt;/td&gt;
+					&lt;td&gt;2&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;At this stage the &lt;a href=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK3x/wiki&#34;&gt;original ReDuplicator instructions&lt;/a&gt; can be followed in conjunction with the changes listed below. The &lt;a href=&#34;https://manual.prusa3d.com/c/Original_Prusa_i3_MK3S_kit_assembly&#34;&gt;original Prusa MK3s&lt;/a&gt; guides are also a valuable resource.&lt;/p&gt;
+&lt;h3 id=&#34;assembly&#34;&gt;Assembly&lt;/h3&gt;
+&lt;p&gt;The Base is made up of the 278mm Extrusions in the X direction and 355mm in the X Direction.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Base.jpg?raw=true&#34; alt=&#34;3.4 Heatbed upgrade MK52 – build photo 2&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The underside crossbeam is a 340mm extrusion. Its final position depends on your exact setup so leave it slightly loose till the best of the build is finalized. For example, when using a Hemera hotend with TMC sensorless homing, the crossbeam should be 185mm from the front of the base.&lt;/p&gt;
+&lt;p&gt;The Z Tower is made up of 430mm extrusions. In this version the vertical extrusion go all the way to the top and bottom, which makes it much easier to add the corner brackets and rod holding tower parts.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Tower.jpg?raw=true&#34; alt=&#34;3.4 Heatbed upgrade MK52 – build photo 3&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Z motor mounts should be mounted 42mm from the base of the Z tower.
+The top of the Y axis Idler should be mounted 118mm across the front extrusion and the top of the Y motor mount should be 108mm across the rear extrusion. For the MK10 and Titan aero these can be set 10mm further to the right.&lt;/p&gt;
+&lt;p&gt;The 380mm rods are mounted on the Y axis, 330mm rods on the z axis and 370 rods in the Y axis.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Rods.jpg?raw=true&#34; alt=&#34;3.4 Heatbed upgrade MK52 – build photo 4&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Z Top Rod holding pieces should be flush with the edge and the top of the tower extrusions. The distance between the Z axis rods is 396mm.&lt;/p&gt;
+&lt;p&gt;The Y axis rods are press fit into the X idler and X motor pieces. There are small windows to ensure the rods are inserted fully.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Bearings.jpg?raw=true&#34; alt=&#34;3.4 Heatbed upgrade MK52 – build photo 5&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Insert the bearings into the Y bearing holders. use the flanged bearing blocks if you are using normal LM8U bearings or use the non flanged version if using longer LM8UU bearings. M3 Nylocks are press fit into the blocks and secured to the Y carriage with 22mm-25mm M3 bolts and washers screwed in from the top.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Carriage.jpg?raw=true&#34; alt=&#34;3.4 Heatbed upgrade MK52 – build photo 6&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The Y Belt holder requires 2 m3 nylocks to be press fit into it. It is mounted to the Y carriage on the side of the Y motor mount with a 10mm-12mm M3 bolt and nylock. The Y Belt Tensioner is attached to the other side and a nylock is press fit on the side. The belt is mounted by looping the belt around a 12mm m3 screw and slowly screwing it in. Once the belt is properly in the channels a 35mm M3 screw between the Belt holder and tensioner is tightened to tension the belt properly.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52YTension.jpg?raw=true&#34; alt=&#34;3.4 Heatbed upgrade MK52 – build photo 7&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The MK52 heatbed can then be installed. There are 9 mounting holes. Use the countersunk 12mm screw and 6mm spacer for the middle mount. For each of the other mounting holes use a 12mm countersunk M3 along with a nylock nut. This allows precise leveling of the heatbed.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52YComp.jpg?raw=true&#34; alt=&#34;3.4 Heatbed upgrade MK52 – build photo 8&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The heatbed must be soldered in order to be low profile enough that it doesn&amp;rsquo;t collide with the hotend cooling system. Feed the wires from below through the holes and solder directly to the board trying to keep it as flat as possible.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Heatbed.jpg?raw=true&#34; alt=&#34;3.4 Heatbed upgrade MK52 – build photo 9&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Install the heatbed cover using the fasteners provided with the heatbed. This should be 3x 10mm bolts and 3 M3 nuts.
+If done correctly, the heatbed cover bump should be well below the extruder assembly and cooling fan during leveling and printing.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52HeatClearance.jpg?raw=true&#34; alt=&#34;3.4 Heatbed upgrade MK52 – build photo 10&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The rest of the installation proceeds as a normal ReDuplicator build.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -280,21 +675,57 @@ The angled version holds up to 9 cards.&lt;/p&gt;
 &lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2685750&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
 &lt;p&gt;Tool holder for allen keys, exacto knife, pliers, scraper, thickness quage&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/lack/I01.jpg&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 1&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/lack/I01_hu_784c5c7117a34142.avif 480w, https://riganti.com.au/build/lack/I01_hu_f66e53fbf10198b3.avif 800w, https://riganti.com.au/build/lack/I01_hu_e74173738014281e.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/lack/I01_hu_ee809f39e212126a.webp 480w, https://riganti.com.au/build/lack/I01_hu_314bb4551bb2eac4.webp 800w, https://riganti.com.au/build/lack/I01_hu_699e1b6b92e6f7d.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/lack/I01_hu_ef68e6c63e20a20c.jpg&#34; width=&#34;1200&#34; height=&#34;800&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 1&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Printed rotational hinge&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/lack/I02.jpg&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 2&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/lack/I02_hu_91e5a4f9f8a35df3.avif 480w, https://riganti.com.au/build/lack/I02_hu_8e8718c25d2fe0ce.avif 800w, https://riganti.com.au/build/lack/I02_hu_89d7cb85ebd4a904.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/lack/I02_hu_8fb5259ba31e6373.webp 480w, https://riganti.com.au/build/lack/I02_hu_570005c2b47acac1.webp 800w, https://riganti.com.au/build/lack/I02_hu_cd47066df0b1c803.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/lack/I02_hu_e5884124a2904d9c.jpg&#34; width=&#34;1200&#34; height=&#34;800&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 2&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Perspex corner mounts&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/lack/I03.jpg&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 3&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/lack/I03_hu_527bf0041ac90742.avif 480w, https://riganti.com.au/build/lack/I03_hu_c00516f60a7b3734.avif 800w, https://riganti.com.au/build/lack/I03_hu_aad17ecae9cd07f5.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/lack/I03_hu_4a34c7d09256616e.webp 480w, https://riganti.com.au/build/lack/I03_hu_b67598e3c456b17f.webp 800w, https://riganti.com.au/build/lack/I03_hu_d8f14f1993c3d465.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/lack/I03_hu_3397c6c746569a9c.jpg&#34; width=&#34;1200&#34; height=&#34;800&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 3&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;PTFE feed and filament cleaner&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/lack/I08.jpg&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 4&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
-&lt;img src=&#34;https://riganti.com.au/img/project/lack/I04.jpg&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 5&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/lack/I08_hu_47fe16dd64c63da.avif 480w, https://riganti.com.au/build/lack/I08_hu_4f19aec5d14fb3f2.avif 800w, https://riganti.com.au/build/lack/I08_hu_40c592ddc8120ed6.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/lack/I08_hu_5089779b6aa1a2c0.webp 480w, https://riganti.com.au/build/lack/I08_hu_f459341236254289.webp 800w, https://riganti.com.au/build/lack/I08_hu_ee3090d9b6bdfa93.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/lack/I08_hu_f982e4bfe37d30b7.jpg&#34; width=&#34;1200&#34; height=&#34;800&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 4&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;
+&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/lack/I04_hu_cf90e77fe950520e.avif 480w, https://riganti.com.au/build/lack/I04_hu_aa872a69241a5a90.avif 800w, https://riganti.com.au/build/lack/I04_hu_682e704c85e610f4.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/lack/I04_hu_7e8973d64ec6e77d.webp 480w, https://riganti.com.au/build/lack/I04_hu_1bb3ab41560a69b3.webp 800w, https://riganti.com.au/build/lack/I04_hu_90f09a955fc42c9f.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/lack/I04_hu_db6a9360f3695e0.jpg&#34; width=&#34;1200&#34; height=&#34;800&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 5&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Sliding Control box mechanism&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/lack/I05.jpg&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 6&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
-&lt;img src=&#34;https://riganti.com.au/img/project/lack/I06.jpg&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 7&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/lack/I05_hu_d4059d1491db9558.avif 480w, https://riganti.com.au/build/lack/I05_hu_fb6ca4252a941273.avif 800w, https://riganti.com.au/build/lack/I05_hu_a295cf632a3c750b.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/lack/I05_hu_96340f8c5c2ccfda.webp 480w, https://riganti.com.au/build/lack/I05_hu_198e1f65b62ea9f5.webp 800w, https://riganti.com.au/build/lack/I05_hu_f71064cd36dc80d5.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/lack/I05_hu_91607cbc58923b60.jpg&#34; width=&#34;1200&#34; height=&#34;800&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 6&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;
+&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/lack/I06_hu_f0c34c0d7f509c3.avif 480w, https://riganti.com.au/build/lack/I06_hu_912267cd07ccb41e.avif 800w, https://riganti.com.au/build/lack/I06_hu_23b57842fa031ede.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/lack/I06_hu_ca24d7f9843f928f.webp 480w, https://riganti.com.au/build/lack/I06_hu_c8aea3389eaa771.webp 800w, https://riganti.com.au/build/lack/I06_hu_4c13aa6b2d49ef54.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/lack/I06_hu_ab716a2dcb738106.jpg&#34; width=&#34;1200&#34; height=&#34;800&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 7&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Cable rounting&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/lack/I07.jpg&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 8&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/lack/I07_hu_873defc91eec88ef.avif 480w, https://riganti.com.au/build/lack/I07_hu_2844283fdee64d5b.avif 800w, https://riganti.com.au/build/lack/I07_hu_e9b5b1388d5bfe70.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/lack/I07_hu_524897318c144137.webp 480w, https://riganti.com.au/build/lack/I07_hu_1143a56f6f24ab17.webp 800w, https://riganti.com.au/build/lack/I07_hu_e1c96d90374191d6.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/lack/I07_hu_cf22f328d616c750.jpg&#34; width=&#34;1200&#34; height=&#34;800&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 8&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Removable top&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/lack/I09.jpg&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 9&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/lack/I09_hu_30d7a158590219d2.avif 480w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/lack/I09_hu_9c05e0b6de4f6976.webp 480w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/lack/I09_hu_39dc6a56dec40129.jpg&#34; width=&#34;480&#34; height=&#34;640&#34; alt=&#34;Wanhao Lack Triple Stack 3D Printer Enclosure – build photo 9&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -312,22 +743,58 @@ The angled version holds up to 9 cards.&lt;/p&gt;
 &lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2326371&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;build-process&#34;&gt;Build Process&lt;/h3&gt;
 &lt;p&gt;Print The Cups in ABS. 3.5mm connector gets installed&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/alpha/I01.jpg&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 1&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/alpha/I01_hu_e8b5488297d85e88.avif 480w, https://riganti.com.au/build/alpha/I01_hu_cf93974ec802c90f.avif 800w, https://riganti.com.au/build/alpha/I01_hu_e073eb4da88fd188.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/alpha/I01_hu_bd3c6da95dfcbe38.webp 480w, https://riganti.com.au/build/alpha/I01_hu_79e3bcc8787c1e90.webp 800w, https://riganti.com.au/build/alpha/I01_hu_6d2e2f8fe68ea732.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/alpha/I01_hu_dd149ee7129ec840.jpg&#34; width=&#34;1200&#34; height=&#34;800&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 1&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Smooth the cups in an acetone bath&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/alpha/I02.jpg&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 2&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/alpha/I02_hu_9b9ce1455afce730.avif 480w, https://riganti.com.au/build/alpha/I02_hu_df21bbfe89ce7050.avif 800w, https://riganti.com.au/build/alpha/I02_hu_b18f8065241333fa.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/alpha/I02_hu_30c6cafd6de17ade.webp 480w, https://riganti.com.au/build/alpha/I02_hu_34cc3017a582ab9.webp 800w, https://riganti.com.au/build/alpha/I02_hu_e5c4a5f8a2597fa1.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/alpha/I02_hu_3462e41f45d8fa88.jpg&#34; width=&#34;1200&#34; height=&#34;800&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 2&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Prime with a filler primer and coat in automotive paint. I used hot rod red from Duplicolor.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/alpha/I03.jpg&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 3&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/alpha/I03_hu_cf541647d3105356.avif 480w, https://riganti.com.au/build/alpha/I03_hu_ab5a82c51437f1ca.avif 800w, https://riganti.com.au/build/alpha/I03_hu_b6953bc31b6da760.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/alpha/I03_hu_adaf168375189d44.webp 480w, https://riganti.com.au/build/alpha/I03_hu_292bd19f975088f.webp 800w, https://riganti.com.au/build/alpha/I03_hu_f5bf91154888afb7.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/alpha/I03_hu_eb03a545bfd90fd9.jpg&#34; width=&#34;1200&#34; height=&#34;900&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 3&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Add the driver to the baffle, cover the rear of the cup with silverstone dampener. Sandwich wool in between to control treble.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/alpha/I04.jpg&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 4&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
-&lt;img src=&#34;https://riganti.com.au/img/project/alpha/I08.jpg&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 5&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/alpha/I04_hu_9895e1cf99ada2b1.avif 480w, https://riganti.com.au/build/alpha/I04_hu_ba61f4923516894c.avif 800w, https://riganti.com.au/build/alpha/I04_hu_570e6963cba03398.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/alpha/I04_hu_dc47e2db0f1e796e.webp 480w, https://riganti.com.au/build/alpha/I04_hu_e0de9c7b4827ca0a.webp 800w, https://riganti.com.au/build/alpha/I04_hu_114a176d79bb810f.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/alpha/I04_hu_cb3333bd978e49e.jpg&#34; width=&#34;1200&#34; height=&#34;900&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 4&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;
+&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/alpha/I08_hu_5aa9f4bb8deeb6bb.avif 480w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/alpha/I08_hu_b78036f922e50195.webp 480w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/alpha/I08_hu_5ce2b96630417387.jpg&#34; width=&#34;480&#34; height=&#34;640&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 5&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Close the cups with four 10mm M2 screws each.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/alpha/I05.jpg&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 6&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/alpha/I05_hu_65109c7984cf99d0.avif 480w, https://riganti.com.au/build/alpha/I05_hu_217441b95c026d40.avif 800w, https://riganti.com.au/build/alpha/I05_hu_91ba9e5045843862.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/alpha/I05_hu_fe171dca8fc5b58c.webp 480w, https://riganti.com.au/build/alpha/I05_hu_9a2fd6b16de15d7e.webp 800w, https://riganti.com.au/build/alpha/I05_hu_5cfe4a113177b348.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/alpha/I05_hu_dea5478f6019d2fc.jpg&#34; width=&#34;1200&#34; height=&#34;900&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 6&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Use contact adhesive to cover the rubber headband in leather.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/alpha/I06.jpg&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 7&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/alpha/I06_hu_42afc90cf21074ed.avif 480w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/alpha/I06_hu_47eefc0cf234f051.webp 480w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/alpha/I06_hu_7f5cb58098b251c5.jpg&#34; width=&#34;480&#34; height=&#34;640&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 7&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Temporarily cable tie the headband till it dries&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/alpha/I07.jpg&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 8&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/alpha/I07_hu_bb8592ffe572ff9c.avif 480w, https://riganti.com.au/build/alpha/I07_hu_1ba64c751363066a.avif 800w, https://riganti.com.au/build/alpha/I07_hu_7e38f39d96d0c331.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/alpha/I07_hu_8629bfca16126297.webp 480w, https://riganti.com.au/build/alpha/I07_hu_59cdb3a8e26296b3.webp 800w, https://riganti.com.au/build/alpha/I07_hu_ce969e0f20597d74.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/alpha/I07_hu_899984c3d1adac47.jpg&#34; width=&#34;1200&#34; height=&#34;900&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 8&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Enjoy your new headphones. It will require significant tweaking of wool and dampening till the sound right.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://riganti.com.au/img/project/alpha/G1.jpg&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 9&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;
+  &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/alpha/G1_hu_bc74ed758123dfe5.avif 480w, https://riganti.com.au/build/alpha/G1_hu_fb8c11ed945a5f17.avif 800w, https://riganti.com.au/build/alpha/G1_hu_7672741bfa36d807.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;source type=&#34;image/webp&#34; srcset=&#34;https://riganti.com.au/build/alpha/G1_hu_c3cb6bd2a255c34e.webp 480w, https://riganti.com.au/build/alpha/G1_hu_4138eacf117612bb.webp 800w, https://riganti.com.au/build/alpha/G1_hu_40bb1e29706fb37d.webp 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
+  &lt;img src=&#34;https://riganti.com.au/build/alpha/G1_hu_bd66be0990d3a300.jpg&#34; width=&#34;1200&#34; height=&#34;800&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 9&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
+&lt;/picture&gt;&lt;/p&gt;
 </description>
     </item>
     
