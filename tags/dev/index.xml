@@ -18,11 +18,11 @@
       <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/build/pooc/</guid>
-      <description>&lt;p&gt;A organizr web server running on a home media server.
+      <description>&lt;p&gt;An Organizr web server running on a home media server.
 The web server consolidates the various web services into one website.
 Nginx reverse proxy is used to limit access from the outside internet.
-Lets Encrypt ssl certificates are used to encrypt traffic.
-Cloudflare provides DNS and DDOS mitigation&lt;/p&gt;
+Let&amp;rsquo;s Encrypt ssl certificates are used to encrypt traffic.
+Cloudflare provides DNS and DDOS mitigation.&lt;/p&gt;
 </description>
     </item>
     
@@ -50,7 +50,7 @@ This site is a highly customized version of the Academic theme. These customisat
 &lt;li&gt;Show both a title and webpage logo on the navbar&lt;/li&gt;
 &lt;li&gt;Reduced spacing between portfolio cards and text.&lt;/li&gt;
 &lt;li&gt;Fixed project external link opening in new tab even when disabled.&lt;/li&gt;
-&lt;li&gt;New project view type which allows for a Silder or images instead of a single image&lt;/li&gt;
+&lt;li&gt;New project view type which allows for a Slider of images instead of a single image&lt;/li&gt;
 &lt;li&gt;Blue based colour scheme.&lt;/li&gt;
 &lt;li&gt;various usability changes.&lt;/li&gt;
 &lt;/ul&gt;

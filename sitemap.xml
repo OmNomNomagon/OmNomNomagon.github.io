@@ -1,184 +1,647 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://riganti.com.au/docs/mk3x/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/mk3x/page1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/CornerBracket.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK3x/master/Pics/1%20Glamor%20Shots/Tnutmod.jpg</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Fasteners.jpg?raw=true</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/mk3x/page2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Parts.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/HeatSert.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/1%20Glamor%20Shots/Non%20Metal%20Brackets.PNG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/1%20Glamor%20Shots/Alternate%20And%20Extra%20parts.PNG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK3x/blob/master/Pics/1%20Glamor%20Shots/OrigConfig.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK3x/blob/master/Pics/1%20Glamor%20Shots/ReversedConfig.JPG?raw=true</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/mk3x/page3/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Leg1.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Leg2.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Crossbeam1.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Crossbeam2.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Leg3.jpg?raw=true</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/mk3x/page4/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/3%20Tower%20Frame/Crossbeam3.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/3%20Tower%20Frame/Crossbeam4.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/3%20Tower%20Frame/Tower3.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/3%20Tower%20Frame/Frame3.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/3%20Tower%20Frame/ZTower.JPG?raw=true</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/mk3x/page5/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK3x/master/Pics/1%20Glamor%20Shots/DSC03626.jpg</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/4%20Hotend/CarriageNew.jpg</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage1.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage2.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/Fan1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/Fan2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage4.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage5.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/WeightOrig.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/WeightNew.jpg?raw=true</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/mk3x/page6/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/docs/mk3x/page6/featured_hu_c3072d72be7ce48d.jpg</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanMain.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/4%20Hotend/CarriageNew.jpg</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/4%20Hotend/Carriage1.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanPart.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/Fan1.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/Fan2.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/FanMount.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanFree.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanWeight.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/9%20Titan/TitanClose.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/5%20Gantry/XTension.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/mk3x/page7/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/docs/mk3x/page7/featured_hu_d237dcee3f404e5e.jpg</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraMain.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/HemeraLow.jpg</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/Heatsert.jpg</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/HeatSertFront.jpg</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/10%20Hemera/HemeraBed.jpg</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraMount.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraDuct.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraLow2.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraWiring.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/Endstop.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraCloseup.jpg?raw=true</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/mk3x/page8/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/docs/mk3x/page8/featured_hu_c2786252ab7d52d8.jpg</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Main.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Base.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Tower.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Rods.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Bearings.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Carriage.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52YTension.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52YComp.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Heatbed.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52HeatClearance.jpg?raw=true</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/mk3x/page9/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/5%20Gantry/HeatSert1.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/5%20Gantry/HeatSert2.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/5%20Gantry/XGantryBearing.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/5%20Gantry/GantryAssembly1.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/5%20Gantry/XGantryInstall.JPG?raw=true</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/mk3x/page10/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/6%20Z%20Tower/ZRodTop.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/6%20Z%20Tower/RodTop1.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/6%20Z%20Tower/RodTop2.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/6%20Z%20Tower/RodTop3.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/5%20Gantry/XTension.jpg</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/5%20Gantry/XMotor.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/mk3x/page11/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/Yaxis2.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/Yaxis1.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/YaxisEndstop.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/Belt1.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/Belt2.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/Done1.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/7%20Y%20Axis/progress.jpg?raw=true</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/mk3x/page12/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/Cable1.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/Cable2.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/CableMotor2.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/CableMotor.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/Chain.JPG?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/Done.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/1%20Glamor%20Shots/TopAngle.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/1%20Glamor%20Shots/rear.jpg?raw=true</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/mk3x/page13/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/1%20Glamor%20Shots/Close.jpg?raw=true</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/boaty2.JPG</image:loc></image:image>
+    <image:image><image:loc>https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/samplePrints.JPG</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>https://riganti.com.au/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/tv/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/tv/G1_hu_b5daef1266274869.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/G2_hu_ee44b6db80923b36.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/G3_hu_9d5a102a9fdf90e1.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/G4_hu_c2e52cc3f6149856.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/G5_hu_d516ef92820f77c4.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/G6_hu_d4eb3ece0618f972.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/I01_hu_9ecf8c233c9f6ff1.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/I02_hu_712ff44323de552.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/I03_hu_27081c72d07666a3.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/I04_hu_93277ef50781622f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/I05_hu_370195a2a8627218.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/I06_hu_3ddfc5e9e47b3211.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/I07_hu_7bc7bde29ff1e274.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/I08_hu_15f9e990a4f8fffc.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/I09_hu_5f3dde628fa63ce2.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/I10_hu_2cfd528eee83a4d0.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/I11_hu_f0e42accbec6cbe2.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/tv/featured_hu_4720d4cf05689880.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/tags/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>https://riganti.com.au/tags/wood/</loc>
     <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>https://riganti.com.au/tags/3d/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/poly/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/poly/G1_hu_2ea6a07f3cb38c2f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/poly/G2_hu_6454964431558f55.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/poly/G3_hu_5e4ef746657e02be.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/poly/G4_hu_6c4ecb5a6bf627f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/poly/G5_hu_ee7471aed3070101.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/poly/featured_hu_5ca635a9a447a715.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/coffee/</loc>
     <lastmod>2020-11-04T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/coffee/G1_hu_da70bae2a811b80c.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/coffee/G2_hu_17e53e9e58d9f65a.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/coffee/G3_hu_233ee08132284a24.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/coffee/G4_hu_a0b9604554e9bda6.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/coffee/G5_hu_294f00ce2ef0cafe.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/coffee/I001_hu_5907df92ef8e5119.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/coffee/I01_hu_9ecf8c233c9f6ff1.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/coffee/I02_hu_712ff44323de552.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/coffee/I03_hu_cfedbe901e2f4285.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/coffee/I04_hu_1f6736ded9f3611c.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/coffee/I05_hu_28067edff643f86f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/coffee/featured_hu_c15269788380b03f.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/lamp/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/lamp/G1_hu_712edd54b3efb240.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lamp/G2_hu_d50f38eecd182e2a.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lamp/G3_hu_34c42f850a88596a.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lamp/G4_hu_f1c8861cd4aa6fd4.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lamp/G5_hu_4f583b82b18974ee.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lamp/IMG_20191210_163030_hu_18852628da1cdbee.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lamp/IMG_20200112_222419_hu_ce58b4227fd1b6cd.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lamp/IMG_20200118_155553_hu_eb8a956cca193700.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lamp/IMG_20200118_193155_hu_14cb726dc03b34c.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lamp/featured_hu_ebbb7dd1c7d49b65.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/tags/electro/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/switch/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/switch/G1_hu_95583fb4fa172aa4.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/switch/G2_hu_68cf8a16e43ca0b9.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/switch/G3_hu_19e6f3df95ec62b2.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/switch/G4_hu_af0edbecce1059d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/switch/featured_hu_77f899fcd4870ea2.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/dining/</loc>
     <lastmod>2020-10-14T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/dining/G1_hu_5ff5f46d7eea101e.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/G2_hu_ef6585f263d22a78.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/G3_hu_66a325e15b3ce88d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/G4_hu_f842f2ccc664c8c6.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/G5_hu_f48fcab72a205136.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I01_hu_4a500d0c8488b1bb.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I02_hu_af8d270de6603650.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I03_hu_a82add1e252058d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I04_hu_ab537d22fae40bc7.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I05_hu_643553b951c883a6.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I06_hu_de8dfa307be94889.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I07_hu_fe1e19630e1142de.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I08_hu_8675dea6e41373f0.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I09_hu_7e517a9da114c2f9.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I10_hu_ddcc6142e8960e6.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I11_hu_c99de204c4fbf14.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I12_hu_affa87a43ed1feac.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I13_hu_fcd9e234c0536194.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I14_hu_e442090744823623.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I15_hu_7defed8e0aad6945.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/I16_hu_4cb0b866786c11d2.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/dining/featured_hu_e54335065259370e.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/chopping/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/G1_hu_8cce6c54e9815ca4.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/G2_hu_1544045e37fc07d7.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/G3_hu_d2950b4bf2743dd2.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/G4_hu_d8651d165eb085a4.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/G5_hu_f136268f31edbc82.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/I01_hu_f7d7854c0e875567.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/I02_hu_afa8b8f58cb6f735.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/I03_hu_e92c11c038d1edd0.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/I04_hu_bff6eb98ce32cfda.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/I05_hu_a2ea29c10806d387.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/I06_hu_fa2721c006689cc4.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/I07_hu_b74bbdd810be1973.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/I08_hu_3471a72666ef3597.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chopping/featured_hu_baf31e88b268b6de.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/desk/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/desk/G1_hu_5870163f1c06ee60.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/G2_hu_397f15a60f7648b7.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/G3_hu_5b0d1437cba6e5ab.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/G4_hu_5072de1bcc4c6178.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/I01_hu_4a500d0c8488b1bb.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/I02_hu_af8d270de6603650.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/I03_hu_a82add1e252058d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/I04_hu_7f471f043dfc4238.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/I05_hu_d9f49f625938a4e6.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/I06_hu_3c4f03ae1972d1ac.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/I07_hu_3bcd81de7e2b6e80.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/I08_hu_541dd52008af1558.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/I09_hu_f021b68ad4ffa0e1.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/I10_hu_f510437d194a78df.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/I11_hu_8eb82ba53c49aa4f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/I12_hu_5672db15aa20176a.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/I13_hu_e1ff46733e7c353f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/desk/featured_hu_53bc44d71e956d2d.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/spicer/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/spicer/G1_hu_6f49221d46d6ea26.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/spicer/G2_hu_80f076b2ee565fc2.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/spicer/G3_hu_f805a4b68329df26.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/spicer/G4_hu_1f44fc93ef9c05d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/spicer/G5_hu_29e45874e9a098f5.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/spicer/I01_hu_360f09ec2f6bd39c.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/spicer/I02_hu_ea1a6d42a822bb94.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/spicer/I03_hu_34d9d681426cbc8d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/spicer/I04_hu_838979f93d934c7b.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/spicer/I05_hu_92954ef2e99af00f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/spicer/featured_hu_9a953a7a1e8d7e95.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/lack/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/lack/G1_hu_884cf33d27173b7c.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/G2_hu_5cb7bb6c66dff26c.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/G3_hu_f304ef183ac6d669.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/G4_hu_d01f2533fd663049.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/G5_hu_7d5ed6f25dff8625.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/I01_hu_d0244caa7347de71.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/I02_hu_ecd0e8b78f6f2979.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/I03_hu_18b47380dcdc0507.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/I04_hu_a0f8e4d88133457f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/I05_hu_1c683a232f3a8dc9.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/I06_hu_c9136173104b5434.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/I07_hu_11d9039179ad801e.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/I08_hu_5749926a5a2d117b.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/I09_hu_96bc63a26ad61b9f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/lack/featured_hu_cd358007cd6aef47.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/tags/audio/</loc>
     <lastmod>2020-08-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/alpha/</loc>
     <lastmod>2020-08-26T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/G1_hu_6ca46f25c07fb813.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/G2_hu_42e3b4c1b5985dca.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/G3_hu_ff186ca72e30f7e.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/G4_hu_8a1da562262c2b7e.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/G5_hu_81ad0e0b9800e16e.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/I01_hu_107c16c0367acab5.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/I02_hu_ef18b2a0cd771d5e.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/I03_hu_b70b65cd241689fd.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/I04_hu_2d37d67ced3c082f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/I05_hu_8bc954da3eca76f4.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/I06_hu_43892006585e8b4c.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/I07_hu_3485acc25caae795.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/I08_hu_12a8b9cc7e38af85.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alpha/featured_hu_d7727dbf6492d52c.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/miniplanter/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/miniplanter/G1_hu_4d6f405e92d211ff.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/miniplanter/G2_hu_ab6b4303ccb4f456.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/miniplanter/G3_hu_81304b0f9e44a8d5.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/miniplanter/I01_hu_3a61e8a872be2fc2.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/miniplanter/I02_hu_ffd9962ca9eafc6d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/miniplanter/I03_hu_69623fd944075c9.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/miniplanter/featured_hu_cd575509e4f9925a.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/chair/</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/chair/G1_hu_8302d98234b20b53.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chair/G2_hu_f842f2ccc664c8c6.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chair/G3_hu_e6d1ddfbc5e4fbe9.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chair/G4_hu_78f5c2a165dd64f2.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chair/I01_hu_2a1f866d3449e47a.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chair/I02_hu_c9f138697c8f1d25.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chair/I03_hu_3513a5f912121ba7.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chair/I04_hu_f92869e2aa445eeb.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chair/I05_hu_2a86b6135c325c5e.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/chair/featured_hu_b2b851645c31439b.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/sonoff/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/sonoff/DSC04479_hu_5a32c575e24c0743.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sonoff/G1_hu_68243d18a6dbe879.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sonoff/G2_hu_82ffe21039667d6b.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sonoff/G3_hu_4f7132d5802ddc54.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sonoff/G4_hu_9da9db272238a0b7.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sonoff/G5_hu_41ea5f8734299919.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sonoff/G6_hu_82ecac023942f7b1.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sonoff/featured_hu_eceb796b6d877c04.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/denon/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/denon/G1_hu_a1855d1db38e3ea0.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/denon/G2_hu_8f88abd4f055e9f5.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/denon/G3_hu_dab96ca48d3c895a.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/denon/G4_hu_e06da86784c7b285.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/denon/G5_hu_720b8be5886d4fa3.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/denon/G6_hu_f35fd79ce0c2e8ec.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/denon/featured_hu_591fdcee633be1d3.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/planter/</loc>
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/planter/G1_hu_cbca4e63e9ebd940.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/planter/G2_hu_a3736041b6726859.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/planter/G3_hu_8c0cafe660d1b543.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/planter/G4_hu_9abf64459d410687.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/planter/G5_hu_584d5c631241c65f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/planter/I01_hu_95e3af773f4845a.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/planter/I02_hu_717de5d519d80f35.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/planter/I03_hu_c0e9418168a08fc2.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/planter/I04_hu_7dbb7c242f62ee96.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/planter/I05_hu_de0647b0a5fea3c7.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/planter/featured_hu_cfd707b0c63326a4.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/cherry/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/cherry/G1_hu_4ceff01bffe8e3ec.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/cherry/G2_hu_63276d2b7d0826cd.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/cherry/G3_hu_c87034f1c0ca1837.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/cherry/G4_hu_eb0d083a78cc6406.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/cherry/G5_hu_825051fa5c46e7d0.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/cherry/featured_hu_4ebbe45e63d52bdb.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/apollo/</loc>
     <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/apollo/G1_hu_344a8789554d439b.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/apollo/G2_hu_da978c09211469cd.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/apollo/G3_hu_33f6644b9fa43a58.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/apollo/G4_hu_40fe68efe65aa7a4.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/apollo/featured_hu_51f1eda651dd6e59.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/sidet/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/sidet/G1_hu_f9584fe3ed9861bd.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sidet/G2_hu_62e35a07138fcfd6.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sidet/G3_hu_7a7122e526324396.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sidet/G4_hu_f5b9a95adde781e.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sidet/I01_hu_30fdf44343bcb7b9.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sidet/I02_hu_92492b91f09f823d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sidet/I03_hu_fb5173f8bc0a1c1f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/sidet/featured_hu_f1133159e2eb5cf3.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/cable/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/cable/G1_hu_1be8171818b4b540.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/cable/G2_hu_df5ba5b7cba974e8.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/cable/G3_hu_e986048d27de665e.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/cable/G4_hu_aac5de9c8259d0a5.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/cable/G5_hu_b5d7180aaf82e029.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/cable/featured_hu_34dd01f5d555aefb.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/speaker/</loc>
     <lastmod>2020-06-17T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/speaker/G1_hu_4c265ce42bc8f4a.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/speaker/G2_hu_46b14b3345819bb9.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/speaker/G3_hu_45c015498c10c483.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/speaker/G4_hu_b7ebbc973c863d3c.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/speaker/G5_hu_151e1cf43a3ac55e.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/speaker/I01_hu_a357bbbe855c38ab.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/speaker/I02_hu_c978f6af96ee800.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/speaker/I03_hu_766dd31e7114f780.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/speaker/I04_hu_fbc86884838965ba.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/speaker/featured_hu_722b6183bda210cc.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/kb1/</loc>
     <lastmod>2020-06-10T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/G1_hu_ca82c97019894af3.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/G2_hu_58966aabbf15d217.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/G3_hu_846aa79f60475d97.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/G4_hu_1086fc3ee9ce3e2e.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/G5_hu_5eb00282f426b1d9.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/G6_hu_9560cb51127f115f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/G7_hu_46e53b5e84d384df.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/I01_hu_b20e050c84a1ef1d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/I02_hu_825051fa5c46e7d0.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/I03_hu_2a37214910791f2a.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/I04_hu_e88991ff6348597a.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/I05_hu_81694449c0b70fd9.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/I06_hu_5bb6e23ad5896d10.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb1/featured_hu_f372943c2675219b.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/he500/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/he500/G1_hu_828408a9442bb185.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/he500/G2_hu_a477b3caab24b649.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/he500/G3_hu_2a5de3516a6422e2.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/he500/featured_hu_ce2d681997c33b6d.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/es10/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/es10/G1_hu_2a8e60d1550cc907.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/es10/G2_hu_ee1db81f59bda202.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/es10/G3_hu_70598550cb8b4553.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/es10/G4_hu_526a28d7c9463fe0.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/es10/G5_hu_bb879ccce6e56122.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/es10/G6_hu_69ca08aacb2b8a58.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/es10/featured_hu_844e6498b977ec1c.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/kb2/</loc>
     <lastmod>2020-05-20T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/kb2/G1_hu_689d9388d544e49c.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb2/G2_hu_9e72aa18673dff3d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb2/G3_hu_daf638c72797789d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/kb2/featured_hu_9f711b75e88fa530.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/hook/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/hook/G1_hu_cfd3ad06d691a3f9.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/hook/G2_hu_397fb585a4cb58b1.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/hook/G3_hu_e986048d27de665e.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/hook/featured_hu_334c1ce73b255f7b.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/moon/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/moon/G1_hu_96b4cf7df466367.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/moon/G2_hu_73daab0fd40cc28b.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/moon/featured_hu_f925dcdca282c06c.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/vacuum/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/vacuum/G1_hu_a3bb70343240e143.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/vacuum/G2_hu_1ea503b971a12385.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/vacuum/G3_hu_8fef2567c15d7913.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/vacuum/G4_hu_9b7ad5e5faaaefb8.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/vacuum/featured_hu_7e7bcabedbd4956c.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/alcostand/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/alcostand/G1_hu_4a314d7cf8fc3adc.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alcostand/G2_hu_b4cca6113bd541a6.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alcostand/G3_hu_3b48bdacad4b2316.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alcostand/G4_hu_a2067500a6debdcc.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/alcostand/featured_hu_58d6ba09c5ab022e.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/earbud/</loc>
     <lastmod>2020-04-08T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/earbud/G1_hu_85e9569ad38b462b.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/earbud/G2_hu_b22bdc9c146871f8.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/earbud/G3_hu_8e20641a40c8d538.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/earbud/G4_hu_5dc22c2cae60d590.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/earbud/G5_hu_cbeec58ec683a3f.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/earbud/featured_hu_f836d9c36e8a9650.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/controller/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/controller/G1_hu_941736e4d248f555.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/controller/G2_hu_ba3700a42ee3a524.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/controller/G3_hu_e85f5f130ed514da.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/controller/G4_hu_26338379f9bd38a2.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/controller/G5_hu_b6a7ea9db98c78a9.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/controller/G6_hu_5e4a966b421d067b.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/controller/featured_hu_d987c2353a8aaa36.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/wanhao/</loc>
     <lastmod>2020-03-25T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/wanhao/G1_hu_e345952484303b3a.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/wanhao/G2_hu_375d223b066ac330.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/wanhao/G3_hu_235affe93b69b222.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/wanhao/G4_hu_4e95ceae3c19e8ef.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/wanhao/G5_hu_ae5cd85fafab73a6.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/wanhao/featured_hu_4255cd07d9d5f223.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/tags/dev/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/pooc/</loc>
     <lastmod>2020-03-18T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/pooc/G1_hu_50e9be5e3c7258b8.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/pooc/G2_hu_8ebf2cbc9d7086c.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/pooc/featured_hu_40ce7c97e18a56ec.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/widget/</loc>
     <lastmod>2020-03-11T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/widget/G1_hu_6e80ae876950170d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/widget/G2_hu_742426799b399d4d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/widget/featured_hu_46486527c6a3288a.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/riganti/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/riganti/G1_hu_a7b02b4c2eb2ff9b.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/riganti/G2_hu_d66f1bd02d800b74.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/riganti/G3_hu_f551fcc8556e6b45.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/riganti/featured_hu_13ecd3800cffc093.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/hugogurl/</loc>
     <lastmod>2020-02-26T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/hugogurl/G1_hu_30510d69ea775167.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/hugogurl/G2_hu_e5d2f3c65a1f4410.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/hugogurl/G3_hu_73e3da69a9f5158d.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/hugogurl/G4_hu_625bdea258f54fa.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/hugogurl/G5_hu_ff82a8a5087f7635.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/hugogurl/featured_hu_7e33c825841e5950.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/build/space/</loc>
     <lastmod>2020-02-19T00:00:00+00:00</lastmod>
-  </url><url>
+    <image:image><image:loc>https://riganti.com.au/build/space/G1_hu_ef6c10739e4369e8.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/space/G2_hu_e6bdd9e9f04c01ea.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/space/G3_hu_3e648073d099e902.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/space/G4_hu_4f98d4989c66991c.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/space/G5_hu_bbcee19bcc81bffc.webp</image:loc></image:image>
+    <image:image><image:loc>https://riganti.com.au/build/space/featured_hu_783c22e1e544dab0.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://riganti.com.au/docs/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>

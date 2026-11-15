@@ -18,14 +18,14 @@
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/build/alpha/</guid>
-      <description>&lt;p&gt;This is a Remix of Balazar&amp;rsquo;s Open Alpha with bass ports. This version contains a strengthened and modified output jack that allows for the use of 2.5 and 3.5mm connectors instead of the standard Hirose connector. The Hirose connectors can be hard to source and the standard the 2.5mm connector an easy to find and more versatile substitute.&lt;/p&gt;
+      <description>&lt;p&gt;This is a Remix of Balazar&amp;rsquo;s Open Alpha with bass ports. This version contains a strengthened and modified output jack that allows for the use of 2.5 and 3.5mm connectors instead of the standard Hirose connector. The Hirose connectors can be hard to source and the standard 2.5mm connector is an easy to find and more versatile substitute.&lt;/p&gt;
 &lt;p&gt;The connector wall is thickened by 0.2mm. The output hole diameter is 5.9mm and perfectly fits the following &lt;a href=&#34;http://au.element14.com/lumberg/klb-4/connector-rca-jack-3-5mm-3way/dp/1200144?ost=1200144&amp;amp;selectedCategoryId=&amp;amp;categoryNameResp=All&amp;amp;searchView=table&amp;amp;iscrfnonsku=false&#34;&gt;Lumberg 3.5mm connector&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Massive thanks to MrSpeakers for releasing the original source files. For the best sound and to support the project purchase the Alpha pads from his &lt;a href=&#34;https://web.archive.org/web/20170510001413/https://mrspeakers.com/shop/3-accessories/alpha-pads-genuine-lamb-leather/&#34;&gt;online store.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The rest of the files and project discussion is &lt;a href=&#34;https://www.head-fi.org/f/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/&#34;&gt;here at headfi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The rest of the files and project discussion are &lt;a href=&#34;https://www.head-fi.org/f/threads/open-alpha-t50-3d-printed-headphone-project-from-mrspeakers.825868/&#34;&gt;here at headfi&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;download&#34;&gt;Download&lt;/h3&gt;
 &lt;p&gt;Downloadable on &lt;a href=&#34;https://www.thingiverse.com/thing:2326371&#34;&gt;thingiverse&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;build-process&#34;&gt;Build Process&lt;/h3&gt;
-&lt;p&gt;Print The Cups in ABS. 3.5mm connector gets installed&lt;/p&gt;
+&lt;p&gt;Print the cups in ABS. 3.5mm connector gets installed.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;lb&#34; href=&#34;https://riganti.com.au/build/alpha/I01_hu_107c16c0367acab5.webp&#34; data-pswp-width=&#34;1351&#34; data-pswp-height=&#34;901&#34; aria-label=&#34;Enlarge: Open Alpha Headphones with 3.5mm connector – build photo 1&#34;&gt;
 &lt;picture&gt;
   &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/alpha/I01_hu_e8b5488297d85e88.avif 480w, https://riganti.com.au/build/alpha/I01_hu_cf93974ec802c90f.avif 800w, https://riganti.com.au/build/alpha/I01_hu_e073eb4da88fd188.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
@@ -33,7 +33,7 @@
   &lt;img src=&#34;https://riganti.com.au/build/alpha/I01_hu_dd149ee7129ec840.jpg&#34; width=&#34;1200&#34; height=&#34;800&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 1&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
 &lt;/picture&gt;
 &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Smooth the cups in an acetone bath&lt;/p&gt;
+&lt;p&gt;Smooth the cups in an acetone bath.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;lb&#34; href=&#34;https://riganti.com.au/build/alpha/I02_hu_ef18b2a0cd771d5e.webp&#34; data-pswp-width=&#34;1351&#34; data-pswp-height=&#34;901&#34; aria-label=&#34;Enlarge: Open Alpha Headphones with 3.5mm connector – build photo 2&#34;&gt;
 &lt;picture&gt;
   &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/alpha/I02_hu_9b9ce1455afce730.avif 480w, https://riganti.com.au/build/alpha/I02_hu_df21bbfe89ce7050.avif 800w, https://riganti.com.au/build/alpha/I02_hu_b18f8065241333fa.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
@@ -80,7 +80,7 @@
   &lt;img src=&#34;https://riganti.com.au/build/alpha/I06_hu_7f5cb58098b251c5.jpg&#34; width=&#34;480&#34; height=&#34;640&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 7&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
 &lt;/picture&gt;
 &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Temporarily cable tie the headband till it dries&lt;/p&gt;
+&lt;p&gt;Temporarily cable tie the headband till it dries.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;lb&#34; href=&#34;https://riganti.com.au/build/alpha/I07_hu_3485acc25caae795.webp&#34; data-pswp-width=&#34;1201&#34; data-pswp-height=&#34;901&#34; aria-label=&#34;Enlarge: Open Alpha Headphones with 3.5mm connector – build photo 8&#34;&gt;
 &lt;picture&gt;
   &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/alpha/I07_hu_bb8592ffe572ff9c.avif 480w, https://riganti.com.au/build/alpha/I07_hu_1ba64c751363066a.avif 800w, https://riganti.com.au/build/alpha/I07_hu_7e38f39d96d0c331.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
@@ -88,7 +88,7 @@
   &lt;img src=&#34;https://riganti.com.au/build/alpha/I07_hu_899984c3d1adac47.jpg&#34; width=&#34;1200&#34; height=&#34;900&#34; alt=&#34;Open Alpha Headphones with 3.5mm connector – build photo 8&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
 &lt;/picture&gt;
 &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Enjoy your new headphones. It will require significant tweaking of wool and dampening till the sound right.&lt;/p&gt;
+&lt;p&gt;Enjoy your new headphones. It will require significant tweaking of wool and dampening till the sound is right.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;lb&#34; href=&#34;https://riganti.com.au/build/alpha/G1_hu_6ca46f25c07fb813.webp&#34; data-pswp-width=&#34;1735&#34; data-pswp-height=&#34;1157&#34; aria-label=&#34;Enlarge: Open Alpha Headphones with 3.5mm connector – build photo 9&#34;&gt;
 &lt;picture&gt;
   &lt;source type=&#34;image/avif&#34; srcset=&#34;https://riganti.com.au/build/alpha/G1_hu_bc74ed758123dfe5.avif 480w, https://riganti.com.au/build/alpha/G1_hu_fb8c11ed945a5f17.avif 800w, https://riganti.com.au/build/alpha/G1_hu_7672741bfa36d807.avif 1200w&#34; sizes=&#34;(max-width: 1100px) 100vw, 1000px&#34;&gt;
@@ -108,7 +108,7 @@
       <description>&lt;ul&gt;
 &lt;li&gt;Custom made headphone cables.&lt;/li&gt;
 &lt;li&gt;Made with Mogami star quad microphone cable.&lt;/li&gt;
-&lt;li&gt;Sheathed in various colours of paracord and finished with Neutric connectors.&lt;/li&gt;
+&lt;li&gt;Sheathed in various colours of paracord and finished with Neutrik connectors.&lt;/li&gt;
 &lt;li&gt;Braided with a quad braid&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -129,7 +129,7 @@ Designed for the tweeter to aim at ear height 2m from the speaker.&lt;/p&gt;
   &lt;img src=&#34;https://riganti.com.au/build/speaker/I01_hu_c1eee6f2ec443767.jpg&#34; width=&#34;1200&#34; height=&#34;915&#34; alt=&#34;Red Gum Angled Speaker Stands – build photo 1&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
 &lt;/picture&gt;
 &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;35x35mm merbau beams are used for the quad vertical posts
+&lt;p&gt;35x35mm merbau beams are used for the quad vertical posts.
 The merbau posts are primed and coated in Duplicolor matte black. They are cut at a 7 degree angle.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;lb&#34; href=&#34;https://riganti.com.au/build/speaker/I02_hu_c978f6af96ee800.webp&#34; data-pswp-width=&#34;1598&#34; data-pswp-height=&#34;1217&#34; aria-label=&#34;Enlarge: Red Gum Angled Speaker Stands – build photo 2&#34;&gt;
 &lt;picture&gt;
@@ -138,7 +138,7 @@ The merbau posts are primed and coated in Duplicolor matte black. They are cut a
   &lt;img src=&#34;https://riganti.com.au/build/speaker/I02_hu_45ab11d7359e440.jpg&#34; width=&#34;1200&#34; height=&#34;914&#34; alt=&#34;Red Gum Angled Speaker Stands – build photo 2&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;
 &lt;/picture&gt;
 &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;90x14mm Red Gum lengths are laminated length and depth wise to create 28mm panels
+&lt;p&gt;90x14mm Red Gum lengths are laminated length and depth wise to create 28mm panels.
 Check the fitment with the posts.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;lb&#34; href=&#34;https://riganti.com.au/build/speaker/I03_hu_766dd31e7114f780.webp&#34; data-pswp-width=&#34;1118&#34; data-pswp-height=&#34;1467&#34; aria-label=&#34;Enlarge: Red Gum Angled Speaker Stands – build photo 3&#34;&gt;
 &lt;picture&gt;
@@ -174,12 +174,12 @@ Wait a week till it is completely dry, then apply 4-5 coats of Minwax wipe on sa
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://riganti.com.au/build/he500/</guid>
-      <description>&lt;p&gt;The He500 are fantastic sounding headphones, but unfortunately have bad ergonomics due to their weight and look dated by todays standard.
+      <description>&lt;p&gt;The He500 are fantastic sounding headphones, but unfortunately have bad ergonomics due to their weight and look dated by today&amp;rsquo;s standard.
 This pair of He-500&amp;rsquo;s has been vastly improved visually and audibly with the following:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Headband swap to the new Hybrid version.&lt;/li&gt;
 &lt;li&gt;Earcup swap to He5Se cups.&lt;/li&gt;
-&lt;li&gt;Felt Fussor mode to minimize treble reflections,&lt;/li&gt;
+&lt;li&gt;Felt Fuzzor mod to minimize treble reflections,&lt;/li&gt;
 &lt;li&gt;Sorbothane dampening of earcups&lt;/li&gt;
 &lt;li&gt;3.5mm terminated instead of the finicky SMA connectors.&lt;/li&gt;
 &lt;li&gt;Replaced the restrictive grills with wider mesh and sheen fabric to open up soundstage.&lt;/li&gt;
