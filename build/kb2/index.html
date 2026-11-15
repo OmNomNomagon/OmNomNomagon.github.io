@@ -109,7 +109,7 @@
   
   
   
-  <link rel="stylesheet" href="https://riganti.com.au/css/site.min.37199a37c672a6f4ca8add6ee87d10d2.css">
+  <link rel="stylesheet" href="https://riganti.com.au/css/site.min.fb01734adbbc745377687e0d84a9d886.css">
   
 
   
@@ -486,6 +486,7 @@
         
         
         <img class="hero-blur" src="https://riganti.com.au/build/kb2/G1_hu_859ff8114086692b.webp" alt="" aria-hidden="true" loading="eager" decoding="async">
+        <a class="lb hero-zoom" href="https://riganti.com.au/build/kb2/G1_hu_689d9388d544e49c.webp" data-pswp-width="1352" data-pswp-height="901" aria-label="Enlarge: Custom Drevo Calibre Keyboard – photo 1">
         <picture class="hero-bg">
           <source type="image/avif" srcset="https://riganti.com.au/build/kb2/G1_hu_6c8795da74fc97c5.avif 1280w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
           <source type="image/webp" srcset="https://riganti.com.au/build/kb2/G1_hu_30ed04dceff3699f.webp 1280w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
@@ -493,11 +494,11 @@
                srcset="https://riganti.com.au/build/kb2/G1_hu_e7e946eadd324f8c.jpg 1280w"
                sizes="(orientation: portrait) 100vw, min(100vw, 110vh)"
                width="1352" height="901"
-               alt="Custom Drevo Calibre Keyboard – photo 1"
+               alt="Custom Drevo Calibre Keyboard – photo 1" style="view-transition-name: p-build-kb2"
                loading="eager"
                fetchpriority="high"
                decoding="sync">
-        </picture>
+        </picture></a>
       
     
 
@@ -553,6 +554,7 @@
         
         
         <img class="hero-blur" src="https://riganti.com.au/build/kb2/G2_hu_13e3052cb612a202.webp" alt="" aria-hidden="true" loading="lazy" decoding="async">
+        <a class="lb hero-zoom" href="https://riganti.com.au/build/kb2/G2_hu_9e72aa18673dff3d.webp" data-pswp-width="1201" data-pswp-height="901" aria-label="Enlarge: Custom Drevo Calibre Keyboard – photo 2">
         <picture class="hero-bg">
           <source type="image/avif" srcset="https://riganti.com.au/build/kb2/G2_hu_b95bc7296c4a2410.avif 1201w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
           <source type="image/webp" srcset="https://riganti.com.au/build/kb2/G2_hu_843f17af1f3e7fbe.webp 1201w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
@@ -564,7 +566,7 @@
                loading="lazy"
                fetchpriority="low"
                decoding="async">
-        </picture>
+        </picture></a>
       
     
 
@@ -620,6 +622,7 @@
         
         
         <img class="hero-blur" src="https://riganti.com.au/build/kb2/G3_hu_f6c2aec443b49ee3.webp" alt="" aria-hidden="true" loading="lazy" decoding="async">
+        <a class="lb hero-zoom" href="https://riganti.com.au/build/kb2/G3_hu_daf638c72797789d.webp" data-pswp-width="1183" data-pswp-height="901" aria-label="Enlarge: Custom Drevo Calibre Keyboard – photo 3">
         <picture class="hero-bg">
           <source type="image/avif" srcset="https://riganti.com.au/build/kb2/G3_hu_105e9b7aad902665.avif 1183w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
           <source type="image/webp" srcset="https://riganti.com.au/build/kb2/G3_hu_76c5c9d829bd09d8.webp 1183w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
@@ -631,7 +634,7 @@
                loading="lazy"
                fetchpriority="low"
                decoding="async">
-        </picture>
+        </picture></a>
       
     
 
@@ -760,6 +763,11 @@
 
   <div class="article-container">
 
+    <aside class="spec-card" aria-label="Build summary">
+  <p class="spec-list"><span class="spec-label">Materials</span><span>Drevo Calibur keyboard · Gateron Brown switches · PBT white keycaps · O-ring silencers · Silenced stabilizers · Case dampening</span></p>
+</aside>
+
+
     <div class="article-style" itemprop="articleBody">
       <p>A modified Drevo Calibur Keyboard with the following mods:</p>
 <ul>
@@ -772,6 +780,55 @@
 </ul>
 
     </div>
+    <link rel="stylesheet" href="https://riganti.com.au/lib/photoswipe-5.4.4/photoswipe.css" media="print" onload="this.media='all'">
+<script type="module">
+  const base = "/lib/photoswipe-5.4.4/";
+  let lightbox;
+  document.addEventListener('click', async (e) => {
+    const a = e.target.closest('a.lb');
+    
+    if (lightbox || !a || e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return;
+    e.preventDefault();
+    const { default: PhotoSwipeLightbox } = await import(base + 'photoswipe-lightbox.esm.min.js');
+    lightbox = new PhotoSwipeLightbox({
+      gallery: 'body',
+      children: 'a.lb',
+      pswpModule: () => import(base + 'photoswipe.esm.min.js'),
+      bgOpacity: 0.92,
+      showHideAnimationType: 'zoom',
+      imageClickAction: 'zoom',
+      tapAction: 'toggle-controls',
+    });
+    lightbox.addFilter('itemData', (item) => {
+      if (!item.width) {
+        const img = item.element && item.element.querySelector('img');
+        if (img && img.naturalWidth) { item.width = img.naturalWidth; item.height = img.naturalHeight; }
+        else { item.width = 1600; item.height = 1200; item.sizeGuessed = true; }   
+      }
+      return item;
+    });
+    
+    
+    lightbox.on('loadComplete', ({ content, slide }) => {
+      const img = content.element;
+      if (!content.data.sizeGuessed || !img || !img.naturalWidth || !slide) return;
+      content.data.sizeGuessed = false;
+      content.width = content.data.width = slide.width = img.naturalWidth;
+      content.height = content.data.height = slide.height = img.naturalHeight;
+      slide.calculateSize();
+      slide.zoomAndPanToInitial();
+      slide.applyCurrentZoomPan();
+      slide.updateContentSize(true);
+    });
+    
+    
+    lightbox.addFilter('thumbEl', (el, data) => (el && el.offsetParent ? el : null));
+    lightbox.init();
+    const links = [...document.querySelectorAll('a.lb')];
+    lightbox.loadAndOpen(links.indexOf(a), { gallery: document.body });
+  });
+</script>
+
 
     
 
@@ -783,6 +840,71 @@
 
 
     
+<section class="related-projects" aria-labelledby="related-h">
+  <h2 id="related-h">More projects</h2>
+  <div class="related-grid">
+    <a class="related-card" href="https://riganti.com.au/build/lamp/">
+      <picture>
+        <source type="image/avif" srcset="https://riganti.com.au/build/lamp/featured_hu_88741110e0102761.avif 360w, https://riganti.com.au/build/lamp/featured_hu_5dd8f79dc5015d2c.avif 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <source type="image/webp" srcset="https://riganti.com.au/build/lamp/featured_hu_f6f7216b6f2ec4b6.webp 360w, https://riganti.com.au/build/lamp/featured_hu_5b156fe9bee068c2.webp 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <img src="https://riganti.com.au/build/lamp/featured_hu_f03ef740ef33b6eb.jpg" width="360" height="240" alt="" style="view-transition-name: p-build-lamp" loading="lazy" decoding="async">
+      </picture>
+      <span class="related-title">Converging LED Floor Lamp</span><span class="related-tag">Woodworking</span>
+    </a>
+    <a class="related-card" href="https://riganti.com.au/build/sonoff/">
+      <picture>
+        <source type="image/avif" srcset="https://riganti.com.au/build/sonoff/featured_hu_266e9f17d8e609ff.avif 360w, https://riganti.com.au/build/sonoff/featured_hu_deec5e284efdd7c5.avif 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <source type="image/webp" srcset="https://riganti.com.au/build/sonoff/featured_hu_265abf867d7df316.webp 360w, https://riganti.com.au/build/sonoff/featured_hu_a2763b4d72ec5985.webp 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <img src="https://riganti.com.au/build/sonoff/featured_hu_a92a375b7e47b6fa.jpg" width="360" height="240" alt="" style="view-transition-name: p-build-sonoff" loading="lazy" decoding="async">
+      </picture>
+      <span class="related-title">Sonoff Dual USB</span><span class="related-tag">Electronics</span>
+    </a>
+    <a class="related-card" href="https://riganti.com.au/build/kb1/">
+      <picture>
+        <source type="image/avif" srcset="https://riganti.com.au/build/kb1/featured_hu_1ce283d090562335.avif 360w, https://riganti.com.au/build/kb1/featured_hu_f30c6587b8e4d43b.avif 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <source type="image/webp" srcset="https://riganti.com.au/build/kb1/featured_hu_2e26fdd623ae88ce.webp 360w, https://riganti.com.au/build/kb1/featured_hu_7a3b5f98080a7ecb.webp 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <img src="https://riganti.com.au/build/kb1/featured_hu_b4c44b3948ed93bd.jpg" width="360" height="240" alt="" style="view-transition-name: p-build-kb1" loading="lazy" decoding="async">
+      </picture>
+      <span class="related-title">Custom K65 RGB Keyboard</span><span class="related-tag">Electronics</span>
+    </a>
+  </div>
+</section>
+
+
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+    </div>
+
+    
+    
+    
+    </div>
+  </div>
+</article>
+
+<div class="article-container article-widget">
+  
+<nav class="post-nav" aria-label="More projects">
+  <div class="post-nav-item post-nav-item--prev">
+    <div class="meta-nav">Previous</div>
+    <a href="https://riganti.com.au/build/hook/" rel="prev">Low Poly Hook</a>
+  </div>
+  <div class="post-nav-item post-nav-item--next">
+    <div class="meta-nav">Next</div>
+    <a href="https://riganti.com.au/build/es10/" rel="next">Audio Technica ES10 Overear Pads Mod</a>
+  </div>
+</nav>
+
+  
 
 
 
@@ -868,40 +990,6 @@
   </div>
 
 
-
-
-
-    
-    
-
-    
-    
-    
-
-    
-    
-    
-    </div>
-
-    
-    
-    
-    </div>
-  </div>
-</article>
-
-<div class="article-container article-widget">
-  
-<nav class="post-nav" aria-label="More projects">
-  <div class="post-nav-item post-nav-item--prev">
-    <div class="meta-nav">Previous</div>
-    <a href="https://riganti.com.au/build/hook/" rel="prev">Low Poly Hook</a>
-  </div>
-  <div class="post-nav-item post-nav-item--next">
-    <div class="meta-nav">Next</div>
-    <a href="https://riganti.com.au/build/es10/" rel="next">Audio Technica ES10 Overear Pads Mod</a>
-  </div>
-</nav>
 
   
 <section class="comments" aria-label="Comments" data-theme-light="https://riganti.com.au/css/giscus-light.css" data-theme-dark="https://riganti.com.au/css/giscus-dark.css">

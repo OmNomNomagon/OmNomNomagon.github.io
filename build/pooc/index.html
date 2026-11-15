@@ -109,7 +109,7 @@
   
   
   
-  <link rel="stylesheet" href="https://riganti.com.au/css/site.min.37199a37c672a6f4ca8add6ee87d10d2.css">
+  <link rel="stylesheet" href="https://riganti.com.au/css/site.min.fb01734adbbc745377687e0d84a9d886.css">
   
 
   
@@ -484,6 +484,7 @@
         
         
         <img class="hero-blur" src="https://riganti.com.au/build/pooc/G1_hu_d1e2cc8b2e7031de.webp" alt="" aria-hidden="true" loading="eager" decoding="async">
+        <a class="lb hero-zoom" href="https://riganti.com.au/build/pooc/G1_hu_50e9be5e3c7258b8.webp" data-pswp-width="1749" data-pswp-height="1166" aria-label="Enlarge: Media Server Website – photo 1">
         <picture class="hero-bg">
           <source type="image/avif" srcset="https://riganti.com.au/build/pooc/G1_hu_51f21efe00b571d9.avif 1280w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
           <source type="image/webp" srcset="https://riganti.com.au/build/pooc/G1_hu_fed0634179be6714.webp 1280w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
@@ -491,11 +492,11 @@
                srcset="https://riganti.com.au/build/pooc/G1_hu_21a2dc33f7c69e54.jpg 1280w"
                sizes="(orientation: portrait) 100vw, min(100vw, 110vh)"
                width="1749" height="1166"
-               alt="Media Server Website – photo 1"
+               alt="Media Server Website – photo 1" style="view-transition-name: p-build-pooc"
                loading="eager"
                fetchpriority="high"
                decoding="sync">
-        </picture>
+        </picture></a>
       
     
 
@@ -551,6 +552,7 @@
         
         
         <img class="hero-blur" src="https://riganti.com.au/build/pooc/G2_hu_259cbe88796acd20.webp" alt="" aria-hidden="true" loading="lazy" decoding="async">
+        <a class="lb hero-zoom" href="https://riganti.com.au/build/pooc/G2_hu_8ebf2cbc9d7086c.webp" data-pswp-width="1749" data-pswp-height="1166" aria-label="Enlarge: Media Server Website – photo 2">
         <picture class="hero-bg">
           <source type="image/avif" srcset="https://riganti.com.au/build/pooc/G2_hu_b356c0e31f1e916.avif 1280w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
           <source type="image/webp" srcset="https://riganti.com.au/build/pooc/G2_hu_9a358f1df5785d8f.webp 1280w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
@@ -562,7 +564,7 @@
                loading="lazy"
                fetchpriority="low"
                decoding="async">
-        </picture>
+        </picture></a>
       
     
 
@@ -691,6 +693,11 @@
 
   <div class="article-container">
 
+    <aside class="spec-card" aria-label="Build summary">
+  <p class="spec-list"><span class="spec-label">Tools</span><span>Organizr · Nginx · Let&#39;s Encrypt · Cloudflare</span></p>
+</aside>
+
+
     <div class="article-style" itemprop="articleBody">
       <p>A organizr web server running on a home media server.
 The web server consolidates the various web services into one website.
@@ -699,6 +706,55 @@ Lets Encrypt ssl certificates are used to encrypt traffic.
 Cloudflare provides DNS and DDOS mitigation</p>
 
     </div>
+    <link rel="stylesheet" href="https://riganti.com.au/lib/photoswipe-5.4.4/photoswipe.css" media="print" onload="this.media='all'">
+<script type="module">
+  const base = "/lib/photoswipe-5.4.4/";
+  let lightbox;
+  document.addEventListener('click', async (e) => {
+    const a = e.target.closest('a.lb');
+    
+    if (lightbox || !a || e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return;
+    e.preventDefault();
+    const { default: PhotoSwipeLightbox } = await import(base + 'photoswipe-lightbox.esm.min.js');
+    lightbox = new PhotoSwipeLightbox({
+      gallery: 'body',
+      children: 'a.lb',
+      pswpModule: () => import(base + 'photoswipe.esm.min.js'),
+      bgOpacity: 0.92,
+      showHideAnimationType: 'zoom',
+      imageClickAction: 'zoom',
+      tapAction: 'toggle-controls',
+    });
+    lightbox.addFilter('itemData', (item) => {
+      if (!item.width) {
+        const img = item.element && item.element.querySelector('img');
+        if (img && img.naturalWidth) { item.width = img.naturalWidth; item.height = img.naturalHeight; }
+        else { item.width = 1600; item.height = 1200; item.sizeGuessed = true; }   
+      }
+      return item;
+    });
+    
+    
+    lightbox.on('loadComplete', ({ content, slide }) => {
+      const img = content.element;
+      if (!content.data.sizeGuessed || !img || !img.naturalWidth || !slide) return;
+      content.data.sizeGuessed = false;
+      content.width = content.data.width = slide.width = img.naturalWidth;
+      content.height = content.data.height = slide.height = img.naturalHeight;
+      slide.calculateSize();
+      slide.zoomAndPanToInitial();
+      slide.applyCurrentZoomPan();
+      slide.updateContentSize(true);
+    });
+    
+    
+    lightbox.addFilter('thumbEl', (el, data) => (el && el.offsetParent ? el : null));
+    lightbox.init();
+    const links = [...document.querySelectorAll('a.lb')];
+    lightbox.loadAndOpen(links.indexOf(a), { gallery: document.body });
+  });
+</script>
+
 
     
 
@@ -710,6 +766,71 @@ Cloudflare provides DNS and DDOS mitigation</p>
 
 
     
+<section class="related-projects" aria-labelledby="related-h">
+  <h2 id="related-h">More projects</h2>
+  <div class="related-grid">
+    <a class="related-card" href="https://riganti.com.au/build/widget/">
+      <picture>
+        <source type="image/avif" srcset="https://riganti.com.au/build/widget/featured_hu_65596d917b631e93.avif 360w, https://riganti.com.au/build/widget/featured_hu_11de213a3a51569d.avif 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <source type="image/webp" srcset="https://riganti.com.au/build/widget/featured_hu_ccedcd6275b2c4e6.webp 360w, https://riganti.com.au/build/widget/featured_hu_24211f217f70e5fe.webp 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <img src="https://riganti.com.au/build/widget/featured_hu_b0cb3c412c6b459c.jpg" width="360" height="240" alt="" style="view-transition-name: p-build-widget" loading="lazy" decoding="async">
+      </picture>
+      <span class="related-title">Download Tracking Widgets</span><span class="related-tag">Development</span>
+    </a>
+    <a class="related-card" href="https://riganti.com.au/build/riganti/">
+      <picture>
+        <source type="image/avif" srcset="https://riganti.com.au/build/riganti/featured_hu_62f1cacec1688a15.avif 360w, https://riganti.com.au/build/riganti/featured_hu_af2c016cf587ae9a.avif 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <source type="image/webp" srcset="https://riganti.com.au/build/riganti/featured_hu_65997ec0977d7120.webp 360w, https://riganti.com.au/build/riganti/featured_hu_850a20be419bcfa0.webp 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <img src="https://riganti.com.au/build/riganti/featured_hu_16a9bb2523f7dd4.jpg" width="360" height="240" alt="" style="view-transition-name: p-build-riganti" loading="lazy" decoding="async">
+      </picture>
+      <span class="related-title">riganti.com.au</span><span class="related-tag">Development</span>
+    </a>
+    <a class="related-card" href="https://riganti.com.au/build/hugogurl/">
+      <picture>
+        <source type="image/avif" srcset="https://riganti.com.au/build/hugogurl/featured_hu_6f719506a2f5d16c.avif 360w, https://riganti.com.au/build/hugogurl/featured_hu_430b85a817d622d4.avif 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <source type="image/webp" srcset="https://riganti.com.au/build/hugogurl/featured_hu_6620ee6db0c6d647.webp 360w, https://riganti.com.au/build/hugogurl/featured_hu_15655d547c6d5ebf.webp 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <img src="https://riganti.com.au/build/hugogurl/featured_hu_5c48053ddd4a9a56.jpg" width="360" height="240" alt="" style="view-transition-name: p-build-hugogurl" loading="lazy" decoding="async">
+      </picture>
+      <span class="related-title">Hugo-Gurl - Hugo GUI tool</span><span class="related-tag">Development</span>
+    </a>
+  </div>
+</section>
+
+
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+    </div>
+
+    
+    
+    
+    </div>
+  </div>
+</article>
+
+<div class="article-container article-widget">
+  
+<nav class="post-nav" aria-label="More projects">
+  <div class="post-nav-item post-nav-item--prev">
+    <div class="meta-nav">Previous</div>
+    <a href="https://riganti.com.au/build/widget/" rel="prev">Download Tracking Widgets</a>
+  </div>
+  <div class="post-nav-item post-nav-item--next">
+    <div class="meta-nav">Next</div>
+    <a href="https://riganti.com.au/build/wanhao/" rel="next">Wanhao i3 Straight Braces</a>
+  </div>
+</nav>
+
+  
 
 
 
@@ -795,40 +916,6 @@ Cloudflare provides DNS and DDOS mitigation</p>
   </div>
 
 
-
-
-
-    
-    
-
-    
-    
-    
-
-    
-    
-    
-    </div>
-
-    
-    
-    
-    </div>
-  </div>
-</article>
-
-<div class="article-container article-widget">
-  
-<nav class="post-nav" aria-label="More projects">
-  <div class="post-nav-item post-nav-item--prev">
-    <div class="meta-nav">Previous</div>
-    <a href="https://riganti.com.au/build/widget/" rel="prev">Download Tracking Widgets</a>
-  </div>
-  <div class="post-nav-item post-nav-item--next">
-    <div class="meta-nav">Next</div>
-    <a href="https://riganti.com.au/build/wanhao/" rel="next">Wanhao i3 Straight Braces</a>
-  </div>
-</nav>
 
   
 <section class="comments" aria-label="Comments" data-theme-light="https://riganti.com.au/css/giscus-light.css" data-theme-dark="https://riganti.com.au/css/giscus-dark.css">

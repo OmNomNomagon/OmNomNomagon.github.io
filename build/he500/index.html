@@ -109,7 +109,7 @@
   
   
   
-  <link rel="stylesheet" href="https://riganti.com.au/css/site.min.37199a37c672a6f4ca8add6ee87d10d2.css">
+  <link rel="stylesheet" href="https://riganti.com.au/css/site.min.fb01734adbbc745377687e0d84a9d886.css">
   
 
   
@@ -486,6 +486,7 @@
         
         
         <img class="hero-blur" src="https://riganti.com.au/build/he500/G1_hu_58a63557d31ef63c.webp" alt="" aria-hidden="true" loading="eager" decoding="async">
+        <a class="lb hero-zoom" href="https://riganti.com.au/build/he500/G1_hu_828408a9442bb185.webp" data-pswp-width="302" data-pswp-height="201" aria-label="Enlarge: HiFiman He-500 Mods – photo 1">
         <picture class="hero-bg">
           <source type="image/avif" srcset="https://riganti.com.au/build/he500/G1_hu_3a4bbfd733a90c33.avif 302w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
           <source type="image/webp" srcset="https://riganti.com.au/build/he500/G1_hu_687ebf8b00e21199.webp 302w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
@@ -493,11 +494,11 @@
                srcset="https://riganti.com.au/build/he500/G1_hu_a8293cabff28d463.jpg 302w"
                sizes="(orientation: portrait) 100vw, min(100vw, 110vh)"
                width="302" height="201"
-               alt="HiFiman He-500 Mods – photo 1"
+               alt="HiFiman He-500 Mods – photo 1" style="view-transition-name: p-build-he500"
                loading="eager"
                fetchpriority="high"
                decoding="sync">
-        </picture>
+        </picture></a>
       
     
 
@@ -553,6 +554,7 @@
         
         
         <img class="hero-blur" src="https://riganti.com.au/build/he500/G2_hu_833001433c965dc5.webp" alt="" aria-hidden="true" loading="lazy" decoding="async">
+        <a class="lb hero-zoom" href="https://riganti.com.au/build/he500/G2_hu_a477b3caab24b649.webp" data-pswp-width="1735" data-pswp-height="1157" aria-label="Enlarge: HiFiman He-500 Mods – photo 2">
         <picture class="hero-bg">
           <source type="image/avif" srcset="https://riganti.com.au/build/he500/G2_hu_1cbb600a61fcc681.avif 1280w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
           <source type="image/webp" srcset="https://riganti.com.au/build/he500/G2_hu_ba4c7097c36ecc7.webp 1280w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
@@ -564,7 +566,7 @@
                loading="lazy"
                fetchpriority="low"
                decoding="async">
-        </picture>
+        </picture></a>
       
     
 
@@ -620,6 +622,7 @@
         
         
         <img class="hero-blur" src="https://riganti.com.au/build/he500/G3_hu_5919078c1b0f320c.webp" alt="" aria-hidden="true" loading="lazy" decoding="async">
+        <a class="lb hero-zoom" href="https://riganti.com.au/build/he500/G3_hu_2a5de3516a6422e2.webp" data-pswp-width="1735" data-pswp-height="1157" aria-label="Enlarge: HiFiman He-500 Mods – photo 3">
         <picture class="hero-bg">
           <source type="image/avif" srcset="https://riganti.com.au/build/he500/G3_hu_e04df6e695d2e1c7.avif 1280w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
           <source type="image/webp" srcset="https://riganti.com.au/build/he500/G3_hu_fbdc483aa5c9077d.webp 1280w" sizes="(orientation: portrait) 100vw, min(100vw, 110vh)">
@@ -631,7 +634,7 @@
                loading="lazy"
                fetchpriority="low"
                decoding="async">
-        </picture>
+        </picture></a>
       
     
 
@@ -760,6 +763,11 @@
 
   <div class="article-container">
 
+    <aside class="spec-card" aria-label="Build summary">
+  <p class="spec-list"><span class="spec-label">Materials</span><span>HE-500 hybrid headband · HE5SE earcups · Felt (fuzzor mod) · Sorbothane · 3.5mm connectors · Focus Pad A / Jergpads</span></p>
+</aside>
+
+
     <div class="article-style" itemprop="articleBody">
       <p>The He500 are fantastic sounding headphones, but unfortunately have bad ergonomics due to their weight and look dated by todays standard.
 This pair of He-500&rsquo;s has been vastly improved visually and audibly with the following:</p>
@@ -775,6 +783,55 @@ This pair of He-500&rsquo;s has been vastly improved visually and audibly with t
 </ul>
 
     </div>
+    <link rel="stylesheet" href="https://riganti.com.au/lib/photoswipe-5.4.4/photoswipe.css" media="print" onload="this.media='all'">
+<script type="module">
+  const base = "/lib/photoswipe-5.4.4/";
+  let lightbox;
+  document.addEventListener('click', async (e) => {
+    const a = e.target.closest('a.lb');
+    
+    if (lightbox || !a || e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return;
+    e.preventDefault();
+    const { default: PhotoSwipeLightbox } = await import(base + 'photoswipe-lightbox.esm.min.js');
+    lightbox = new PhotoSwipeLightbox({
+      gallery: 'body',
+      children: 'a.lb',
+      pswpModule: () => import(base + 'photoswipe.esm.min.js'),
+      bgOpacity: 0.92,
+      showHideAnimationType: 'zoom',
+      imageClickAction: 'zoom',
+      tapAction: 'toggle-controls',
+    });
+    lightbox.addFilter('itemData', (item) => {
+      if (!item.width) {
+        const img = item.element && item.element.querySelector('img');
+        if (img && img.naturalWidth) { item.width = img.naturalWidth; item.height = img.naturalHeight; }
+        else { item.width = 1600; item.height = 1200; item.sizeGuessed = true; }   
+      }
+      return item;
+    });
+    
+    
+    lightbox.on('loadComplete', ({ content, slide }) => {
+      const img = content.element;
+      if (!content.data.sizeGuessed || !img || !img.naturalWidth || !slide) return;
+      content.data.sizeGuessed = false;
+      content.width = content.data.width = slide.width = img.naturalWidth;
+      content.height = content.data.height = slide.height = img.naturalHeight;
+      slide.calculateSize();
+      slide.zoomAndPanToInitial();
+      slide.applyCurrentZoomPan();
+      slide.updateContentSize(true);
+    });
+    
+    
+    lightbox.addFilter('thumbEl', (el, data) => (el && el.offsetParent ? el : null));
+    lightbox.init();
+    const links = [...document.querySelectorAll('a.lb')];
+    lightbox.loadAndOpen(links.indexOf(a), { gallery: document.body });
+  });
+</script>
+
 
     
 
@@ -786,6 +843,71 @@ This pair of He-500&rsquo;s has been vastly improved visually and audibly with t
 
 
     
+<section class="related-projects" aria-labelledby="related-h">
+  <h2 id="related-h">More projects</h2>
+  <div class="related-grid">
+    <a class="related-card" href="https://riganti.com.au/build/alpha/">
+      <picture>
+        <source type="image/avif" srcset="https://riganti.com.au/build/alpha/featured_hu_db8fcb479c44a96a.avif 360w, https://riganti.com.au/build/alpha/featured_hu_db4ab1870cba3e5d.avif 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <source type="image/webp" srcset="https://riganti.com.au/build/alpha/featured_hu_4a16ce221fbfe8b6.webp 360w, https://riganti.com.au/build/alpha/featured_hu_189428f23c9eb65c.webp 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <img src="https://riganti.com.au/build/alpha/featured_hu_a53b09d7275a2cbc.jpg" width="360" height="240" alt="" style="view-transition-name: p-build-alpha" loading="lazy" decoding="async">
+      </picture>
+      <span class="related-title">Open Alpha 3.5mm Headphones</span><span class="related-tag">3D Cad &amp; Design</span>
+    </a>
+    <a class="related-card" href="https://riganti.com.au/build/cable/">
+      <picture>
+        <source type="image/avif" srcset="https://riganti.com.au/build/cable/featured_hu_6519aeb99daeda59.avif 360w, https://riganti.com.au/build/cable/featured_hu_daad274a39b874d3.avif 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <source type="image/webp" srcset="https://riganti.com.au/build/cable/featured_hu_1ea53286a6b5cb34.webp 360w, https://riganti.com.au/build/cable/featured_hu_f1f0eb3cc718d169.webp 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <img src="https://riganti.com.au/build/cable/featured_hu_5c3da862315f96b9.jpg" width="360" height="240" alt="" style="view-transition-name: p-build-cable" loading="lazy" decoding="async">
+      </picture>
+      <span class="related-title">Quad Braided Headphone Cables</span><span class="related-tag">Audio</span>
+    </a>
+    <a class="related-card" href="https://riganti.com.au/build/speaker/">
+      <picture>
+        <source type="image/avif" srcset="https://riganti.com.au/build/speaker/featured_hu_aa6486a4a98844c7.avif 360w, https://riganti.com.au/build/speaker/featured_hu_b1f33ba8bacfdadd.avif 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <source type="image/webp" srcset="https://riganti.com.au/build/speaker/featured_hu_9e6becaa74b8293f.webp 360w, https://riganti.com.au/build/speaker/featured_hu_b65545a6cc724154.webp 720w" sizes="(max-width: 575px) 100vw, 320px">
+        <img src="https://riganti.com.au/build/speaker/featured_hu_a94f7121f55292c8.jpg" width="360" height="240" alt="" style="view-transition-name: p-build-speaker" loading="lazy" decoding="async">
+      </picture>
+      <span class="related-title">Red Gum Speaker Stands</span><span class="related-tag">Audio</span>
+    </a>
+  </div>
+</section>
+
+
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+    </div>
+
+    
+    
+    
+    </div>
+  </div>
+</article>
+
+<div class="article-container article-widget">
+  
+<nav class="post-nav" aria-label="More projects">
+  <div class="post-nav-item post-nav-item--prev">
+    <div class="meta-nav">Previous</div>
+    <a href="https://riganti.com.au/build/es10/" rel="prev">Audio Technica ES10 Overear Pads Mod</a>
+  </div>
+  <div class="post-nav-item post-nav-item--next">
+    <div class="meta-nav">Next</div>
+    <a href="https://riganti.com.au/build/kb1/" rel="next">Custom K65 RGB Keyboard</a>
+  </div>
+</nav>
+
+  
 
 
 
@@ -871,40 +993,6 @@ This pair of He-500&rsquo;s has been vastly improved visually and audibly with t
   </div>
 
 
-
-
-
-    
-    
-
-    
-    
-    
-
-    
-    
-    
-    </div>
-
-    
-    
-    
-    </div>
-  </div>
-</article>
-
-<div class="article-container article-widget">
-  
-<nav class="post-nav" aria-label="More projects">
-  <div class="post-nav-item post-nav-item--prev">
-    <div class="meta-nav">Previous</div>
-    <a href="https://riganti.com.au/build/es10/" rel="prev">Audio Technica ES10 Overear Pads Mod</a>
-  </div>
-  <div class="post-nav-item post-nav-item--next">
-    <div class="meta-nav">Next</div>
-    <a href="https://riganti.com.au/build/kb1/" rel="next">Custom K65 RGB Keyboard</a>
-  </div>
-</nav>
 
   
 <section class="comments" aria-label="Comments" data-theme-light="https://riganti.com.au/css/giscus-light.css" data-theme-dark="https://riganti.com.au/css/giscus-dark.css">

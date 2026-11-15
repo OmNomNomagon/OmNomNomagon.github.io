@@ -109,7 +109,7 @@
   
   
   
-  <link rel="stylesheet" href="https://riganti.com.au/css/site.min.37199a37c672a6f4ca8add6ee87d10d2.css">
+  <link rel="stylesheet" href="https://riganti.com.au/css/site.min.fb01734adbbc745377687e0d84a9d886.css">
   
 
   
@@ -520,11 +520,11 @@
 <li>POM TR8x8 leadscrew nuts, seem to have a lot less play than the normal brass nuts.</li>
 <li>Replacement Y carriage plate. The stock one is heavy and warps very easily.</li>
 </ul>
-<p><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/1%20Glamor%20Shots/Close.jpg?raw=true" alt="5.1. Recommendations &amp; Future Dev – build photo 1" loading="lazy" decoding="async"></p>
+<p><a class="lb" href="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/1%20Glamor%20Shots/Close.jpg?raw=true" aria-label="Enlarge: 5.1. Recommendations &amp; Future Dev – build photo 1"><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/1%20Glamor%20Shots/Close.jpg?raw=true" alt="5.1. Recommendations &amp; Future Dev – build photo 1" loading="lazy" decoding="async"></a></p>
 <p>I intend to keep this project up to date with the newest improvements from the Prusa i3 mk3s as they become available.</p>
 <h2 id="sample-prints">Sample Prints</h2>
-<p><img src="https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/boaty2.JPG" alt="boatyMcboat" loading="lazy" decoding="async"></p>
-<p><img src="https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/samplePrints.JPG" alt="boatyMcboat" loading="lazy" decoding="async"></p>
+<p><a class="lb" href="https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/boaty2.JPG" aria-label="Enlarge: boatyMcboat"><img src="https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/boaty2.JPG" alt="boatyMcboat" loading="lazy" decoding="async"></a></p>
+<p><a class="lb" href="https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/samplePrints.JPG" aria-label="Enlarge: boatyMcboat"><img src="https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/samplePrints.JPG" alt="boatyMcboat" loading="lazy" decoding="async"></a></p>
 <h2 id="future-improvements">Future improvements</h2>
 <p>this may include:</p>
 <ul>
@@ -538,6 +538,55 @@
 </ul>
 
           </div>
+          <link rel="stylesheet" href="https://riganti.com.au/lib/photoswipe-5.4.4/photoswipe.css" media="print" onload="this.media='all'">
+<script type="module">
+  const base = "/lib/photoswipe-5.4.4/";
+  let lightbox;
+  document.addEventListener('click', async (e) => {
+    const a = e.target.closest('a.lb');
+    
+    if (lightbox || !a || e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return;
+    e.preventDefault();
+    const { default: PhotoSwipeLightbox } = await import(base + 'photoswipe-lightbox.esm.min.js');
+    lightbox = new PhotoSwipeLightbox({
+      gallery: 'body',
+      children: 'a.lb',
+      pswpModule: () => import(base + 'photoswipe.esm.min.js'),
+      bgOpacity: 0.92,
+      showHideAnimationType: 'zoom',
+      imageClickAction: 'zoom',
+      tapAction: 'toggle-controls',
+    });
+    lightbox.addFilter('itemData', (item) => {
+      if (!item.width) {
+        const img = item.element && item.element.querySelector('img');
+        if (img && img.naturalWidth) { item.width = img.naturalWidth; item.height = img.naturalHeight; }
+        else { item.width = 1600; item.height = 1200; item.sizeGuessed = true; }   
+      }
+      return item;
+    });
+    
+    
+    lightbox.on('loadComplete', ({ content, slide }) => {
+      const img = content.element;
+      if (!content.data.sizeGuessed || !img || !img.naturalWidth || !slide) return;
+      content.data.sizeGuessed = false;
+      content.width = content.data.width = slide.width = img.naturalWidth;
+      content.height = content.data.height = slide.height = img.naturalHeight;
+      slide.calculateSize();
+      slide.zoomAndPanToInitial();
+      slide.applyCurrentZoomPan();
+      slide.updateContentSize(true);
+    });
+    
+    
+    lightbox.addFilter('thumbEl', (el, data) => (el && el.offsetParent ? el : null));
+    lightbox.init();
+    const links = [...document.querySelectorAll('a.lb')];
+    lightbox.loadAndOpen(links.indexOf(a), { gallery: document.body });
+  });
+</script>
+
 
           
 

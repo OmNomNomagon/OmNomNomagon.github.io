@@ -109,7 +109,7 @@
   
   
   
-  <link rel="stylesheet" href="https://riganti.com.au/css/site.min.37199a37c672a6f4ca8add6ee87d10d2.css">
+  <link rel="stylesheet" href="https://riganti.com.au/css/site.min.fb01734adbbc745377687e0d84a9d886.css">
   
 
   
@@ -679,7 +679,7 @@
 <p>14x Corner Brackets 30x30x25 - Importantly these should be reversible or only be tabbed on one side! We are stacking two extrusions perpendicular on top of eachother. If they are fully tabbed on both sides they will NOT fit. HBLFSNB6 with low profile T-nuts or the single tabbed version HBLFSNK6.</p>
 </li>
 </ul>
-<p><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/CornerBracket.JPG?raw=true" alt="1.1 Bill Of Materials – build photo 1" loading="lazy" decoding="async"></p>
+<p><a class="lb" href="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/CornerBracket.JPG?raw=true" aria-label="Enlarge: 1.1 Bill Of Materials – build photo 1"><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/CornerBracket.JPG?raw=true" alt="1.1 Bill Of Materials – build photo 1" loading="lazy" decoding="async"></a></p>
 <ul>
 <li>
 <p>8x Aluminium Corner plates with 4 mounting holes. The legs and printed corner parts are all based on the misumi hole spacing HPTLS6.</p>
@@ -697,7 +697,7 @@
 <p>80 M5 T-Nuts. Drop in T-nuts are recommended as they are easier to work with. Some drop in T-Nuts have a longer neck which can cause issues with the Misumi HBLFSNB6 corner brackets. One side of the bracket is protruded, so that even when screwed in very tightly they don&rsquo;t apply enough compression force to secure the frame. In this case 14 T-nuts can be substituted with flat style ones, or pieces of fibre washers can be glued into the grooved areas to reduce the protrusion depth. Misumi also have t-nuts designed specifically for this bracket HNTT6-5. 14 of these can be used.</p>
 </li>
 </ul>
-<p><img src="https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK3x/master/Pics/1%20Glamor%20Shots/Tnutmod.jpg" alt="Tnut mod for corner brackets protrusions" loading="lazy" decoding="async"></p>
+<p><a class="lb" href="https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK3x/master/Pics/1%20Glamor%20Shots/Tnutmod.jpg" aria-label="Enlarge: Tnut mod for corner brackets protrusions"><img src="https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK3x/master/Pics/1%20Glamor%20Shots/Tnutmod.jpg" alt="Tnut mod for corner brackets protrusions" loading="lazy" decoding="async"></a></p>
 <ul>
 <li>
 <p>1x M5 20-25 mm Button Head screw (low profile) The head needs to be 4.2mm or less long as this sits between the idler part and the leadscrew.</p>
@@ -748,7 +748,7 @@
 <p>50mm Blower Fan. Hopefully you should already have one of these in your arsenal as they make a huge improvement to print quality</p>
 </li>
 </ul>
-<p><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Fasteners.jpg?raw=true" alt="Fasteners required" loading="lazy" decoding="async"></p>
+<p><a class="lb" href="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Fasteners.jpg?raw=true" aria-label="Enlarge: Fasteners required"><img src="https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/2%20Bottom%20Frame/Fasteners.jpg?raw=true" alt="Fasteners required" loading="lazy" decoding="async"></a></p>
 <h3 id="summarised-misumi-parts-list">Summarised Misumi Parts List</h3>
 <ul>
 <li>HFSLB6-3030-355	2</li>
@@ -772,6 +772,55 @@ HFS-3030 (Standard) or any other type of 3030 can be substituted instead.</p>
 </ul>
 
           </div>
+          <link rel="stylesheet" href="https://riganti.com.au/lib/photoswipe-5.4.4/photoswipe.css" media="print" onload="this.media='all'">
+<script type="module">
+  const base = "/lib/photoswipe-5.4.4/";
+  let lightbox;
+  document.addEventListener('click', async (e) => {
+    const a = e.target.closest('a.lb');
+    
+    if (lightbox || !a || e.ctrlKey || e.metaKey || e.shiftKey || e.button !== 0) return;
+    e.preventDefault();
+    const { default: PhotoSwipeLightbox } = await import(base + 'photoswipe-lightbox.esm.min.js');
+    lightbox = new PhotoSwipeLightbox({
+      gallery: 'body',
+      children: 'a.lb',
+      pswpModule: () => import(base + 'photoswipe.esm.min.js'),
+      bgOpacity: 0.92,
+      showHideAnimationType: 'zoom',
+      imageClickAction: 'zoom',
+      tapAction: 'toggle-controls',
+    });
+    lightbox.addFilter('itemData', (item) => {
+      if (!item.width) {
+        const img = item.element && item.element.querySelector('img');
+        if (img && img.naturalWidth) { item.width = img.naturalWidth; item.height = img.naturalHeight; }
+        else { item.width = 1600; item.height = 1200; item.sizeGuessed = true; }   
+      }
+      return item;
+    });
+    
+    
+    lightbox.on('loadComplete', ({ content, slide }) => {
+      const img = content.element;
+      if (!content.data.sizeGuessed || !img || !img.naturalWidth || !slide) return;
+      content.data.sizeGuessed = false;
+      content.width = content.data.width = slide.width = img.naturalWidth;
+      content.height = content.data.height = slide.height = img.naturalHeight;
+      slide.calculateSize();
+      slide.zoomAndPanToInitial();
+      slide.applyCurrentZoomPan();
+      slide.updateContentSize(true);
+    });
+    
+    
+    lightbox.addFilter('thumbEl', (el, data) => (el && el.offsetParent ? el : null));
+    lightbox.init();
+    const links = [...document.querySelectorAll('a.lb')];
+    lightbox.loadAndOpen(links.indexOf(a), { gallery: document.body });
+  });
+</script>
+
 
           
 
